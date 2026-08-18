@@ -1,0 +1,61 @@
+name: Housing scraper
+
+on:
+  schedule:
+    # Every 10 minutes. GitHub cron is best-effort: under load, scheduled runs
+    # are commonly delayed by 10-30 minutes. This is as fast as free CI gets.
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Never let two runs overlap: both would read the same seen_listings.json and
+# the slower one would clobber the faster one's state on push.
+concurrency:
+  group: housing-scraper
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          SMTP_EMAIL: ${{ secrets.SMTP_EMAIL }}
+          SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
+          ALERT_RECIPIENT_EMAIL: ${{ secrets.ALERT_RECIPIENT_EMAIL }}
+        run: python main.py
+
+      - name: Commit updated state
+        run: |
+          if [[ -z "$(git status --porcelain data/seen_listings.json)" ]]; then
+            echo "No new listings; nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/seen_listings.json
+          git commit -m "chore: update seen listings [skip ci]"
+          # Another run may have pushed while we were scraping; rebase onto it
+          # rather than failing or force-pushing over its state.
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && \
+            git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            echo "push attempt $i failed, retrying..."
+            sleep 5
+          done
+          exit 1
