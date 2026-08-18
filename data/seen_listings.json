@@ -71,6 +71,14 @@
     "title": "Room in the attic (2nd floor)",
     "url": "https://kamernet.nl/en/for-rent/room-bilthoven/putterlaan/room-1723592"
   },
+  "kamernet:2201046": {
+    "city": "Monnickendam",
+    "first_seen": "2026-08-18T17:57:02+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Oranjestraat, Monnickendam",
+    "url": "https://kamernet.nl/en/for-rent/room-monnickendam/oranjestraat/room-2201046"
+  },
   "kamernet:2324583": {
     "city": "Hoofddorp",
     "first_seen": "2026-08-18T16:22:37+00:00",
