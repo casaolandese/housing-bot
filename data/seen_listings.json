@@ -878,5 +878,13 @@
     "price": 1500,
     "title": "Buitenplein, Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/buitenplein/room-2400690"
+  },
+  "kamernet:2400748": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-18T16:40:58+00:00",
+    "notified": true,
+    "price": 450,
+    "title": "Sevenwoods",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/zevenwouden/room-2400748"
   }
 }
