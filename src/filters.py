@@ -40,6 +40,8 @@ def check_cheap(listing: Listing) -> Tuple[bool, str]:
     """Filters that need no extra HTTP request. Run before enrichment."""
     if listing.price is None:
         return False, "no price found"
+    if listing.price < config.MIN_RENT:
+        return False, f"price EUR{listing.price} implausibly low (data error)"
     if listing.price > config.MAX_RENT:
         return False, f"price EUR{listing.price} > EUR{config.MAX_RENT}"
     if listing.city and listing.city.strip().lower() not in config.CITY_ALLOWLIST:

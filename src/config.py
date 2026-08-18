@@ -32,6 +32,9 @@ CITY_ALLOWLIST = {
 
 MAX_RENT = int(os.getenv("MAX_RENT", "900"))
 MIN_SURFACE = 6           # m2; below this is almost always a mislabelled listing
+# Sanity floor: sub-EUR-200 "rooms" are data errors (price per day/week, or a
+# placeholder), not real offers. Seen live on Kamernet.
+MIN_RENT = 200
 
 # Move-in window: September / October 2026, plus anything available sooner
 # (immediate move-in is always acceptable).
