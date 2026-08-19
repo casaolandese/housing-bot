@@ -1054,5 +1054,21 @@
     "price": 1080,
     "title": "Bosrankstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bosrankstraat/room-2400898"
+  },
+  "kamernet:2400912": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T11:59:00+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Camperstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/camperstraat/room-2400912"
+  },
+  "kamernet:2400924": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T11:59:00+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Room for rent!!",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koppenburglaan/room-2400924"
   }
 }
