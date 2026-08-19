@@ -910,5 +910,13 @@
     "price": 535,
     "title": "Javalaan, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/javalaan/room-2400768"
+  },
+  "kamernet:2400830": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-19T06:04:27+00:00",
+    "notified": true,
+    "price": 866,
+    "title": "Penthouse in the heart of Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/vleutenseweg/room-2400830"
   }
 }
