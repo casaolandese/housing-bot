@@ -7,6 +7,22 @@
     "title": "Nachtegaalstraat, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/nachtegaalstraat/kamer-518578"
   },
+  "directwonen:518580": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-19T14:09:15+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Pauwstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/pauwstraat/studio-518580"
+  },
+  "directwonen:518581": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-19T14:09:15+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Rapenburchdreef, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/rapenburchdreef/studio-518581"
+  },
   "directwonen:518766": {
     "city": "Amsterdam",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -278,6 +294,14 @@
     "price": 365,
     "title": "Kamer vrij in Nieuwegein – 1 september tot 1 mei",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/beverweide/room-2398222"
+  },
+  "kamernet:2398444": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T14:09:15+00:00",
+    "notified": false,
+    "price": 1325,
+    "title": "Elzenhagensingel, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elzenhagensingel/room-2398444"
   },
   "kamernet:2398478": {
     "city": "Utrecht",
@@ -1070,5 +1094,45 @@
     "price": 800,
     "title": "Room for rent!!",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koppenburglaan/room-2400924"
+  },
+  "kamernet:2400936": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T14:09:15+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Kamer",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/coffijboomstraat/room-2400936"
+  },
+  "kamernet:2400941": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T14:09:15+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "New furnished room (ONLY WOMEN)",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/overschiestraat/room-2400941"
+  },
+  "kamernet:2400947": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T14:09:15+00:00",
+    "notified": true,
+    "price": 750,
+    "title": "room for rent Amsterdam city center",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwe-prinsengracht/room-2400947"
+  },
+  "kamernet:2400952": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T14:09:15+00:00",
+    "notified": false,
+    "price": 1800,
+    "title": "Derde Oosterparkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/derde-oosterparkstraat/room-2400952"
+  },
+  "kamernet:2400964": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-19T14:09:15+00:00",
+    "notified": true,
+    "price": 550,
+    "title": "Te huur: knusse studentenkamer in het gezellige Ut",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/twijnstraat/room-2400964"
   }
 }
