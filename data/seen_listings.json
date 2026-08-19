@@ -1046,5 +1046,13 @@
     "price": 800,
     "title": "Room for rent",
     "url": "https://kamernet.nl/en/for-rent/room-de-meern/keerkring/room-2400875"
+  },
+  "kamernet:2400898": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T11:00:05+00:00",
+    "notified": false,
+    "price": 1080,
+    "title": "Bosrankstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bosrankstraat/room-2400898"
   }
 }
