@@ -303,6 +303,14 @@
     "title": "Orteliusstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/orteliusstraat/room-2399005"
   },
+  "kamernet:2399099": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T09:54:55+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Room with a balcony in Osdorp for 2-3 month stay",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/meer-en-vaart/room-2399099"
+  },
   "kamernet:2399137": {
     "city": "Haarlem",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -1022,5 +1030,21 @@
     "price": 900,
     "title": "Light  and fully furnished room for rent",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/arent-janszoon-ernststraat/room-2400855"
+  },
+  "kamernet:2400874": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T09:54:55+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Haarlemmerweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/haarlemmerweg/room-2400874"
+  },
+  "kamernet:2400875": {
+    "city": "De Meern",
+    "first_seen": "2026-08-19T09:54:55+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-de-meern/keerkring/room-2400875"
   }
 }
