@@ -559,6 +559,14 @@
     "title": "Zoomstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/zoomstraat/room-2400080"
   },
+  "kamernet:2400091": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T17:02:00+00:00",
+    "notified": false,
+    "price": 440,
+    "title": "Sunny room with a kitchen.",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hermitagelaan/room-2400091"
+  },
   "kamernet:2400129": {
     "city": "Zeist",
     "first_seen": "2026-08-18T16:22:37+00:00",
