@@ -1134,5 +1134,21 @@
     "price": 550,
     "title": "Te huur: knusse studentenkamer in het gezellige Ut",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/twijnstraat/room-2400964"
+  },
+  "kamernet:2400971": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T15:52:16+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Amstelplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/amstelplein/room-2400971"
+  },
+  "kamernet:2400977": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T15:52:16+00:00",
+    "notified": true,
+    "price": 725,
+    "title": "Kamer te huur",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/1e-kekerstraat/room-2400977"
   }
 }
