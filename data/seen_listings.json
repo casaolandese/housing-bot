@@ -71,6 +71,14 @@
     "title": "Room in the attic (2nd floor)",
     "url": "https://kamernet.nl/en/for-rent/room-bilthoven/putterlaan/room-1723592"
   },
+  "kamernet:1945465": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T08:04:56+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Groenburgwal, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/groenburgwal/room-1945465"
+  },
   "kamernet:2201046": {
     "city": "Monnickendam",
     "first_seen": "2026-08-18T17:57:02+00:00",
@@ -903,6 +911,22 @@
     "title": "Sevenwoods",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/zevenwouden/room-2400748"
   },
+  "kamernet:2400757": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T08:04:56+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Pietersbergweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pietersbergweg/room-2400757"
+  },
+  "kamernet:2400763": {
+    "city": "Zaandam",
+    "first_seen": "2026-08-19T08:04:56+00:00",
+    "notified": true,
+    "price": 850,
+    "title": ".",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/barbara-van-meertenstraat/room-2400763"
+  },
   "kamernet:2400768": {
     "city": "Hilversum",
     "first_seen": "2026-08-18T20:44:39+00:00",
@@ -911,6 +935,46 @@
     "title": "Javalaan, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/javalaan/room-2400768"
   },
+  "kamernet:2400772": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-19T08:04:56+00:00",
+    "notified": true,
+    "price": 850,
+    "title": ".",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/huizingalaan/room-2400772"
+  },
+  "kamernet:2400792": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T08:04:56+00:00",
+    "notified": false,
+    "price": 1220,
+    "title": "Omval, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/omval/room-2400792"
+  },
+  "kamernet:2400809": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T08:04:56+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Anna Blamansingel, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/anna-blamansingel/room-2400809"
+  },
+  "kamernet:2400819": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T08:04:56+00:00",
+    "notified": false,
+    "price": 100,
+    "title": "Ochtenhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ochtenhof/room-2400819"
+  },
+  "kamernet:2400828": {
+    "city": "Zeist",
+    "first_seen": "2026-08-19T08:04:56+00:00",
+    "notified": false,
+    "price": 499,
+    "title": "Onderhuurder gezocht Zeist!",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/warande/room-2400828"
+  },
   "kamernet:2400830": {
     "city": "Utrecht",
     "first_seen": "2026-08-19T06:04:27+00:00",
@@ -918,5 +982,45 @@
     "price": 866,
     "title": "Penthouse in the heart of Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/vleutenseweg/room-2400830"
+  },
+  "kamernet:2400833": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T08:04:56+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Emfuleni, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/emfuleni/room-2400833"
+  },
+  "kamernet:2400838": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T08:04:56+00:00",
+    "notified": false,
+    "price": 85,
+    "title": "Wibautstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wibautstraat/room-2400838"
+  },
+  "kamernet:2400848": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T08:04:56+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Jan Muschstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-muschstraat/room-2400848"
+  },
+  "kamernet:2400850": {
+    "city": "Haarlem",
+    "first_seen": "2026-08-19T08:04:56+00:00",
+    "notified": false,
+    "price": 749,
+    "title": "Nette kamer midden in Haarlem centrum",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/barrevoetestraat/room-2400850"
+  },
+  "kamernet:2400855": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-19T08:04:56+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Light  and fully furnished room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/arent-janszoon-ernststraat/room-2400855"
   }
 }
