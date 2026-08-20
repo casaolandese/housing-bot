@@ -1262,5 +1262,85 @@
     "price": 995,
     "title": "Van Lennepstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-lennepstraat/room-2401056"
+  },
+  "kamernet:2401139": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-20T14:20:56+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "TEMPORARY SUBRENT Sept 5 – Oct 3",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gorontalostraat/room-2401139"
+  },
+  "kamernet:2401152": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-20T14:20:56+00:00",
+    "notified": true,
+    "price": 700,
+    "title": "Nice room, fully furnished",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/handboogstraat/room-2401152"
+  },
+  "kamernet:2401166": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-20T14:20:56+00:00",
+    "notified": true,
+    "price": 740,
+    "title": "Te huur: Gemeubileerde kamers met bad en toilet",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/duivendrechtsekade/room-2401166"
+  },
+  "kamernet:2401168": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-20T14:20:56+00:00",
+    "notified": true,
+    "price": 613,
+    "title": "Te huur: Gemeubileerde kamer voor studenten (ook",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/duivendrechtsekade/room-2401168"
+  },
+  "kamernet:2401172": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-20T14:20:56+00:00",
+    "notified": true,
+    "price": 455,
+    "title": "Te huur: studentenkamer in Utrecht - Overvecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/gloriantdreef/room-2401172"
+  },
+  "kamernet:2401173": {
+    "city": "Zeist",
+    "first_seen": "2026-08-20T14:20:56+00:00",
+    "notified": true,
+    "price": 625,
+    "title": "Te huur: Ruime studentenkamer in centrum Zeist",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/jagerlaan/room-2401173"
+  },
+  "kamernet:2401174": {
+    "city": "Zeist",
+    "first_seen": "2026-08-20T14:20:56+00:00",
+    "notified": true,
+    "price": 425,
+    "title": "Studentenkamer per heden beschikbaar, vlakbij",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/jagerlaan/room-2401174"
+  },
+  "kamernet:2401175": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-20T14:20:56+00:00",
+    "notified": true,
+    "price": 480,
+    "title": "Te huur: ruime studentenkamer in Utrecht - Zuilen",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/johannes-uitenbogaertstraat/room-2401175"
+  },
+  "kamernet:2401180": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-20T14:20:56+00:00",
+    "notified": true,
+    "price": 490,
+    "title": "Ruime studentenkamer te huur aan de",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/nachtegaalstraat/room-2401180"
+  },
+  "kamernet:2401213": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-20T14:20:56+00:00",
+    "notified": true,
+    "price": 475,
+    "title": "Te huur mooie studentenkamers in Utrecht - Overvec",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/zamenhofdreef/room-2401213"
   }
 }
