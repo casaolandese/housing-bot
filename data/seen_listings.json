@@ -79,6 +79,30 @@
     "title": "P. Hans Frankfurthersingel, Amsterdam",
     "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/p.-hans-frankfurthersingel/studio-519434"
   },
+  "directwonen:519625": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-20T12:03:06+00:00",
+    "notified": true,
+    "price": 480,
+    "title": "Johannes Uitenbogaertstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/johannes-uitenbogaertstraat/kamer-519625"
+  },
+  "directwonen:519633": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-20T12:03:06+00:00",
+    "notified": true,
+    "price": 520,
+    "title": "St. Janshovenstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/st.-janshovenstraat/kamer-519633"
+  },
+  "directwonen:519634": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-20T12:03:06+00:00",
+    "notified": true,
+    "price": 550,
+    "title": "Twijnstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/twijnstraat/kamer-519634"
+  },
   "kamernet:1723592": {
     "city": "Bilthoven",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -118,6 +142,14 @@
     "price": 550,
     "title": "Room next to Erasmuspark",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-van-galenstraat/room-2343126"
+  },
+  "kamernet:2371953": {
+    "city": "Zaandam",
+    "first_seen": "2026-08-20T12:03:06+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "PRELUDE, ZAANDAM.",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/prelude/room-2371953"
   },
   "kamernet:2388331": {
     "city": "Utrecht",
