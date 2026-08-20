@@ -1335,6 +1335,46 @@
     "title": "Ruime studentenkamer te huur aan de",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/nachtegaalstraat/room-2401180"
   },
+  "kamernet:2401195": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-20T16:03:00+00:00",
+    "notified": true,
+    "price": 520,
+    "title": "Beschikbaar leuke studentenkamer op",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/st-janshovenstraat/room-2401195"
+  },
+  "kamernet:2401197": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-20T16:03:00+00:00",
+    "notified": true,
+    "price": 550,
+    "title": "Gemeubileerde studentenkamers te huur in Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tourniairestraat/room-2401197"
+  },
+  "kamernet:2401198": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-20T16:03:00+00:00",
+    "notified": true,
+    "price": 582,
+    "title": "Studentenkamers met bad en toilet te huur in",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tourniairestraat/room-2401198"
+  },
+  "kamernet:2401199": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-20T16:03:00+00:00",
+    "notified": true,
+    "price": 415,
+    "title": "Ongemeubileerde studentenkamers te huur in",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tourniairestraat/room-2401199"
+  },
+  "kamernet:2401200": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-20T16:03:00+00:00",
+    "notified": true,
+    "price": 550,
+    "title": "Te huur: knusse studentenkamer in het gezellige Ut",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/twijnstraat/room-2401200"
+  },
   "kamernet:2401213": {
     "city": "Utrecht",
     "first_seen": "2026-08-20T14:20:56+00:00",
@@ -1342,5 +1382,21 @@
     "price": 475,
     "title": "Te huur mooie studentenkamers in Utrecht - Overvec",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/zamenhofdreef/room-2401213"
+  },
+  "kamernet:2401214": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-20T16:03:00+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Two rooms: bedroom + study",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/rooseveltlaan/room-2401214"
+  },
+  "kamernet:2401215": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-20T16:03:00+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Niersstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/niersstraat/room-2401215"
   }
 }
