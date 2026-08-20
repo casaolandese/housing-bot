@@ -1143,6 +1143,14 @@
     "title": "room for rent Amsterdam city center",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwe-prinsengracht/room-2400947"
   },
+  "kamernet:2400951": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-20T08:07:54+00:00",
+    "notified": true,
+    "price": 710,
+    "title": "Room in Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/maria-snelplantsoen/room-2400951"
+  },
   "kamernet:2400952": {
     "city": "Amsterdam",
     "first_seen": "2026-08-19T14:09:15+00:00",
@@ -1174,5 +1182,53 @@
     "price": 725,
     "title": "Kamer te huur",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/1e-kekerstraat/room-2400977"
+  },
+  "kamernet:2400993": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-20T08:07:54+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "There is a room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/arnodreef/room-2400993"
+  },
+  "kamernet:2401037": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-20T08:07:54+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Theo Frenkelhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/theo-frenkelhof/room-2401037"
+  },
+  "kamernet:2401039": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-20T08:07:54+00:00",
+    "notified": false,
+    "price": 980,
+    "title": "Bart de Ligtstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bart-de-ligtstraat/room-2401039"
+  },
+  "kamernet:2401043": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-20T08:07:54+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Admiraal De Ruijterweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/admiraal-de-ruijterweg/room-2401043"
+  },
+  "kamernet:2401044": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-08-20T08:07:54+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Kruisweg, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/kruisweg/room-2401044"
+  },
+  "kamernet:2401056": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-20T08:07:54+00:00",
+    "notified": false,
+    "price": 995,
+    "title": "Van Lennepstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-lennepstraat/room-2401056"
   }
 }
