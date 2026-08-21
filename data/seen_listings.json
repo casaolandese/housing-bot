@@ -1486,5 +1486,29 @@
     "price": 1100,
     "title": "Bosrankstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bosrankstraat/room-2401361"
+  },
+  "kamernet:2401385": {
+    "city": "Halfweg",
+    "first_seen": "2026-08-21T11:02:51+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Zijkanaal F Oost, Halfweg",
+    "url": "https://kamernet.nl/en/for-rent/room-halfweg/zijkanaal-f-oost/room-2401385"
+  },
+  "kamernet:2401386": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-21T11:02:51+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Room 13m2  Amsterdam Southeast - 800EURO p.m.",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/3e-kekerstraat/room-2401386"
+  },
+  "kamernet:2401390": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-21T11:02:51+00:00",
+    "notified": false,
+    "price": 1700,
+    "title": "Spuistraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2401390"
   }
 }
