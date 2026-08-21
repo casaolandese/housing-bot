@@ -1542,5 +1542,13 @@
     "price": 750,
     "title": "room",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/soestdijkstraat/room-2401435"
+  },
+  "kamernet:2401486": {
+    "city": "Vreeland",
+    "first_seen": "2026-08-21T15:56:59+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Nigtevechtseweg, Vreeland",
+    "url": "https://kamernet.nl/en/for-rent/room-vreeland/nigtevechtseweg/room-2401486"
   }
 }
