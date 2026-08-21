@@ -1287,6 +1287,14 @@
     "title": "Nice room, fully furnished",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/handboogstraat/room-2401152"
   },
+  "kamernet:2401160": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-21T19:08:53+00:00",
+    "notified": false,
+    "price": 1360,
+    "title": "Sint Jacobsstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/sint-jacobsstraat/room-2401160"
+  },
   "kamernet:2401166": {
     "city": "Amsterdam",
     "first_seen": "2026-08-20T14:20:56+00:00",
@@ -1558,5 +1566,13 @@
     "price": 550,
     "title": "Nigtevechtseweg, Vreeland",
     "url": "https://kamernet.nl/en/for-rent/room-vreeland/nigtevechtseweg/room-2401486"
+  },
+  "kamernet:2401511": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-21T19:08:53+00:00",
+    "notified": false,
+    "price": 2000,
+    "title": "Derde Oosterparkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/derde-oosterparkstraat/room-2401511"
   }
 }
