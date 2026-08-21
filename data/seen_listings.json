@@ -1399,6 +1399,46 @@
     "title": "Niersstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/niersstraat/room-2401215"
   },
+  "kamernet:2401243": {
+    "city": "Amstelveen",
+    "first_seen": "2026-08-21T07:57:54+00:00",
+    "notified": false,
+    "price": 1220,
+    "title": "Patrijspoort, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/patrijspoort/room-2401243"
+  },
+  "kamernet:2401254": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-21T07:57:54+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Marco Polostraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/marco-polostraat/room-2401254"
+  },
+  "kamernet:2401256": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-21T07:57:54+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Room for rent in Biljmer!!",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hogevecht/room-2401256"
+  },
+  "kamernet:2401260": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-21T07:57:54+00:00",
+    "notified": true,
+    "price": 650,
+    "title": "2 rooms available on milosdreef",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/milosdreef/room-2401260"
+  },
+  "kamernet:2401267": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-21T07:57:54+00:00",
+    "notified": false,
+    "price": 2139,
+    "title": "Van de Sande Bakhuijzenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-de-sande-bakhuijzenstraat/room-2401267"
+  },
   "kamernet:2401270": {
     "city": "Hoofddorp",
     "first_seen": "2026-08-20T19:44:31+00:00",
@@ -1406,5 +1446,21 @@
     "price": 775,
     "title": "Room 13m2 in the center of Hoofddorp",
     "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/leeghwaterstraat/room-2401270"
+  },
+  "kamernet:2401274": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-21T07:57:54+00:00",
+    "notified": false,
+    "price": 1600,
+    "title": "Frans Halsstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/frans-halsstraat/room-2401274"
+  },
+  "kamernet:2401327": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-21T07:57:54+00:00",
+    "notified": true,
+    "price": 890,
+    "title": "1 room available in Amsterdam with registration",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/clara-zetkinstraat/room-2401327"
   }
 }
