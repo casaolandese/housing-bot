@@ -1263,6 +1263,14 @@
     "title": "Van Lennepstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-lennepstraat/room-2401056"
   },
+  "kamernet:2401088": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-21T14:09:36+00:00",
+    "notified": false,
+    "price": 862,
+    "title": "Maand september onderhuurster gezocht!",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kuipersstraat/room-2401088"
+  },
   "kamernet:2401139": {
     "city": "Amsterdam",
     "first_seen": "2026-08-20T14:20:56+00:00",
@@ -1526,5 +1534,13 @@
     "price": 695,
     "title": "Kamerlingh Onnesweg, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/kamerlingh-onnesweg/room-2401408"
+  },
+  "kamernet:2401435": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-21T14:09:36+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "room",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/soestdijkstraat/room-2401435"
   }
 }
