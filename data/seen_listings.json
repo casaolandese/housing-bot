@@ -1543,6 +1543,14 @@
     "title": "room",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/soestdijkstraat/room-2401435"
   },
+  "kamernet:2401480": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-21T17:16:03+00:00",
+    "notified": false,
+    "price": 930,
+    "title": "Foeliestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/foeliestraat/room-2401480"
+  },
   "kamernet:2401486": {
     "city": "Vreeland",
     "first_seen": "2026-08-21T15:56:59+00:00",
