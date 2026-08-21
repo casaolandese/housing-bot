@@ -1455,6 +1455,14 @@
     "title": "Frans Halsstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/frans-halsstraat/room-2401274"
   },
+  "kamernet:2401287": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-21T09:56:29+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Cozy room for rent near Bijlmer Arena-GIRLS ONLY.",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fleerde/room-2401287"
+  },
   "kamernet:2401327": {
     "city": "Amsterdam",
     "first_seen": "2026-08-21T07:57:54+00:00",
@@ -1462,5 +1470,21 @@
     "price": 890,
     "title": "1 room available in Amsterdam with registration",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/clara-zetkinstraat/room-2401327"
+  },
+  "kamernet:2401357": {
+    "city": "Uithoorn",
+    "first_seen": "2026-08-21T09:56:29+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Colijnlaan, Uithoorn",
+    "url": "https://kamernet.nl/en/for-rent/room-uithoorn/colijnlaan/room-2401357"
+  },
+  "kamernet:2401361": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-21T09:56:29+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Bosrankstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bosrankstraat/room-2401361"
   }
 }
