@@ -1510,5 +1510,21 @@
     "price": 1700,
     "title": "Spuistraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2401390"
+  },
+  "kamernet:2401399": {
+    "city": "Almere",
+    "first_seen": "2026-08-21T12:03:01+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Klaverweg, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/klaverweg/room-2401399"
+  },
+  "kamernet:2401408": {
+    "city": "Hilversum",
+    "first_seen": "2026-08-21T12:03:01+00:00",
+    "notified": false,
+    "price": 695,
+    "title": "Kamerlingh Onnesweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/kamerlingh-onnesweg/room-2401408"
   }
 }
