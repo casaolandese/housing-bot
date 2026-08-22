@@ -1567,6 +1567,14 @@
     "title": "room",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/soestdijkstraat/room-2401435"
   },
+  "kamernet:2401449": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-22T14:46:21+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Strandeilandlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/strandeilandlaan/room-2401449"
+  },
   "kamernet:2401480": {
     "city": "Amsterdam",
     "first_seen": "2026-08-21T17:16:03+00:00",
@@ -1639,6 +1647,30 @@
     "title": "Derde Oosterparkstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/derde-oosterparkstraat/room-2401587"
   },
+  "kamernet:2401595": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-22T14:46:21+00:00",
+    "notified": false,
+    "price": 1490,
+    "title": "H. Cleyndertweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2401595"
+  },
+  "kamernet:2401606": {
+    "city": "Soest",
+    "first_seen": "2026-08-22T14:46:21+00:00",
+    "notified": false,
+    "price": 5,
+    "title": "Speenkruidstraat, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/speenkruidstraat/room-2401606"
+  },
+  "kamernet:2401607": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-22T14:46:21+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Mijehof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/mijehof/room-2401607"
+  },
   "kamernet:2401612": {
     "city": "Amsterdam",
     "first_seen": "2026-08-22T13:43:04+00:00",
@@ -1646,5 +1678,21 @@
     "price": 650,
     "title": "Nice room for rent Amsterdam Osdorp",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/landzicht/room-2401612"
+  },
+  "kamernet:2401618": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-22T14:46:21+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Martin Ennalsstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/martin-ennalsstraat/room-2401618"
+  },
+  "kamernet:2401624": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-22T14:46:21+00:00",
+    "notified": false,
+    "price": 1450,
+    "title": "Het Laagt, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/het-laagt/room-2401624"
   }
 }
