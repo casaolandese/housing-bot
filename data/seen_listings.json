@@ -1694,5 +1694,29 @@
     "price": 1450,
     "title": "Het Laagt, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/het-laagt/room-2401624"
+  },
+  "kamernet:2401629": {
+    "city": "Amstelveen",
+    "first_seen": "2026-08-22T16:52:59+00:00",
+    "notified": true,
+    "price": 550,
+    "title": "Nice garden room with private shower and toilet",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/voor-de-poort/room-2401629"
+  },
+  "kamernet:2401633": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-22T16:52:59+00:00",
+    "notified": false,
+    "price": 1372,
+    "title": "Jan van Galenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-van-galenstraat/room-2401633"
+  },
+  "kamernet:2401640": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-22T16:52:59+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Prinsengracht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/prinsengracht/room-2401640"
   }
 }
