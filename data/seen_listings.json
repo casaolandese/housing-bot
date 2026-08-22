@@ -1638,5 +1638,13 @@
     "price": 1600,
     "title": "Derde Oosterparkstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/derde-oosterparkstraat/room-2401587"
+  },
+  "kamernet:2401612": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-22T13:43:04+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Nice room for rent Amsterdam Osdorp",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/landzicht/room-2401612"
   }
 }
