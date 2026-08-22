@@ -215,6 +215,14 @@
     "title": "Amsterdam nieuw west near Lylelaan",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-muschstraat/room-2396036"
   },
+  "kamernet:2396178": {
+    "city": "Uithoorn",
+    "first_seen": "2026-08-22T19:52:37+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Colijnlaan, Uithoorn",
+    "url": "https://kamernet.nl/en/for-rent/room-uithoorn/colijnlaan/room-2396178"
+  },
   "kamernet:2396377": {
     "city": "Zeist",
     "first_seen": "2026-08-18T16:22:37+00:00",
