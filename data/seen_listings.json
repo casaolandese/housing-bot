@@ -239,6 +239,14 @@
     "title": "Huize Bubbels zoekt een nieuw huisgenoot!",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/texel/room-2396995"
   },
+  "kamernet:2397011": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-22T11:49:29+00:00",
+    "notified": false,
+    "price": 1590,
+    "title": "H. Cleyndertweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2397011"
+  },
   "kamernet:2397041": {
     "city": "Utrecht",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -278,6 +286,14 @@
     "price": 1100,
     "title": "Livingstonelaan, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/livingstonelaan/room-2397308"
+  },
+  "kamernet:2397494": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-22T11:49:29+00:00",
+    "notified": false,
+    "price": 1590,
+    "title": "H. Cleyndertweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2397494"
   },
   "kamernet:2397559": {
     "city": "Nieuwegein",
