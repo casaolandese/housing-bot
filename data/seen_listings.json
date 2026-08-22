@@ -1574,5 +1574,53 @@
     "price": 2000,
     "title": "Derde Oosterparkstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/derde-oosterparkstraat/room-2401511"
+  },
+  "kamernet:2401514": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-22T10:56:10+00:00",
+    "notified": true,
+    "price": 722,
+    "title": "Ijsselmeerstraat unfurnished bedroom",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ijsselmeerstraat/room-2401514"
+  },
+  "kamernet:2401522": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-22T10:56:10+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Eef Kamerbeekstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eef-kamerbeekstraat/room-2401522"
+  },
+  "kamernet:2401540": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-22T10:56:10+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Fully furnished room- Female tenants only",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kruisherenpad/room-2401540"
+  },
+  "kamernet:2401572": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-22T10:56:10+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Raphael Lemkinstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/raphael-lemkinstraat/room-2401572"
+  },
+  "kamernet:2401584": {
+    "city": "Diemen",
+    "first_seen": "2026-08-22T10:56:10+00:00",
+    "notified": true,
+    "price": 750,
+    "title": "Oo zoek naar een huisgenoot.",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/tarwekamp/room-2401584"
+  },
+  "kamernet:2401587": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-22T10:56:10+00:00",
+    "notified": false,
+    "price": 1600,
+    "title": "Derde Oosterparkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/derde-oosterparkstraat/room-2401587"
   }
 }
