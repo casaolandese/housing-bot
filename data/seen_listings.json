@@ -1886,5 +1886,13 @@
     "price": 1400,
     "title": "Koningin Wilhelminaplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2401807"
+  },
+  "kamernet:2401835": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-23T22:50:01+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Livingstonelaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/livingstonelaan/room-2401835"
   }
 }
