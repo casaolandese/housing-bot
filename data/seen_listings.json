@@ -1862,5 +1862,21 @@
     "price": 560,
     "title": "kamer huur",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/prinsessekade/room-2401800"
+  },
+  "kamernet:2401801": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-23T17:50:33+00:00",
+    "notified": false,
+    "price": 739,
+    "title": "Kamer te Huur | €750,- incl. | Midden in Centrum",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/mariastraat/room-2401801"
+  },
+  "kamernet:2401807": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-23T17:50:33+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2401807"
   }
 }
