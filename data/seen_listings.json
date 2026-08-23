@@ -1750,5 +1750,37 @@
     "price": 795,
     "title": "Per direct: kamer in Amsterdam Zuid",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/europaboulevard/room-2401677"
+  },
+  "kamernet:2401710": {
+    "city": "Zaandam",
+    "first_seen": "2026-08-23T10:56:13+00:00",
+    "notified": false,
+    "price": 675,
+    "title": "A room for rent, Zaandam centre, 675/pm.",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/vurehout/room-2401710"
+  },
+  "kamernet:2401714": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-23T10:56:13+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Fregelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2401714"
+  },
+  "kamernet:2401719": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-23T10:56:13+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Bart Poesiatstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bart-poesiatstraat/room-2401719"
+  },
+  "kamernet:2401734": {
+    "city": "Diemen",
+    "first_seen": "2026-08-23T10:56:13+00:00",
+    "notified": true,
+    "price": 750,
+    "title": "Oo zoek naar een huisgenoot.",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/tarwekamp/room-2401734"
   }
 }
