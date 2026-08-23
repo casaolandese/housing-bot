@@ -1854,5 +1854,13 @@
     "price": 800,
     "title": "Room in Amsterdam Reigersbos",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/toutenburgstraat/room-2401778"
+  },
+  "kamernet:2401800": {
+    "city": "Haarlem",
+    "first_seen": "2026-08-23T16:57:41+00:00",
+    "notified": false,
+    "price": 560,
+    "title": "kamer huur",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/prinsessekade/room-2401800"
   }
 }
