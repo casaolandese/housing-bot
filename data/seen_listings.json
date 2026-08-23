@@ -1311,6 +1311,14 @@
     "title": "TEMPORARY SUBRENT Sept 5 – Oct 3",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gorontalostraat/room-2401139"
   },
+  "kamernet:2401140": {
+    "city": "Velsen-Noord",
+    "first_seen": "2026-08-23T19:02:32+00:00",
+    "notified": false,
+    "price": 470,
+    "title": "Schulpweg, Velsen-Noord",
+    "url": "https://kamernet.nl/en/for-rent/room-velsen-noord/schulpweg/room-2401140"
+  },
   "kamernet:2401152": {
     "city": "Amsterdam",
     "first_seen": "2026-08-20T14:20:56+00:00",
