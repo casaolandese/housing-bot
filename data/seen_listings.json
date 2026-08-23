@@ -1782,5 +1782,29 @@
     "price": 750,
     "title": "Oo zoek naar een huisgenoot.",
     "url": "https://kamernet.nl/en/for-rent/room-diemen/tarwekamp/room-2401734"
+  },
+  "kamernet:2401751": {
+    "city": "Haarlem",
+    "first_seen": "2026-08-23T13:46:36+00:00",
+    "notified": false,
+    "price": 500,
+    "title": "Room for rent in Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/ir-lelyweg/room-2401751"
+  },
+  "kamernet:2401752": {
+    "city": "Haarlem",
+    "first_seen": "2026-08-23T13:46:36+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Room for rent in Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/ir-lelyweg/room-2401752"
+  },
+  "kamernet:2401753": {
+    "city": "Haarlem",
+    "first_seen": "2026-08-23T13:46:36+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Room for rent in Haarlem Lelyweg",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/ir-lelyweg/room-2401753"
   }
 }
