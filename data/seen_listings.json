@@ -1726,5 +1726,29 @@
     "price": 1500,
     "title": "Prinsengracht, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/prinsengracht/room-2401640"
+  },
+  "kamernet:2401645": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-23T09:59:06+00:00",
+    "notified": true,
+    "price": 650,
+    "title": "Room for rent in Holendrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwersluishof/room-2401645"
+  },
+  "kamernet:2401667": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-23T09:59:06+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Hoofdweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hoofdweg/room-2401667"
+  },
+  "kamernet:2401677": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-23T09:59:06+00:00",
+    "notified": false,
+    "price": 795,
+    "title": "Per direct: kamer in Amsterdam Zuid",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/europaboulevard/room-2401677"
   }
 }
