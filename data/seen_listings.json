@@ -1,4 +1,12 @@
 {
+  "directwonen:277668": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-23T15:51:54+00:00",
+    "notified": false,
+    "price": 1650,
+    "title": "Lange Nieuwstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/lange-nieuwstraat/studio-277668"
+  },
   "directwonen:518578": {
     "city": "Utrecht",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -1783,6 +1791,14 @@
     "title": "Oo zoek naar een huisgenoot.",
     "url": "https://kamernet.nl/en/for-rent/room-diemen/tarwekamp/room-2401734"
   },
+  "kamernet:2401750": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-23T15:51:54+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Hoofdweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hoofdweg/room-2401750"
+  },
   "kamernet:2401751": {
     "city": "Haarlem",
     "first_seen": "2026-08-23T13:46:36+00:00",
@@ -1806,5 +1822,37 @@
     "price": 550,
     "title": "Room for rent in Haarlem Lelyweg",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/ir-lelyweg/room-2401753"
+  },
+  "kamernet:2401755": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-23T15:51:54+00:00",
+    "notified": true,
+    "price": 650,
+    "title": "Nice room in Amsterdam Baarsjes",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/reinier-claeszenstraat/room-2401755"
+  },
+  "kamernet:2401772": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-23T15:51:54+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Steelvlietplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/steelvlietplein/room-2401772"
+  },
+  "kamernet:2401777": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-23T15:51:54+00:00",
+    "notified": false,
+    "price": 1700,
+    "title": "Cooperatiehof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cooperatiehof/room-2401777"
+  },
+  "kamernet:2401778": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-23T15:51:54+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Room in Amsterdam Reigersbos",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/toutenburgstraat/room-2401778"
   }
 }
