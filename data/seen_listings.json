@@ -2054,5 +2054,13 @@
     "price": 500,
     "title": "Attic room for rent for female (working) student",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/huifkardrift/room-2401989"
+  },
+  "kamernet:2401998": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T17:52:32+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Zeilstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/zeilstraat/room-2401998"
   }
 }
