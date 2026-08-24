@@ -2062,5 +2062,13 @@
     "price": 1300,
     "title": "Zeilstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/zeilstraat/room-2401998"
+  },
+  "kamernet:2402015": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T19:45:04+00:00",
+    "notified": false,
+    "price": 965,
+    "title": "Wedderborg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wedderborg/room-2402015"
   }
 }
