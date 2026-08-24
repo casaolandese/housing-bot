@@ -111,6 +111,14 @@
     "title": "Twijnstraat, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/twijnstraat/kamer-519634"
   },
+  "kamernet:1698558": {
+    "city": "Hilversum",
+    "first_seen": "2026-08-24T14:26:50+00:00",
+    "notified": false,
+    "price": 395,
+    "title": "Liebergerweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/liebergerweg/room-1698558"
+  },
   "kamernet:1723592": {
     "city": "Bilthoven",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -1958,5 +1966,61 @@
     "price": 850,
     "title": "Barbara Van Meertenstraat",
     "url": "https://kamernet.nl/en/for-rent/room-zaandam/barbara-van-meertenstraat/room-2401919"
+  },
+  "kamernet:2401922": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T14:26:50+00:00",
+    "notified": true,
+    "price": 830,
+    "title": "Furnished Student Rooms for Rent",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/clauskindereweg/room-2401922"
+  },
+  "kamernet:2401926": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T14:26:50+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Amsterdam Noord Station(Metro 52)",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elzenhagensingel/room-2401926"
+  },
+  "kamernet:2401936": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T14:26:50+00:00",
+    "notified": true,
+    "price": 499,
+    "title": "Furnished room available immediately",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/clauskindereweg/room-2401936"
+  },
+  "kamernet:2401940": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T14:26:50+00:00",
+    "notified": false,
+    "price": 2000,
+    "title": "Derde Oosterparkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/derde-oosterparkstraat/room-2401940"
+  },
+  "kamernet:2401945": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T14:26:50+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2401945"
+  },
+  "kamernet:2401955": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T14:26:50+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Room with a balcony in Osdorp for 2-3 month stay",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/meer-en-vaart/room-2401955"
+  },
+  "kamernet:2401961": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-24T14:26:50+00:00",
+    "notified": true,
+    "price": 750,
+    "title": "Utrecht directly  available 1 Room",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/burgemeester-norbruislaan/room-2401961"
   }
 }
