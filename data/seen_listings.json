@@ -2022,5 +2022,37 @@
     "price": 750,
     "title": "Utrecht directly  available 1 Room",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/burgemeester-norbruislaan/room-2401961"
+  },
+  "kamernet:2401978": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T16:08:05+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Room in stunning floating villa",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/moestuinlaan/room-2401978"
+  },
+  "kamernet:2401979": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T16:08:05+00:00",
+    "notified": false,
+    "price": 890,
+    "title": "Furnished room with balcony and registration",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/langswater/room-2401979"
+  },
+  "kamernet:2401985": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T16:08:05+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Blauwdasstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/blauwdasstraat/room-2401985"
+  },
+  "kamernet:2401989": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-08-24T16:08:05+00:00",
+    "notified": false,
+    "price": 500,
+    "title": "Attic room for rent for female (working) student",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/huifkardrift/room-2401989"
   }
 }
