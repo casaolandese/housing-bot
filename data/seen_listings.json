@@ -1887,6 +1887,14 @@
     "title": "Koningin Wilhelminaplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2401807"
   },
+  "kamernet:2401811": {
+    "city": "Rijsenhout",
+    "first_seen": "2026-08-24T08:30:14+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Bennebroekerweg, Rijsenhout",
+    "url": "https://kamernet.nl/en/for-rent/room-rijsenhout/bennebroekerweg/room-2401811"
+  },
   "kamernet:2401835": {
     "city": "Utrecht",
     "first_seen": "2026-08-23T22:50:01+00:00",
@@ -1894,5 +1902,21 @@
     "price": 1100,
     "title": "Livingstonelaan, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/livingstonelaan/room-2401835"
+  },
+  "kamernet:2401842": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T08:30:14+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Balearenlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/balearenlaan/room-2401842"
+  },
+  "kamernet:2401844": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T08:30:14+00:00",
+    "notified": false,
+    "price": 1185,
+    "title": "Eerste Constantijn Huygensstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eerste-constantijn-huygensstraat/room-2401844"
   }
 }
