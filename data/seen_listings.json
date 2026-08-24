@@ -1934,5 +1934,29 @@
     "price": 1185,
     "title": "Eerste Constantijn Huygensstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eerste-constantijn-huygensstraat/room-2401844"
+  },
+  "kamernet:2401885": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T11:51:51+00:00",
+    "notified": true,
+    "price": 479,
+    "title": "Furnished Student Room for Rent",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/vatternkade/room-2401885"
+  },
+  "kamernet:2401906": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T11:51:51+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Room available per October 1st 2026",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/plesmanlaan/room-2401906"
+  },
+  "kamernet:2401919": {
+    "city": "Zaandam",
+    "first_seen": "2026-08-24T11:51:51+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Barbara Van Meertenstraat",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/barbara-van-meertenstraat/room-2401919"
   }
 }
