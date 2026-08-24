@@ -135,6 +135,14 @@
     "title": "Oranjestraat, Monnickendam",
     "url": "https://kamernet.nl/en/for-rent/room-monnickendam/oranjestraat/room-2201046"
   },
+  "kamernet:2214892": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-24T10:24:23+00:00",
+    "notified": true,
+    "price": 799,
+    "title": "gedeelde kamer",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/lucasbolwerk/room-2214892"
+  },
   "kamernet:2324583": {
     "city": "Hoofddorp",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -1518,6 +1526,14 @@
     "price": 900,
     "title": "Cozy room for rent near Bijlmer Arena-GIRLS ONLY.",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fleerde/room-2401287"
+  },
+  "kamernet:2401288": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-24T10:24:23+00:00",
+    "notified": false,
+    "price": 970,
+    "title": "Mattenbiesstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/mattenbiesstraat/room-2401288"
   },
   "kamernet:2401327": {
     "city": "Amsterdam",
