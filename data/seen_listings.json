@@ -175,6 +175,14 @@
     "title": "Room next to Erasmuspark",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-van-galenstraat/room-2343126"
   },
+  "kamernet:2370283": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-25T16:18:35+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Scheldestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/scheldestraat/room-2370283"
+  },
   "kamernet:2371953": {
     "city": "Zaandam",
     "first_seen": "2026-08-20T12:03:06+00:00",
@@ -286,6 +294,14 @@
     "price": 1590,
     "title": "H. Cleyndertweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2397011"
+  },
+  "kamernet:2397022": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-25T16:18:35+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Aquamarijnlaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/aquamarijnlaan/room-2397022"
   },
   "kamernet:2397041": {
     "city": "Utrecht",
