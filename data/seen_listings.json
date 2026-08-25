@@ -151,6 +151,14 @@
     "title": "gedeelde kamer",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/lucasbolwerk/room-2214892"
   },
+  "kamernet:2320766": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-25T09:21:43+00:00",
+    "notified": false,
+    "price": 1525,
+    "title": "Sarphatistraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/sarphatistraat/room-2320766"
+  },
   "kamernet:2324583": {
     "city": "Hoofddorp",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -2055,6 +2063,14 @@
     "title": "Attic room for rent for female (working) student",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/huifkardrift/room-2401989"
   },
+  "kamernet:2401991": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-25T09:21:43+00:00",
+    "notified": true,
+    "price": 550,
+    "title": "kamer transwijk noord",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-bijnkershoeklaan/room-2401991"
+  },
   "kamernet:2401998": {
     "city": "Amsterdam",
     "first_seen": "2026-08-24T17:52:32+00:00",
@@ -2070,5 +2086,77 @@
     "price": 965,
     "title": "Wedderborg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wedderborg/room-2402015"
+  },
+  "kamernet:2402022": {
+    "city": "Haarlem",
+    "first_seen": "2026-08-25T09:21:43+00:00",
+    "notified": true,
+    "price": 750,
+    "title": "Kamer te huur in het centrum van Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/wagenweg/room-2402022"
+  },
+  "kamernet:2402035": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-25T09:21:43+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Plantage Middenlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/plantage-middenlaan/room-2402035"
+  },
+  "kamernet:2402061": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-25T09:21:43+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Nachtwachtlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nachtwachtlaan/room-2402061"
+  },
+  "kamernet:2402064": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-25T09:21:43+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Nachtwachtlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nachtwachtlaan/room-2402064"
+  },
+  "kamernet:2402070": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-25T09:21:43+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Raoul Wallenbergstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/raoul-wallenbergstraat/room-2402070"
+  },
+  "kamernet:2402084": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-25T09:21:43+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Dirck Hoetweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/dirck-hoetweg/room-2402084"
+  },
+  "kamernet:2402103": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-25T09:21:43+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Derde Oosterparkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/derde-oosterparkstraat/room-2402103"
+  },
+  "kamernet:2402112": {
+    "city": "Almere",
+    "first_seen": "2026-08-25T09:21:43+00:00",
+    "notified": false,
+    "price": 630,
+    "title": "Room for rent in Almere Stad",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/hengelostraat/room-2402112"
+  },
+  "kamernet:2402120": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-25T09:21:43+00:00",
+    "notified": false,
+    "price": 1600,
+    "title": "Derde Oosterparkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/derde-oosterparkstraat/room-2402120"
   }
 }
