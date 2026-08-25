@@ -2214,5 +2214,13 @@
     "price": 895,
     "title": "Female only student private room",
     "url": "https://kamernet.nl/en/for-rent/room-zeist/steynlaan/room-2402205"
+  },
+  "kamernet:2402251": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-25T17:51:49+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2402251"
   }
 }
