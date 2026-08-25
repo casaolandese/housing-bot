@@ -2166,5 +2166,37 @@
     "price": 1600,
     "title": "Derde Oosterparkstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/derde-oosterparkstraat/room-2402120"
+  },
+  "kamernet:2402173": {
+    "city": "Hilversum",
+    "first_seen": "2026-08-25T14:08:05+00:00",
+    "notified": false,
+    "price": 640,
+    "title": "Lorentzweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/lorentzweg/room-2402173"
+  },
+  "kamernet:2402195": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-25T14:08:05+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Commelinstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/commelinstraat/room-2402195"
+  },
+  "kamernet:2402196": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-25T14:08:05+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Balboastraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/balboastraat/room-2402196"
+  },
+  "kamernet:2402205": {
+    "city": "Zeist",
+    "first_seen": "2026-08-25T14:08:05+00:00",
+    "notified": false,
+    "price": 895,
+    "title": "Female only student private room",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/steynlaan/room-2402205"
   }
 }
