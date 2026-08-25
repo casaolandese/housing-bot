@@ -2151,6 +2151,14 @@
     "title": "Room for rent in Almere Stad",
     "url": "https://kamernet.nl/en/for-rent/room-almere/hengelostraat/room-2402112"
   },
+  "kamernet:2402115": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-25T11:02:28+00:00",
+    "notified": true,
+    "price": 700,
+    "title": "Cozy room in Amsterdam West",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/lederambachtstraat/room-2402115"
+  },
   "kamernet:2402120": {
     "city": "Amsterdam",
     "first_seen": "2026-08-25T09:21:43+00:00",
