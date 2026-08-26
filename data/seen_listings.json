@@ -487,6 +487,14 @@
     "title": "Dirck Hoetweg, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/dirck-hoetweg/room-2399290"
   },
+  "kamernet:2399302": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-26T10:08:47+00:00",
+    "notified": true,
+    "price": 600,
+    "title": "Quiet house with spare rooms",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/marguerite-yourcenarstraat/room-2399302"
+  },
   "kamernet:2399332": {
     "city": "Almere",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -2143,6 +2151,14 @@
     "title": "Raoul Wallenbergstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/raoul-wallenbergstraat/room-2402070"
   },
+  "kamernet:2402082": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-26T10:08:47+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Spuistraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2402082"
+  },
   "kamernet:2402084": {
     "city": "Utrecht",
     "first_seen": "2026-08-25T09:21:43+00:00",
@@ -2222,5 +2238,37 @@
     "price": 1400,
     "title": "Koningin Wilhelminaplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2402251"
+  },
+  "kamernet:2402276": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-26T10:08:47+00:00",
+    "notified": true,
+    "price": 520,
+    "title": "Twee kamers beschikbaar voor studenten",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/james-rosskade/room-2402276"
+  },
+  "kamernet:2402328": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-26T10:08:47+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Elzenhagensingel, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elzenhagensingel/room-2402328"
+  },
+  "kamernet:2402330": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-26T10:08:47+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2402330"
+  },
+  "kamernet:2402342": {
+    "city": "Hillegom",
+    "first_seen": "2026-08-26T10:08:47+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Lijsterbeslaan, Hillegom",
+    "url": "https://kamernet.nl/en/for-rent/room-hillegom/lijsterbeslaan/room-2402342"
   }
 }
