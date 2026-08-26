@@ -119,6 +119,38 @@
     "title": "Twijnstraat, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/twijnstraat/kamer-519634"
   },
+  "directwonen:519797": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-26T14:28:09+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Amsterdamsestraatweg, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/amsterdamsestraatweg/studio-519797"
+  },
+  "directwonen:519798": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-26T14:28:09+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Burgemeester Reigerstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/burgemeester-reigerstraat/studio-519798"
+  },
+  "directwonen:519799": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-26T14:28:09+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Burgemeester Reigerstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/burgemeester-reigerstraat/studio-519799"
+  },
+  "directwonen:519817": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-26T14:28:09+00:00",
+    "notified": true,
+    "price": 550,
+    "title": "Homeruslaan, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/homeruslaan/kamer-519817"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
@@ -2310,5 +2342,29 @@
     "price": 1400,
     "title": "Top Naefflaan, Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/top-naefflaan/room-2402371"
+  },
+  "kamernet:2402382": {
+    "city": "Hilversum",
+    "first_seen": "2026-08-26T14:28:09+00:00",
+    "notified": false,
+    "price": 440,
+    "title": "2e Nieuwstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/2e-nieuwstraat/room-2402382"
+  },
+  "kamernet:2402385": {
+    "city": "Hilversum",
+    "first_seen": "2026-08-26T14:28:09+00:00",
+    "notified": false,
+    "price": 475,
+    "title": "2e Nieuwstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/2e-nieuwstraat/room-2402385"
+  },
+  "kamernet:2402396": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-26T14:28:09+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "C. van Eesterenlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/c-van-eesterenlaan/room-2402396"
   }
 }
