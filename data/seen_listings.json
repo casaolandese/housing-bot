@@ -7,6 +7,14 @@
     "title": "Lange Nieuwstraat, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/lange-nieuwstraat/studio-277668"
   },
+  "directwonen:518017": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-26T11:51:23+00:00",
+    "notified": true,
+    "price": 426,
+    "title": "Tourniairestraat, Amsterdam",
+    "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/tourniairestraat/kamer-518017"
+  },
   "directwonen:518578": {
     "city": "Utrecht",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -2199,6 +2207,14 @@
     "title": "Derde Oosterparkstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/derde-oosterparkstraat/room-2402120"
   },
+  "kamernet:2402135": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-26T11:51:23+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Van der Mondestraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-der-mondestraat/room-2402135"
+  },
   "kamernet:2402173": {
     "city": "Hilversum",
     "first_seen": "2026-08-25T14:08:05+00:00",
@@ -2270,5 +2286,29 @@
     "price": 600,
     "title": "Lijsterbeslaan, Hillegom",
     "url": "https://kamernet.nl/en/for-rent/room-hillegom/lijsterbeslaan/room-2402342"
+  },
+  "kamernet:2402369": {
+    "city": "Hilversum",
+    "first_seen": "2026-08-26T11:51:23+00:00",
+    "notified": false,
+    "price": 795,
+    "title": "Geuzenweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/geuzenweg/room-2402369"
+  },
+  "kamernet:2402370": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-26T11:51:23+00:00",
+    "notified": true,
+    "price": 650,
+    "title": "Looking for a decent tenant",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/livingstonelaan/room-2402370"
+  },
+  "kamernet:2402371": {
+    "city": "Amstelveen",
+    "first_seen": "2026-08-26T11:51:23+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Top Naefflaan, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/top-naefflaan/room-2402371"
   }
 }
