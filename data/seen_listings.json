@@ -2894,5 +2894,29 @@
     "price": 900,
     "title": "John Franklinstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/john-franklinstraat/room-2403048"
+  },
+  "kamernet:2403092": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-29T17:38:30+00:00",
+    "notified": false,
+    "price": 1600,
+    "title": "Derde Oosterparkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/derde-oosterparkstraat/room-2403092"
+  },
+  "kamernet:2403099": {
+    "city": "Zaandam",
+    "first_seen": "2026-08-29T17:38:30+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "H Gerhardstraat, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/h-gerhardstraat/room-2403099"
+  },
+  "kamernet:2403111": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-29T17:38:30+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Advertentie tekst ENGLISH (1 MAAND HUUR) Kamernet",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/milosdreef/room-2403111"
   }
 }
