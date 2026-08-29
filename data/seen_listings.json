@@ -2886,5 +2886,13 @@
     "price": 450,
     "title": "Room for rent Stevensgaarde Nieuwegein",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/stevensgaarde/room-2403041"
+  },
+  "kamernet:2403048": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-29T13:38:37+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "John Franklinstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/john-franklinstraat/room-2403048"
   }
 }
