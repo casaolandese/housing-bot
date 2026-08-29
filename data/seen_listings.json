@@ -1871,6 +1871,14 @@
     "title": "Prinsengracht, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/prinsengracht/room-2401640"
   },
+  "kamernet:2401644": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-29T11:52:00+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Hugo de Vrieslaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hugo-de-vrieslaan/room-2401644"
+  },
   "kamernet:2401645": {
     "city": "Amsterdam",
     "first_seen": "2026-08-23T09:59:06+00:00",
@@ -2839,6 +2847,14 @@
     "title": "Van Woustraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-woustraat/room-2402994"
   },
+  "kamernet:2403020": {
+    "city": "Haarlem",
+    "first_seen": "2026-08-29T11:52:00+00:00",
+    "notified": true,
+    "price": 830,
+    "title": "2 rooms close  to trainstation",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/jan-gijzenkade/room-2403020"
+  },
   "kamernet:2403030": {
     "city": "Volendam",
     "first_seen": "2026-08-29T11:38:31+00:00",
@@ -2846,5 +2862,13 @@
     "price": 650,
     "title": "Zuideinde, Volendam",
     "url": "https://kamernet.nl/en/for-rent/room-volendam/zuideinde/room-2403030"
+  },
+  "kamernet:2403033": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-29T11:52:00+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Gaasterlandstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gaasterlandstraat/room-2403033"
   }
 }
