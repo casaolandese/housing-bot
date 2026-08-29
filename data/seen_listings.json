@@ -879,6 +879,14 @@
     "title": "Room for rent",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/catharijnesingel/room-2400319"
   },
+  "kamernet:2400361": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-29T10:08:39+00:00",
+    "notified": false,
+    "price": 1081,
+    "title": "Frans Halsstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/frans-halsstraat/room-2400361"
+  },
   "kamernet:2400387": {
     "city": "IJsselstein",
     "first_seen": "2026-08-18T16:22:37+00:00",
