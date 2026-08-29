@@ -2782,5 +2782,13 @@
     "price": 1200,
     "title": "Heathrowstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/heathrowstraat/room-2402913"
+  },
+  "kamernet:2402994": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-29T09:38:32+00:00",
+    "notified": false,
+    "price": 1080,
+    "title": "Van Woustraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-woustraat/room-2402994"
   }
 }
