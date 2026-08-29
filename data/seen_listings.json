@@ -2838,5 +2838,13 @@
     "price": 1080,
     "title": "Van Woustraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-woustraat/room-2402994"
+  },
+  "kamernet:2403030": {
+    "city": "Volendam",
+    "first_seen": "2026-08-29T11:38:31+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Zuideinde, Volendam",
+    "url": "https://kamernet.nl/en/for-rent/room-volendam/zuideinde/room-2403030"
   }
 }
