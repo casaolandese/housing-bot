@@ -2878,5 +2878,13 @@
     "price": 500,
     "title": "Zuideinde, Volendam",
     "url": "https://kamernet.nl/en/for-rent/room-volendam/zuideinde/room-2403036"
+  },
+  "kamernet:2403041": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-08-29T13:21:51+00:00",
+    "notified": false,
+    "price": 450,
+    "title": "Room for rent Stevensgaarde Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/stevensgaarde/room-2403041"
   }
 }
