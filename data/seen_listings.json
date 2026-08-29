@@ -2799,6 +2799,38 @@
     "title": "Heathrowstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/heathrowstraat/room-2402913"
   },
+  "kamernet:2402945": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-29T10:38:38+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Ochtenhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ochtenhof/room-2402945"
+  },
+  "kamernet:2402971": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-29T10:38:38+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Hoekenes, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hoekenes/room-2402971"
+  },
+  "kamernet:2402974": {
+    "city": "Almere",
+    "first_seen": "2026-08-29T10:38:38+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Smildestraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/smildestraat/room-2402974"
+  },
+  "kamernet:2402993": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-29T10:38:38+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Van Woustraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-woustraat/room-2402993"
+  },
   "kamernet:2402994": {
     "city": "Amsterdam",
     "first_seen": "2026-08-29T09:38:32+00:00",
