@@ -2870,5 +2870,13 @@
     "price": 1100,
     "title": "Gaasterlandstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gaasterlandstraat/room-2403033"
+  },
+  "kamernet:2403036": {
+    "city": "Volendam",
+    "first_seen": "2026-08-29T12:38:39+00:00",
+    "notified": false,
+    "price": 500,
+    "title": "Zuideinde, Volendam",
+    "url": "https://kamernet.nl/en/for-rent/room-volendam/zuideinde/room-2403036"
   }
 }
