@@ -3030,5 +3030,13 @@
     "price": 2139,
     "title": "Van de Sande Bakhuijzenstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-de-sande-bakhuijzenstraat/room-2403247"
+  },
+  "kamernet:2403253": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-30T17:58:24+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Wijttenbachstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wijttenbachstraat/room-2403253"
   }
 }
