@@ -2918,5 +2918,13 @@
     "price": 800,
     "title": "Advertentie tekst ENGLISH (1 MAAND HUUR) Kamernet",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/milosdreef/room-2403111"
+  },
+  "kamernet:2403125": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-30T11:41:53+00:00",
+    "notified": false,
+    "price": 925,
+    "title": "Spakenburgstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spakenburgstraat/room-2403125"
   }
 }
