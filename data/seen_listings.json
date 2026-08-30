@@ -2895,6 +2895,14 @@
     "title": "John Franklinstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/john-franklinstraat/room-2403048"
   },
+  "kamernet:2403058": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-30T11:58:34+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Weteringschans, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/weteringschans/room-2403058"
+  },
   "kamernet:2403092": {
     "city": "Amsterdam",
     "first_seen": "2026-08-29T17:38:30+00:00",
@@ -2926,5 +2934,61 @@
     "price": 925,
     "title": "Spakenburgstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spakenburgstraat/room-2403125"
+  },
+  "kamernet:2403133": {
+    "city": "Zeist",
+    "first_seen": "2026-08-30T11:58:34+00:00",
+    "notified": true,
+    "price": 490,
+    "title": "Kamer voor Nederlandse studenten !",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/burgemeester-patijnlaan/room-2403133"
+  },
+  "kamernet:2403156": {
+    "city": "Maarssen",
+    "first_seen": "2026-08-30T11:58:34+00:00",
+    "notified": false,
+    "price": 790,
+    "title": "Room for rent Maarssen near Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-maarssen/julianaweg/room-2403156"
+  },
+  "kamernet:2403167": {
+    "city": "Halfweg",
+    "first_seen": "2026-08-30T11:58:34+00:00",
+    "notified": false,
+    "price": 1158,
+    "title": "Zijkanaal F Oost, Halfweg",
+    "url": "https://kamernet.nl/en/for-rent/room-halfweg/zijkanaal-f-oost/room-2403167"
+  },
+  "kamernet:2403171": {
+    "city": "Amstelveen",
+    "first_seen": "2026-08-30T11:58:34+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Patrijspoort, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/patrijspoort/room-2403171"
+  },
+  "kamernet:2403175": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-30T11:58:34+00:00",
+    "notified": false,
+    "price": 925,
+    "title": "Adriaan Mulderstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/adriaan-mulderstraat/room-2403175"
+  },
+  "kamernet:2403181": {
+    "city": "Bussum",
+    "first_seen": "2026-08-30T11:58:34+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Lammert Majoorlaan, Bussum",
+    "url": "https://kamernet.nl/en/for-rent/room-bussum/lammert-majoorlaan/room-2403181"
+  },
+  "kamernet:2403185": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-30T11:58:34+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Vrijheidslaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/vrijheidslaan/room-2403185"
   }
 }
