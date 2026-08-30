@@ -3006,5 +3006,13 @@
     "price": 825,
     "title": "Kamer",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/keggedreef/room-2403206"
+  },
+  "kamernet:2403225": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-30T15:28:35+00:00",
+    "notified": false,
+    "price": 1372,
+    "title": "Jan van Galenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-van-galenstraat/room-2403225"
   }
 }
