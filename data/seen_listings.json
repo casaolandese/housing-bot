@@ -2919,6 +2919,14 @@
     "title": "H Gerhardstraat, Zaandam",
     "url": "https://kamernet.nl/en/for-rent/room-zaandam/h-gerhardstraat/room-2403099"
   },
+  "kamernet:2403100": {
+    "city": "Wormerveer",
+    "first_seen": "2026-08-30T14:41:32+00:00",
+    "notified": false,
+    "price": 820,
+    "title": "Stationsstraat, Wormerveer",
+    "url": "https://kamernet.nl/en/for-rent/room-wormerveer/stationsstraat/room-2403100"
+  },
   "kamernet:2403111": {
     "city": "Utrecht",
     "first_seen": "2026-08-29T17:38:30+00:00",
@@ -2990,5 +2998,13 @@
     "price": 1050,
     "title": "Vrijheidslaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/vrijheidslaan/room-2403185"
+  },
+  "kamernet:2403206": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-30T14:41:32+00:00",
+    "notified": false,
+    "price": 825,
+    "title": "Kamer",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/keggedreef/room-2403206"
   }
 }
