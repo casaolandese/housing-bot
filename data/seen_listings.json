@@ -2575,6 +2575,14 @@
     "title": "Kamer te huur Weesp (Amsterdam)",
     "url": "https://kamernet.nl/en/for-rent/room-weesp/keulsevaartstraat/room-2402669"
   },
+  "kamernet:2402675": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-30T18:41:44+00:00",
+    "notified": false,
+    "price": 1325,
+    "title": "Amstel, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/amstel/room-2402675"
+  },
   "kamernet:2402681": {
     "city": "Hilversum",
     "first_seen": "2026-08-28T00:58:45+00:00",
@@ -3054,5 +3062,13 @@
     "price": 730,
     "title": "Excellent neighbourhood, cosy room, 1st floor.",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/nicolaasweg/room-2403265"
+  },
+  "kamernet:2403273": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-30T18:41:44+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Rozenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/rozenstraat/room-2403273"
   }
 }
