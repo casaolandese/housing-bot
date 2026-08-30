@@ -3038,5 +3038,21 @@
     "price": 1500,
     "title": "Wijttenbachstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wijttenbachstraat/room-2403253"
+  },
+  "kamernet:2403261": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-30T18:11:42+00:00",
+    "notified": false,
+    "price": 730,
+    "title": "Excellent neighbourhood, cosy room.",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/nicolaasweg/room-2403261"
+  },
+  "kamernet:2403265": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-30T18:11:42+00:00",
+    "notified": false,
+    "price": 730,
+    "title": "Excellent neighbourhood, cosy room, 1st floor.",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/nicolaasweg/room-2403265"
   }
 }
