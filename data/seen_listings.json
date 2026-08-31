@@ -3166,5 +3166,13 @@
     "price": 900,
     "title": "Postdwarsweg, Soesterberg",
     "url": "https://kamernet.nl/en/for-rent/room-soesterberg/postdwarsweg/room-2403454"
+  },
+  "kamernet:2403469": {
+    "city": "Almere",
+    "first_seen": "2026-08-31T16:58:37+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Kamer in Almere Literatuurwijk",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/a-roland-holststraat/room-2403469"
   }
 }
