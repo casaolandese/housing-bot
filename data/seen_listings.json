@@ -223,6 +223,14 @@
     "title": "Room 13m2 in the center of Hoofddorp",
     "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/leeghwaterstraat/room-2324583"
   },
+  "kamernet:2340798": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-31T14:28:35+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Geer Ban, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/geer-ban/room-2340798"
+  },
   "kamernet:2343126": {
     "city": "Amsterdam",
     "first_seen": "2026-08-18T16:22:37+00:00",
