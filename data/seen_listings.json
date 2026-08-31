@@ -3063,6 +3063,14 @@
     "title": "Excellent neighbourhood, cosy room, 1st floor.",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/nicolaasweg/room-2403265"
   },
+  "kamernet:2403268": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-31T07:41:50+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Beursstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/beursstraat/room-2403268"
+  },
   "kamernet:2403273": {
     "city": "Amsterdam",
     "first_seen": "2026-08-30T18:41:44+00:00",
