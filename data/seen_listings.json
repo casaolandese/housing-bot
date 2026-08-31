@@ -3126,5 +3126,21 @@
     "price": 900,
     "title": "Room in a light appartment (Tolsteegbuurt)",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/toermalijnlaan/room-2403405"
+  },
+  "kamernet:2403411": {
+    "city": "Zaandam",
+    "first_seen": "2026-08-31T13:28:40+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "H Gerhardstraat, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/h-gerhardstraat/room-2403411"
+  },
+  "kamernet:2403413": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-31T13:28:40+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "2027",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/loenermark/room-2403413"
   }
 }
