@@ -3118,5 +3118,13 @@
     "price": 1250,
     "title": "Cornelis van Rijplantsoen, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-van-rijplantsoen/room-2403401"
+  },
+  "kamernet:2403405": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-31T13:12:12+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Room in a light appartment (Tolsteegbuurt)",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/toermalijnlaan/room-2403405"
   }
 }
