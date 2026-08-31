@@ -3110,5 +3110,13 @@
     "price": 780,
     "title": "2 rooms available in Deflandplein complex",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/delflandplein/room-2403382"
+  },
+  "kamernet:2403401": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-31T12:58:42+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Cornelis van Rijplantsoen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-van-rijplantsoen/room-2403401"
   }
 }
