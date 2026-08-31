@@ -3086,5 +3086,21 @@
     "price": 950,
     "title": "Biltstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/biltstraat/room-2403315"
+  },
+  "kamernet:2403349": {
+    "city": "Zaandam",
+    "first_seen": "2026-08-31T10:12:06+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "A.F. de Savornin Lohmanstraat, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/af-de-savornin-lohmanstraat/room-2403349"
+  },
+  "kamernet:2403352": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-31T10:12:06+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Hoofdweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hoofdweg/room-2403352"
   }
 }
