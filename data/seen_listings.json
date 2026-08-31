@@ -3111,6 +3111,14 @@
     "title": "Hoofdweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hoofdweg/room-2403352"
   },
+  "kamernet:2403367": {
+    "city": "Amsterdam",
+    "first_seen": "2026-08-31T15:28:25+00:00",
+    "notified": false,
+    "price": 925,
+    "title": "Simon Stevinstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/simon-stevinstraat/room-2403367"
+  },
   "kamernet:2403382": {
     "city": "Amsterdam",
     "first_seen": "2026-08-31T12:41:57+00:00",
