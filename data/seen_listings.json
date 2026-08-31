@@ -3158,5 +3158,13 @@
     "price": 650,
     "title": "2027",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/loenermark/room-2403413"
+  },
+  "kamernet:2403454": {
+    "city": "Soesterberg",
+    "first_seen": "2026-08-31T15:58:17+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Postdwarsweg, Soesterberg",
+    "url": "https://kamernet.nl/en/for-rent/room-soesterberg/postdwarsweg/room-2403454"
   }
 }
