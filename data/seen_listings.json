@@ -3078,5 +3078,13 @@
     "price": 1200,
     "title": "Rozenstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/rozenstraat/room-2403273"
+  },
+  "kamernet:2403315": {
+    "city": "Utrecht",
+    "first_seen": "2026-08-31T07:58:40+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Biltstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/biltstraat/room-2403315"
   }
 }
