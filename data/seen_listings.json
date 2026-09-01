@@ -3198,5 +3198,21 @@
     "price": 1700,
     "title": "Spuistraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2403501"
+  },
+  "kamernet:2403507": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-01T08:53:12+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Uitgeeststraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/uitgeeststraat/room-2403507"
+  },
+  "kamernet:2403542": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-01T08:53:12+00:00",
+    "notified": true,
+    "price": 875,
+    "title": "ROOM IN amsterdam nieuw sloten",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/laan-van-vlaanderen/room-2403542"
   }
 }
