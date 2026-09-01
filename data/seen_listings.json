@@ -3127,6 +3127,14 @@
     "title": "2 rooms available in Deflandplein complex",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/delflandplein/room-2403382"
   },
+  "kamernet:2403387": {
+    "city": "Zaandam",
+    "first_seen": "2026-09-01T08:36:59+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Zeemansstraat, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/zeemansstraat/room-2403387"
+  },
   "kamernet:2403401": {
     "city": "Amsterdam",
     "first_seen": "2026-08-31T12:58:42+00:00",
@@ -3159,6 +3167,14 @@
     "title": "2027",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/loenermark/room-2403413"
   },
+  "kamernet:2403434": {
+    "city": "Montfoort",
+    "first_seen": "2026-09-01T08:36:59+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Keizerstraat, Montfoort",
+    "url": "https://kamernet.nl/en/for-rent/room-montfoort/keizerstraat/room-2403434"
+  },
   "kamernet:2403454": {
     "city": "Soesterberg",
     "first_seen": "2026-08-31T15:58:17+00:00",
@@ -3174,5 +3190,13 @@
     "price": 800,
     "title": "Kamer in Almere Literatuurwijk",
     "url": "https://kamernet.nl/en/for-rent/room-almere/a-roland-holststraat/room-2403469"
+  },
+  "kamernet:2403501": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-01T08:36:59+00:00",
+    "notified": false,
+    "price": 1700,
+    "title": "Spuistraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2403501"
   }
 }
