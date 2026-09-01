@@ -3230,5 +3230,13 @@
     "price": 57,
     "title": "Generaal de la Reijlaan, Bussum",
     "url": "https://kamernet.nl/en/for-rent/room-bussum/generaal-de-la-reijlaan/room-2403580"
+  },
+  "kamernet:2403610": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-01T10:17:12+00:00",
+    "notified": false,
+    "price": 875,
+    "title": "I am looking for a female housemate who speaks Spa",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koornhorst/room-2403610"
   }
 }
