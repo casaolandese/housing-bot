@@ -3270,5 +3270,21 @@
     "price": 750,
     "title": "Room for rent",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/burgemeester-cramergracht/room-2403651"
+  },
+  "kamernet:2403673": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-01T13:51:05+00:00",
+    "notified": true,
+    "price": 375,
+    "title": "Studentenkamer te huur aan de Johannes",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/johannes-uitenbogaertstraat/room-2403673"
+  },
+  "kamernet:2403674": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-01T13:51:05+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Fleerde, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fleerde/room-2403674"
   }
 }
