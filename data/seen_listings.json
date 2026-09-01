@@ -255,6 +255,14 @@
     "title": "PRELUDE, ZAANDAM.",
     "url": "https://kamernet.nl/en/for-rent/room-zaandam/prelude/room-2371953"
   },
+  "kamernet:2382625": {
+    "city": "Diemen",
+    "first_seen": "2026-09-01T16:15:15+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Carel Willinkgracht, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/carel-willinkgracht/room-2382625"
+  },
   "kamernet:2388331": {
     "city": "Utrecht",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -3286,5 +3294,13 @@
     "price": 950,
     "title": "Fleerde, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fleerde/room-2403674"
+  },
+  "kamernet:2403715": {
+    "city": "Diemen",
+    "first_seen": "2026-09-01T16:15:15+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Charming room in Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/prins-bernhardlaan/room-2403715"
   }
 }
