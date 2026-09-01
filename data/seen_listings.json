@@ -3183,6 +3183,14 @@
     "title": "Postdwarsweg, Soesterberg",
     "url": "https://kamernet.nl/en/for-rent/room-soesterberg/postdwarsweg/room-2403454"
   },
+  "kamernet:2403460": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-01T09:52:32+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Nieuwe Herengracht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwe-herengracht/room-2403460"
+  },
   "kamernet:2403469": {
     "city": "Almere",
     "first_seen": "2026-08-31T16:58:37+00:00",
