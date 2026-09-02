@@ -3303,6 +3303,14 @@
     "title": "Charming room in Diemen",
     "url": "https://kamernet.nl/en/for-rent/room-diemen/prins-bernhardlaan/room-2403715"
   },
+  "kamernet:2403731": {
+    "city": "Weesp",
+    "first_seen": "2026-09-02T08:44:09+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Kamer te huur Weesp (Amsterdam)",
+    "url": "https://kamernet.nl/en/for-rent/room-weesp/keulsevaartstraat/room-2403731"
+  },
   "kamernet:2403743": {
     "city": "Amsterdam",
     "first_seen": "2026-09-02T06:26:27+00:00",
@@ -3310,5 +3318,37 @@
     "price": 800,
     "title": "Room for rent",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wannepad/room-2403743"
+  },
+  "kamernet:2403749": {
+    "city": "Weesp",
+    "first_seen": "2026-09-02T08:44:09+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Ruime kamer te huur in het mooi rustige Weesp",
+    "url": "https://kamernet.nl/en/for-rent/room-weesp/keulsevaartstraat/room-2403749"
+  },
+  "kamernet:2403765": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-02T08:44:09+00:00",
+    "notified": false,
+    "price": 1717,
+    "title": "Jan Pieter Heijestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-pieter-heijestraat/room-2403765"
+  },
+  "kamernet:2403769": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-02T08:44:09+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Gustav Mahlerlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gustav-mahlerlaan/room-2403769"
+  },
+  "kamernet:2403779": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-02T08:44:09+00:00",
+    "notified": false,
+    "price": 1020,
+    "title": "Haarlemmerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/haarlemmerstraat/room-2403779"
   }
 }
