@@ -3359,6 +3359,14 @@
     "title": "Nico Jessekade, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nico-jessekade/room-2403786"
   },
+  "kamernet:2403803": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-02T09:58:31+00:00",
+    "notified": false,
+    "price": 749,
+    "title": "Nette gemeubileerd kamer midden in Haarlem centrum",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/barrevoetestraat/room-2403803"
+  },
   "kamernet:2403804": {
     "city": "Almere",
     "first_seen": "2026-09-02T08:58:53+00:00",
@@ -3398,5 +3406,21 @@
     "price": 575,
     "title": "Generaal de la Reijlaan, Bussum",
     "url": "https://kamernet.nl/en/for-rent/room-bussum/generaal-de-la-reijlaan/room-2403829"
+  },
+  "kamernet:2403840": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-02T09:58:31+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Zeeburgerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/zeeburgerstraat/room-2403840"
+  },
+  "kamernet:2403843": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-02T09:58:31+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Zeeburgerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/zeeburgerstraat/room-2403843"
   }
 }
