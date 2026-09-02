@@ -3302,5 +3302,13 @@
     "price": 900,
     "title": "Charming room in Diemen",
     "url": "https://kamernet.nl/en/for-rent/room-diemen/prins-bernhardlaan/room-2403715"
+  },
+  "kamernet:2403743": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-02T06:26:27+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wannepad/room-2403743"
   }
 }
