@@ -3390,5 +3390,13 @@
     "price": 800,
     "title": "Two Furnished Student Rooms for Rent in Utrecht Ov",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/milosdreef/room-2403821"
+  },
+  "kamernet:2403829": {
+    "city": "Bussum",
+    "first_seen": "2026-09-02T09:20:46+00:00",
+    "notified": false,
+    "price": 575,
+    "title": "Generaal de la Reijlaan, Bussum",
+    "url": "https://kamernet.nl/en/for-rent/room-bussum/generaal-de-la-reijlaan/room-2403829"
   }
 }
