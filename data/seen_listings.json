@@ -3350,5 +3350,45 @@
     "price": 1020,
     "title": "Haarlemmerstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/haarlemmerstraat/room-2403779"
+  },
+  "kamernet:2403786": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-02T08:58:53+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Nico Jessekade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nico-jessekade/room-2403786"
+  },
+  "kamernet:2403804": {
+    "city": "Almere",
+    "first_seen": "2026-09-02T08:58:53+00:00",
+    "notified": true,
+    "price": 885,
+    "title": "Spacious room for rent in Almere Stad",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/smildestraat/room-2403804"
+  },
+  "kamernet:2403807": {
+    "city": "Zeist",
+    "first_seen": "2026-09-02T08:58:53+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Kamer 27m2 in rustig en net studentenhuis",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/2e-dorpsstraat/room-2403807"
+  },
+  "kamernet:2403813": {
+    "city": "Houten",
+    "first_seen": "2026-09-02T08:58:53+00:00",
+    "notified": true,
+    "price": 750,
+    "title": "Room in Houten",
+    "url": "https://kamernet.nl/en/for-rent/room-houten/de-molen/room-2403813"
+  },
+  "kamernet:2403821": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-02T08:58:53+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Two Furnished Student Rooms for Rent in Utrecht Ov",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/milosdreef/room-2403821"
   }
 }
