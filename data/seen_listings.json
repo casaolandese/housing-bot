@@ -3422,5 +3422,13 @@
     "price": 1250,
     "title": "Zeeburgerstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/zeeburgerstraat/room-2403843"
+  },
+  "kamernet:2403854": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-02T10:43:33+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Fijne kamer vlakbij het centrum van Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwevaart/room-2403854"
   }
 }
