@@ -3279,6 +3279,14 @@
     "title": "Room for rent",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/burgemeester-cramergracht/room-2403651"
   },
+  "kamernet:2403664": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-02T14:38:11+00:00",
+    "notified": true,
+    "price": 825,
+    "title": "Room for rent Amsterdam (registration possible!)",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hiraistraat/room-2403664"
+  },
   "kamernet:2403673": {
     "city": "Utrecht",
     "first_seen": "2026-09-01T13:51:05+00:00",
@@ -3446,5 +3454,13 @@
     "price": 950,
     "title": "Louise Marie Loeberplantsoen, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/louise-marie-loeberplantsoen/room-2403892"
+  },
+  "kamernet:2403908": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-02T14:38:11+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Herengracht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/herengracht/room-2403908"
   }
 }
