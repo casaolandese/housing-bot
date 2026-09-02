@@ -3430,5 +3430,13 @@
     "price": 850,
     "title": "Fijne kamer vlakbij het centrum van Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwevaart/room-2403854"
+  },
+  "kamernet:2403871": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-02T12:22:36+00:00",
+    "notified": false,
+    "price": 500,
+    "title": "Room for rent in Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/korfoedreef/room-2403871"
   }
 }
