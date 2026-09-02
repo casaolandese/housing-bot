@@ -3438,5 +3438,13 @@
     "price": 500,
     "title": "Room for rent in Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/korfoedreef/room-2403871"
+  },
+  "kamernet:2403892": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-02T13:01:37+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Louise Marie Loeberplantsoen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/louise-marie-loeberplantsoen/room-2403892"
   }
 }
