@@ -2879,6 +2879,14 @@
     "title": "2 rooms close  to trainstation",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/jan-gijzenkade/room-2403020"
   },
+  "kamernet:2403021": {
+    "city": "Diemen",
+    "first_seen": "2026-09-02T15:46:39+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "van Dijkstraat, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/van-dijkstraat/room-2403021"
+  },
   "kamernet:2403030": {
     "city": "Volendam",
     "first_seen": "2026-08-29T11:38:31+00:00",
