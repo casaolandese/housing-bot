@@ -3470,5 +3470,13 @@
     "price": 1300,
     "title": "Herengracht, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/herengracht/room-2403908"
+  },
+  "kamernet:2404014": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-02T23:31:30+00:00",
+    "notified": true,
+    "price": 750,
+    "title": "Shared Apartment for Sublet",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/vechtplantsoen/room-2404014"
   }
 }
