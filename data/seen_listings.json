@@ -3574,5 +3574,13 @@
     "price": 799,
     "title": "gedeelde kamer",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/lucasbolwerk/room-2404048"
+  },
+  "kamernet:2404086": {
+    "city": "Zeist",
+    "first_seen": "2026-09-03T10:42:51+00:00",
+    "notified": false,
+    "price": 899,
+    "title": "Female only student private room",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/steynlaan/room-2404086"
   }
 }
