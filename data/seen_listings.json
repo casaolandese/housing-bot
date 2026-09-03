@@ -3479,6 +3479,14 @@
     "title": "Herengracht, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/herengracht/room-2403908"
   },
+  "kamernet:2403961": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-03T08:45:26+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "S. F. van Ossstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/s-f-van-ossstraat/room-2403961"
+  },
   "kamernet:2403970": {
     "city": "Haarlem",
     "first_seen": "2026-09-03T07:25:38+00:00",
