@@ -3622,5 +3622,13 @@
     "price": 700,
     "title": "Hilvertsweg, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/hilvertsweg/room-2404106"
+  },
+  "kamernet:2404144": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-03T13:51:45+00:00",
+    "notified": true,
+    "price": 675,
+    "title": "Large room for a working student 01-10-2026",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gouden-leeuw/room-2404144"
   }
 }
