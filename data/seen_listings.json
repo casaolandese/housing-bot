@@ -3623,6 +3623,22 @@
     "title": "Hilvertsweg, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/hilvertsweg/room-2404106"
   },
+  "kamernet:2404127": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-03T15:37:04+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Kamer in een gemeubileerd appartement in Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/waterlooplein/room-2404127"
+  },
+  "kamernet:2404142": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-09-03T15:37:04+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Jan van Scorelhage, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/jan-van-scorelhage/room-2404142"
+  },
   "kamernet:2404144": {
     "city": "Amsterdam",
     "first_seen": "2026-09-03T13:51:45+00:00",
@@ -3630,5 +3646,13 @@
     "price": 675,
     "title": "Large room for a working student 01-10-2026",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gouden-leeuw/room-2404144"
+  },
+  "kamernet:2404162": {
+    "city": "Soesterberg",
+    "first_seen": "2026-09-03T15:37:04+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Postdwarsweg, Soesterberg",
+    "url": "https://kamernet.nl/en/for-rent/room-soesterberg/postdwarsweg/room-2404162"
   }
 }
