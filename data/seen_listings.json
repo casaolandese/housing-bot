@@ -3575,6 +3575,14 @@
     "title": "gedeelde kamer",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/lucasbolwerk/room-2404048"
   },
+  "kamernet:2404084": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-03T13:17:35+00:00",
+    "notified": true,
+    "price": 460,
+    "title": "Beautiful, spacious room.",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/constant-erzeijstraat/room-2404084"
+  },
   "kamernet:2404086": {
     "city": "Zeist",
     "first_seen": "2026-09-03T10:42:51+00:00",
@@ -3598,5 +3606,21 @@
     "price": 550,
     "title": "Hilvertsweg, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/hilvertsweg/room-2404103"
+  },
+  "kamernet:2404104": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-03T13:17:35+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Hilvertsweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/hilvertsweg/room-2404104"
+  },
+  "kamernet:2404106": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-03T13:17:35+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Hilvertsweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/hilvertsweg/room-2404106"
   }
 }
