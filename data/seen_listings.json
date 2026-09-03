@@ -351,6 +351,14 @@
     "title": "Studentenkamer te huur in rustig huis",
     "url": "https://kamernet.nl/en/for-rent/room-zeist/2e-dorpsstraat/room-2396403"
   },
+  "kamernet:2396846": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-03T07:59:06+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Elisabeth Boddaertstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elisabeth-boddaertstraat/room-2396846"
+  },
   "kamernet:2396995": {
     "city": "Utrecht",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -3503,6 +3511,14 @@
     "title": "Grote kamer (38 m²) in relaxte woongroep",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/bedumerschans/room-2403982"
   },
+  "kamernet:2404013": {
+    "city": "Amstelveen",
+    "first_seen": "2026-09-03T07:59:06+00:00",
+    "notified": true,
+    "price": 700,
+    "title": "Brink, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/jupiter/room-2404013"
+  },
   "kamernet:2404014": {
     "city": "Utrecht",
     "first_seen": "2026-09-02T23:31:30+00:00",
@@ -3510,5 +3526,13 @@
     "price": 750,
     "title": "Shared Apartment for Sublet",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/vechtplantsoen/room-2404014"
+  },
+  "kamernet:2404032": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-03T07:59:06+00:00",
+    "notified": false,
+    "price": 1240,
+    "title": "Postjesweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjesweg/room-2404032"
   }
 }
