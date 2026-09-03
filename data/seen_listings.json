@@ -3582,5 +3582,21 @@
     "price": 899,
     "title": "Female only student private room",
     "url": "https://kamernet.nl/en/for-rent/room-zeist/steynlaan/room-2404086"
+  },
+  "kamernet:2404101": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-03T12:53:25+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Hilvertsweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/hilvertsweg/room-2404101"
+  },
+  "kamernet:2404103": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-03T12:53:25+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Hilvertsweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/hilvertsweg/room-2404103"
   }
 }
