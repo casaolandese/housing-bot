@@ -3654,5 +3654,21 @@
     "price": 900,
     "title": "Postdwarsweg, Soesterberg",
     "url": "https://kamernet.nl/en/for-rent/room-soesterberg/postdwarsweg/room-2404162"
+  },
+  "kamernet:2404165": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-03T16:52:01+00:00",
+    "notified": false,
+    "price": 1075,
+    "title": "Jarasingel, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jarasingel/room-2404165"
+  },
+  "kamernet:2404179": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-03T16:52:01+00:00",
+    "notified": false,
+    "price": 665,
+    "title": "Te huur mooie kamer in Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/bellamystraat/room-2404179"
   }
 }
