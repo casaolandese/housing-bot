@@ -3511,6 +3511,14 @@
     "title": "Grote kamer (38 m²) in relaxte woongroep",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/bedumerschans/room-2403982"
   },
+  "kamernet:2403997": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-03T08:22:19+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Robert Fruinlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/robert-fruinlaan/room-2403997"
+  },
   "kamernet:2404013": {
     "city": "Amstelveen",
     "first_seen": "2026-09-03T07:59:06+00:00",
@@ -3534,5 +3542,21 @@
     "price": 1240,
     "title": "Postjesweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjesweg/room-2404032"
+  },
+  "kamernet:2404044": {
+    "city": "Zaandam",
+    "first_seen": "2026-09-03T08:22:19+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "H Gerhardstraat, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/h-gerhardstraat/room-2404044"
+  },
+  "kamernet:2404048": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-03T08:22:19+00:00",
+    "notified": true,
+    "price": 799,
+    "title": "gedeelde kamer",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/lucasbolwerk/room-2404048"
   }
 }
