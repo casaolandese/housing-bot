@@ -3479,6 +3479,14 @@
     "title": "Gemeubileerde kamer voor stagiair",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/verspronckweg/room-2403970"
   },
+  "kamernet:2403972": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-09-03T07:44:10+00:00",
+    "notified": true,
+    "price": 540,
+    "title": "Grote kamer (34 m²) in relaxte woongroep",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/bedumerschans/room-2403972"
+  },
   "kamernet:2403976": {
     "city": "Amsterdam",
     "first_seen": "2026-09-03T07:25:38+00:00",
@@ -3486,6 +3494,14 @@
     "price": 999,
     "title": "Erik de Roodestraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erik-de-roodestraat/room-2403976"
+  },
+  "kamernet:2403982": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-09-03T07:44:10+00:00",
+    "notified": true,
+    "price": 540,
+    "title": "Grote kamer (38 m²) in relaxte woongroep",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/bedumerschans/room-2403982"
   },
   "kamernet:2404014": {
     "city": "Utrecht",
