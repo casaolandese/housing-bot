@@ -3471,6 +3471,22 @@
     "title": "Herengracht, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/herengracht/room-2403908"
   },
+  "kamernet:2403970": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-03T07:25:38+00:00",
+    "notified": true,
+    "price": 600,
+    "title": "Gemeubileerde kamer voor stagiair",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/verspronckweg/room-2403970"
+  },
+  "kamernet:2403976": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-03T07:25:38+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Erik de Roodestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erik-de-roodestraat/room-2403976"
+  },
   "kamernet:2404014": {
     "city": "Utrecht",
     "first_seen": "2026-09-02T23:31:30+00:00",
