@@ -279,6 +279,14 @@
     "title": "Beautiful furnitured attick room",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/pionstraat/room-2388331"
   },
+  "kamernet:2389593": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-04T15:17:01+00:00",
+    "notified": true,
+    "price": 750,
+    "title": "Room(22m2) in city center",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/andreasstraat/room-2389593"
+  },
   "kamernet:2394711": {
     "city": "Utrecht",
     "first_seen": "2026-08-20T03:13:56+00:00",
@@ -3838,6 +3846,14 @@
     "price": 1200,
     "title": "Nijverheidsstraat, Hoofddorp",
     "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/nijverheidsstraat/room-2404390"
+  },
+  "kamernet:2404407": {
+    "city": "Almere",
+    "first_seen": "2026-09-04T15:17:01+00:00",
+    "notified": true,
+    "price": 895,
+    "title": "Kamer in Centrum Almere van 21+40 m2",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/raaltepad/room-2404407"
   },
   "kamernet:2404408": {
     "city": "Almere",
