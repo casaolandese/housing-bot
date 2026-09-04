@@ -3847,6 +3847,14 @@
     "title": "Nijverheidsstraat, Hoofddorp",
     "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/nijverheidsstraat/room-2404390"
   },
+  "kamernet:2404391": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-04T16:17:08+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Bedroom in a spacious apartment",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/livingstonelaan/room-2404391"
+  },
   "kamernet:2404407": {
     "city": "Almere",
     "first_seen": "2026-09-04T15:17:01+00:00",
@@ -3862,5 +3870,21 @@
     "price": 500,
     "title": "Room for rent",
     "url": "https://kamernet.nl/en/for-rent/room-almere/saffraanplein/room-2404408"
+  },
+  "kamernet:2404420": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-04T16:17:08+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Room in the nature of Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/dorpsweg-ransdorp/room-2404420"
+  },
+  "kamernet:2404425": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-04T16:17:08+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Room for rent 12 m2 in Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/jaap-edendreef/room-2404425"
   }
 }
