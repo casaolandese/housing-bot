@@ -3687,6 +3687,14 @@
     "title": "Jarasingel, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jarasingel/room-2404165"
   },
+  "kamernet:2404173": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-04T17:03:32+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Karthuizersstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/karthuizersstraat/room-2404173"
+  },
   "kamernet:2404179": {
     "city": "Utrecht",
     "first_seen": "2026-09-03T16:52:01+00:00",
@@ -3886,5 +3894,13 @@
     "price": 750,
     "title": "Room for rent 12 m2 in Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/jaap-edendreef/room-2404425"
+  },
+  "kamernet:2404428": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-04T17:03:32+00:00",
+    "notified": true,
+    "price": 500,
+    "title": "Nice room with open attic",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/hasselaersplein/room-2404428"
   }
 }
