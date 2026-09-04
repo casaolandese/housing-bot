@@ -3742,5 +3742,13 @@
     "price": 1000,
     "title": "Kardemomweg, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/kardemomweg/room-2404307"
+  },
+  "kamernet:2404323": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-04T11:15:57+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Kamer+Slaapkamer+Douche/Toilet",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/saigondreef/room-2404323"
   }
 }
