@@ -3782,5 +3782,21 @@
     "price": 550,
     "title": "Kamer+Slaapkamer+Douche/Toilet",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/saigondreef/room-2404323"
+  },
+  "kamernet:2404348": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-04T12:54:00+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Jan van Galenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-van-galenstraat/room-2404348"
+  },
+  "kamernet:2404351": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-04T12:54:00+00:00",
+    "notified": true,
+    "price": 700,
+    "title": "Large room for a working student 01-10-2026",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gouden-leeuw/room-2404351"
   }
 }
