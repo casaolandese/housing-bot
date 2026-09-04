@@ -311,6 +311,14 @@
     "title": "There is a room for rent",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/arnodreef/room-2395289"
   },
+  "kamernet:2395602": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-04T07:33:08+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Room for Rent in Utrecht – Right Next to Rokade",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/prinses-margrietstraat/room-2395602"
+  },
   "kamernet:2395742": {
     "city": "Utrecht",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -3678,5 +3686,29 @@
     "price": 795,
     "title": "Korte Noorderweg, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/korte-noorderweg/room-2404211"
+  },
+  "kamernet:2404222": {
+    "city": "Halfweg",
+    "first_seen": "2026-09-04T07:33:08+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Zijkanaal F Oost, Halfweg",
+    "url": "https://kamernet.nl/en/for-rent/room-halfweg/zijkanaal-f-oost/room-2404222"
+  },
+  "kamernet:2404228": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-04T07:33:08+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Light  and fully furnished room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/arent-janszoon-ernststraat/room-2404228"
+  },
+  "kamernet:2404237": {
+    "city": "De Meern",
+    "first_seen": "2026-09-04T07:33:08+00:00",
+    "notified": false,
+    "price": 960,
+    "title": "Laan 1954, De Meern",
+    "url": "https://kamernet.nl/en/for-rent/room-de-meern/laan-1954/room-2404237"
   }
 }
