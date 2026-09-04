@@ -3743,6 +3743,38 @@
     "title": "Kardemomweg, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/kardemomweg/room-2404307"
   },
+  "kamernet:2404312": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-04T12:33:10+00:00",
+    "notified": true,
+    "price": 750,
+    "title": "Furnished top-floor room in Holendrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/maldenhof/room-2404312"
+  },
+  "kamernet:2404318": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-04T12:33:10+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Haringbuisdijk, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/haringbuisdijk/room-2404318"
+  },
+  "kamernet:2404320": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-04T12:33:10+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Tweede Helmersstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tweede-helmersstraat/room-2404320"
+  },
+  "kamernet:2404321": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-04T12:33:10+00:00",
+    "notified": true,
+    "price": 690,
+    "title": "Charming Room Available in Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/thomas-a-kempisweg/room-2404321"
+  },
   "kamernet:2404323": {
     "city": "Utrecht",
     "first_seen": "2026-09-04T11:15:57+00:00",
