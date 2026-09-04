@@ -3726,5 +3726,13 @@
     "price": 1400,
     "title": "Van Vollenhovenlaan, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-vollenhovenlaan/room-2404259"
+  },
+  "kamernet:2404273": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-04T08:53:03+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Bijlmerdreef, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bijlmerdreef/room-2404273"
   }
 }
