@@ -3838,5 +3838,13 @@
     "price": 1200,
     "title": "Nijverheidsstraat, Hoofddorp",
     "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/nijverheidsstraat/room-2404390"
+  },
+  "kamernet:2404408": {
+    "city": "Almere",
+    "first_seen": "2026-09-04T14:51:36+00:00",
+    "notified": false,
+    "price": 500,
+    "title": "Room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/saffraanplein/room-2404408"
   }
 }
