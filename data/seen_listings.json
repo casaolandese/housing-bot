@@ -3798,5 +3798,29 @@
     "price": 700,
     "title": "Large room for a working student 01-10-2026",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gouden-leeuw/room-2404351"
+  },
+  "kamernet:2404383": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-04T13:51:33+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Laurens Reaalstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/laurens-reaalstraat/room-2404383"
+  },
+  "kamernet:2404386": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-04T13:51:33+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Erik de Roodestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erik-de-roodestraat/room-2404386"
+  },
+  "kamernet:2404390": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-09-04T13:51:33+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Nijverheidsstraat, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/nijverheidsstraat/room-2404390"
   }
 }
