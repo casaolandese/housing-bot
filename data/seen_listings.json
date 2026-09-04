@@ -3902,5 +3902,13 @@
     "price": 500,
     "title": "Nice room with open attic",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/hasselaersplein/room-2404428"
+  },
+  "kamernet:2404453": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-04T19:42:53+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Tweede van Swindenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tweede-van-swindenstraat/room-2404453"
   }
 }
