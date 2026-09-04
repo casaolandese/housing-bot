@@ -3799,6 +3799,14 @@
     "title": "Large room for a working student 01-10-2026",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gouden-leeuw/room-2404351"
   },
+  "kamernet:2404370": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-04T14:15:59+00:00",
+    "notified": true,
+    "price": 300,
+    "title": "Sublease of my 2nd room for a few weeks",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/srefidensiplein/room-2404370"
+  },
   "kamernet:2404383": {
     "city": "Utrecht",
     "first_seen": "2026-09-04T13:51:33+00:00",
