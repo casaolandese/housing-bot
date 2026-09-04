@@ -3718,5 +3718,13 @@
     "price": 960,
     "title": "Laan 1954, De Meern",
     "url": "https://kamernet.nl/en/for-rent/room-de-meern/laan-1954/room-2404237"
+  },
+  "kamernet:2404259": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-04T08:36:41+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Van Vollenhovenlaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-vollenhovenlaan/room-2404259"
   }
 }
