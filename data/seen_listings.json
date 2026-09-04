@@ -3734,5 +3734,13 @@
     "price": 950,
     "title": "Bijlmerdreef, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bijlmerdreef/room-2404273"
+  },
+  "kamernet:2404307": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-04T10:51:19+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Kardemomweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/kardemomweg/room-2404307"
   }
 }
