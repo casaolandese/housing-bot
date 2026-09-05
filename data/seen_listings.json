@@ -3855,6 +3855,14 @@
     "title": "Erik de Roodestraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erik-de-roodestraat/room-2404386"
   },
+  "kamernet:2404388": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-05T07:31:21+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Haringbuisdijk, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/haringbuisdijk/room-2404388"
+  },
   "kamernet:2404390": {
     "city": "Hoofddorp",
     "first_seen": "2026-09-04T13:51:33+00:00",
@@ -3942,5 +3950,13 @@
     "price": 975,
     "title": "Tweede van Swindenstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tweede-van-swindenstraat/room-2404453"
+  },
+  "kamernet:2404463": {
+    "city": "Amstelveen",
+    "first_seen": "2026-09-05T07:31:21+00:00",
+    "notified": false,
+    "price": 1220,
+    "title": "Patrijspoort, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/patrijspoort/room-2404463"
   }
 }
