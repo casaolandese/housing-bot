@@ -215,6 +215,14 @@
     "title": "Sarphatistraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/sarphatistraat/room-2320766"
   },
+  "kamernet:2324367": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-05T07:17:03+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Curacaostraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/curacaostraat/room-2324367"
+  },
   "kamernet:2324583": {
     "city": "Hoofddorp",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -3902,6 +3910,30 @@
     "price": 500,
     "title": "Nice room with open attic",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/hasselaersplein/room-2404428"
+  },
+  "kamernet:2404435": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-05T07:17:03+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Bart van der Leckplantsoen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bart-van-der-leckplantsoen/room-2404435"
+  },
+  "kamernet:2404438": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-05T07:17:03+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2404438"
+  },
+  "kamernet:2404447": {
+    "city": "Almere",
+    "first_seen": "2026-09-05T07:17:03+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Room for rent in Almere Buiten",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/prozastraat/room-2404447"
   },
   "kamernet:2404453": {
     "city": "Amsterdam",
