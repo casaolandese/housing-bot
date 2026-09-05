@@ -3982,5 +3982,13 @@
     "price": 950,
     "title": "Groenhoven, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/groenhoven/room-2404523"
+  },
+  "kamernet:2404537": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-05T11:14:42+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Light  and fully furnished room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/arent-janszoon-ernststraat/room-2404537"
   }
 }
