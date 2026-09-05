@@ -4006,5 +4006,13 @@
     "price": 900,
     "title": "Light  and fully furnished room for rent",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/arent-janszoon-ernststraat/room-2404537"
+  },
+  "kamernet:2404545": {
+    "city": "Zaandam",
+    "first_seen": "2026-09-05T13:17:25+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Room for rent in Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/kweekerstraat/room-2404545"
   }
 }
