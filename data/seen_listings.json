@@ -4046,5 +4046,13 @@
     "price": 750,
     "title": "Helene Swarthlaan, Uithoorn",
     "url": "https://kamernet.nl/en/for-rent/room-uithoorn/helene-swarthlaan/room-2404586"
+  },
+  "kamernet:2404595": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-05T16:23:15+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Waverstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/waverstraat/room-2404595"
   }
 }
