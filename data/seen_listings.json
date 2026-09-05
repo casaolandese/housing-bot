@@ -4054,5 +4054,13 @@
     "price": 950,
     "title": "Waverstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/waverstraat/room-2404595"
+  },
+  "kamernet:2404626": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-05T20:48:49+00:00",
+    "notified": true,
+    "price": 875,
+    "title": "Room in energy neutral new home",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/daelwijcklaan/room-2404626"
   }
 }
