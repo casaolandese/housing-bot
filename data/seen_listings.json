@@ -3759,6 +3759,14 @@
     "title": "Bijlmerdreef, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bijlmerdreef/room-2404273"
   },
+  "kamernet:2404281": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-05T12:58:27+00:00",
+    "notified": false,
+    "price": 496,
+    "title": "Appartement (4 kamers) voor 4 studentes !!",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/groenhoven/room-2404281"
+  },
   "kamernet:2404307": {
     "city": "Utrecht",
     "first_seen": "2026-09-04T10:51:19+00:00",
@@ -3974,6 +3982,14 @@
     "price": 950,
     "title": "Tolkamerstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tolkamerstraat/room-2404504"
+  },
+  "kamernet:2404507": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-05T12:58:27+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Room in a house with garden",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/rooseveltlaan/room-2404507"
   },
   "kamernet:2404523": {
     "city": "Amsterdam",
