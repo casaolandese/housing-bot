@@ -3958,5 +3958,21 @@
     "price": 1220,
     "title": "Patrijspoort, Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/patrijspoort/room-2404463"
+  },
+  "kamernet:2404500": {
+    "city": "Halfweg",
+    "first_seen": "2026-09-05T09:32:10+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Zijkanaal F Oost, Halfweg",
+    "url": "https://kamernet.nl/en/for-rent/room-halfweg/zijkanaal-f-oost/room-2404500"
+  },
+  "kamernet:2404504": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-05T09:32:10+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Tolkamerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tolkamerstraat/room-2404504"
   }
 }
