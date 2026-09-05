@@ -4015,6 +4015,14 @@
     "title": "Room for rent in Zaandam",
     "url": "https://kamernet.nl/en/for-rent/room-zaandam/kweekerstraat/room-2404545"
   },
+  "kamernet:2404566": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-05T15:15:02+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Postjesweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjesweg/room-2404566"
+  },
   "kamernet:2404571": {
     "city": "Amsterdam",
     "first_seen": "2026-09-05T14:39:49+00:00",
@@ -4022,5 +4030,13 @@
     "price": 630,
     "title": "Room in Bijlmer Centrum",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hoogoord/room-2404571"
+  },
+  "kamernet:2404582": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-09-05T15:15:02+00:00",
+    "notified": false,
+    "price": 440,
+    "title": "Raemaekerslaan, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/raemaekerslaan/room-2404582"
   }
 }
