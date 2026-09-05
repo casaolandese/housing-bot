@@ -4038,5 +4038,13 @@
     "price": 440,
     "title": "Raemaekerslaan, Nieuwegein",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/raemaekerslaan/room-2404582"
+  },
+  "kamernet:2404586": {
+    "city": "Uithoorn",
+    "first_seen": "2026-09-05T15:48:55+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Helene Swarthlaan, Uithoorn",
+    "url": "https://kamernet.nl/en/for-rent/room-uithoorn/helene-swarthlaan/room-2404586"
   }
 }
