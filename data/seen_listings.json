@@ -3974,5 +3974,13 @@
     "price": 950,
     "title": "Tolkamerstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tolkamerstraat/room-2404504"
+  },
+  "kamernet:2404523": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-05T10:53:13+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Groenhoven, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/groenhoven/room-2404523"
   }
 }
