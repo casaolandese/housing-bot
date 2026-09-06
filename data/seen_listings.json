@@ -4135,6 +4135,14 @@
     "title": "Clara Zetkinstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/clara-zetkinstraat/room-2404685"
   },
+  "kamernet:2404699": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-06T14:58:48+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Elisabeth Boddaertstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elisabeth-boddaertstraat/room-2404699"
+  },
   "kamernet:2404712": {
     "city": "Amsterdam",
     "first_seen": "2026-09-06T10:58:20+00:00",
