@@ -4174,5 +4174,13 @@
     "price": 845,
     "title": "Renovated room with private kitchenette – Almere",
     "url": "https://kamernet.nl/en/for-rent/room-almere/bosgouw/room-2404777"
+  },
+  "kamernet:2404783": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-06T18:04:00+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Oostelijke Handelskade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oostelijke-handelskade/room-2404783"
   }
 }
