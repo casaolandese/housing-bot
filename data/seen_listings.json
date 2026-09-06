@@ -4055,6 +4055,14 @@
     "title": "Helene Swarthlaan, Uithoorn",
     "url": "https://kamernet.nl/en/for-rent/room-uithoorn/helene-swarthlaan/room-2404586"
   },
+  "kamernet:2404589": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-06T07:35:09+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Stettineiland, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/stettineiland/room-2404589"
+  },
   "kamernet:2404594": {
     "city": "Utrecht",
     "first_seen": "2026-09-06T07:19:09+00:00",
@@ -4102,5 +4110,13 @@
     "price": 1060,
     "title": "Tiengemeten, Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/tiengemeten/room-2404628"
+  },
+  "kamernet:2404635": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-06T07:35:09+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Kantershof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kantershof/room-2404635"
   }
 }
