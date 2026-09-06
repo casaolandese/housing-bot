@@ -4126,5 +4126,13 @@
     "price": 930,
     "title": "Clara Zetkinstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/clara-zetkinstraat/room-2404685"
+  },
+  "kamernet:2404712": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-06T10:58:20+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Jan Puntstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-puntstraat/room-2404712"
   }
 }
