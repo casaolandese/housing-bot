@@ -231,6 +231,14 @@
     "title": "Room 13m2 in the center of Hoofddorp",
     "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/leeghwaterstraat/room-2324583"
   },
+  "kamernet:2336550": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-06T13:34:32+00:00",
+    "notified": true,
+    "price": 552,
+    "title": "Spare bedroom",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/j-kruiswijkhof/room-2336550"
+  },
   "kamernet:2340798": {
     "city": "Amsterdam",
     "first_seen": "2026-08-31T14:28:35+00:00",
@@ -4134,5 +4142,21 @@
     "price": 950,
     "title": "Jan Puntstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-puntstraat/room-2404712"
+  },
+  "kamernet:2404714": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-06T13:34:32+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Erik de Roodestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erik-de-roodestraat/room-2404714"
+  },
+  "kamernet:2404723": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-06T13:34:32+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Room renting 1 oktober 2026",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bernard-shawsingel/room-2404723"
   }
 }
