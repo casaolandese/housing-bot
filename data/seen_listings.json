@@ -4118,5 +4118,13 @@
     "price": 1100,
     "title": "Kantershof, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kantershof/room-2404635"
+  },
+  "kamernet:2404685": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-06T09:49:09+00:00",
+    "notified": false,
+    "price": 930,
+    "title": "Clara Zetkinstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/clara-zetkinstraat/room-2404685"
   }
 }
