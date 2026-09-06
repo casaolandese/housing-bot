@@ -4166,5 +4166,13 @@
     "price": 900,
     "title": "Room renting 1 oktober 2026",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bernard-shawsingel/room-2404723"
+  },
+  "kamernet:2404777": {
+    "city": "Almere",
+    "first_seen": "2026-09-06T17:48:59+00:00",
+    "notified": true,
+    "price": 845,
+    "title": "Renovated room with private kitchenette – Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/bosgouw/room-2404777"
   }
 }
