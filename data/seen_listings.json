@@ -3767,6 +3767,14 @@
     "title": "Appartement (4 kamers) voor 4 studentes !!",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/groenhoven/room-2404281"
   },
+  "kamernet:2404292": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-06T07:19:09+00:00",
+    "notified": false,
+    "price": 4,
+    "title": "Celebesstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/celebesstraat/room-2404292"
+  },
   "kamernet:2404307": {
     "city": "Utrecht",
     "first_seen": "2026-09-04T10:51:19+00:00",
@@ -4047,6 +4055,14 @@
     "title": "Helene Swarthlaan, Uithoorn",
     "url": "https://kamernet.nl/en/for-rent/room-uithoorn/helene-swarthlaan/room-2404586"
   },
+  "kamernet:2404594": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-06T07:19:09+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Medanstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/medanstraat/room-2404594"
+  },
   "kamernet:2404595": {
     "city": "Amsterdam",
     "first_seen": "2026-09-05T16:23:15+00:00",
@@ -4055,6 +4071,22 @@
     "title": "Waverstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/waverstraat/room-2404595"
   },
+  "kamernet:2404606": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-06T07:19:09+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Amsterdam Noord (Metro 52 )",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elzenhagensingel/room-2404606"
+  },
+  "kamernet:2404607": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-06T07:19:09+00:00",
+    "notified": true,
+    "price": 650,
+    "title": "Short-Term Room Available in Utrecht – €650 All-In",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/rooseveltlaan/room-2404607"
+  },
   "kamernet:2404626": {
     "city": "Utrecht",
     "first_seen": "2026-09-05T20:48:49+00:00",
@@ -4062,5 +4094,13 @@
     "price": 875,
     "title": "Room in energy neutral new home",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/daelwijcklaan/room-2404626"
+  },
+  "kamernet:2404628": {
+    "city": "Amstelveen",
+    "first_seen": "2026-09-06T07:19:09+00:00",
+    "notified": false,
+    "price": 1060,
+    "title": "Tiengemeten, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/tiengemeten/room-2404628"
   }
 }
