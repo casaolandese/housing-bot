@@ -15,6 +15,14 @@
     "title": "Tourniairestraat, Amsterdam",
     "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/tourniairestraat/kamer-518017"
   },
+  "directwonen:518575": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-07T17:18:54+00:00",
+    "notified": true,
+    "price": 605,
+    "title": "Gloriantdreef, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/gloriantdreef/kamer-518575"
+  },
   "directwonen:518578": {
     "city": "Utrecht",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -158,6 +166,14 @@
     "price": 861,
     "title": "Makassarstraat, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/makassarstraat/studio-519892"
+  },
+  "directwonen:520256": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-07T17:18:54+00:00",
+    "notified": true,
+    "price": 740,
+    "title": "Duivendrechtsekade, Amsterdam",
+    "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/duivendrechtsekade/kamer-520256"
   },
   "kamernet:1698558": {
     "city": "Hilversum",
