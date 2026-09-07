@@ -4238,5 +4238,13 @@
     "price": 850,
     "title": "Ruime kamer 27m2 - 15 min van Utrecht Campus af",
     "url": "https://kamernet.nl/en/for-rent/room-zeist/2e-dorpsstraat/room-2404835"
+  },
+  "kamernet:2404848": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-07T08:47:33+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Bonnefantenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bonnefantenstraat/room-2404848"
   }
 }
