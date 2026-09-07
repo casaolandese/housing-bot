@@ -4198,5 +4198,45 @@
     "price": 1350,
     "title": "Oostelijke Handelskade, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oostelijke-handelskade/room-2404783"
+  },
+  "kamernet:2404784": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-07T07:29:18+00:00",
+    "notified": false,
+    "price": 1360,
+    "title": "Sint Jacobsstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/sint-jacobsstraat/room-2404784"
+  },
+  "kamernet:2404797": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-07T07:29:18+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Amandelstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/amandelstraat/room-2404797"
+  },
+  "kamernet:2404818": {
+    "city": "Almere",
+    "first_seen": "2026-09-07T07:29:18+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Ploeganker, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/ploeganker/room-2404818"
+  },
+  "kamernet:2404833": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-07T07:29:18+00:00",
+    "notified": false,
+    "price": 1800,
+    "title": "Weteringschans, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/weteringschans/room-2404833"
+  },
+  "kamernet:2404835": {
+    "city": "Zeist",
+    "first_seen": "2026-09-07T07:29:18+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Ruime kamer 27m2 - 15 min van Utrecht Campus af",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/2e-dorpsstraat/room-2404835"
   }
 }
