@@ -4167,6 +4167,22 @@
     "title": "Room renting 1 oktober 2026",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bernard-shawsingel/room-2404723"
   },
+  "kamernet:2404771": {
+    "city": "Bussum",
+    "first_seen": "2026-09-07T07:07:32+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Brinklaan, Bussum",
+    "url": "https://kamernet.nl/en/for-rent/room-bussum/brinklaan/room-2404771"
+  },
+  "kamernet:2404773": {
+    "city": "Amstelveen",
+    "first_seen": "2026-09-07T07:07:32+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Furnished Room in Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/logger/room-2404773"
+  },
   "kamernet:2404777": {
     "city": "Almere",
     "first_seen": "2026-09-06T17:48:59+00:00",
