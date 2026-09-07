@@ -3295,6 +3295,14 @@
     "title": "ROOM IN amsterdam nieuw sloten",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/laan-van-vlaanderen/room-2403542"
   },
+  "kamernet:2403566": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-07T14:45:30+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Its a shared apartment",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leenhofstraat/room-2403566"
+  },
   "kamernet:2403580": {
     "city": "Bussum",
     "first_seen": "2026-09-01T09:16:59+00:00",
@@ -4254,5 +4262,13 @@
     "price": 850,
     "title": "Room for rent young gentleman. No picture no re.",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/driebanstraat/room-2404870"
+  },
+  "kamernet:2404936": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-07T14:45:30+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2404936"
   }
 }
