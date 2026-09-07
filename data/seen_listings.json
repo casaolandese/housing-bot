@@ -4246,5 +4246,13 @@
     "price": 1100,
     "title": "Bonnefantenstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bonnefantenstraat/room-2404848"
+  },
+  "kamernet:2404870": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-07T10:22:25+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Room for rent young gentleman. No picture no re.",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/driebanstraat/room-2404870"
   }
 }
