@@ -4462,5 +4462,13 @@
     "price": 700,
     "title": "1 rooms for rent",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/marconistraat/room-2405128"
+  },
+  "kamernet:2405157": {
+    "city": "Zeist",
+    "first_seen": "2026-09-08T13:48:06+00:00",
+    "notified": false,
+    "price": 895,
+    "title": "Female only student private room",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/steynlaan/room-2405157"
   }
 }
