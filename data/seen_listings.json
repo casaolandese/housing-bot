@@ -4478,5 +4478,13 @@
     "price": 895,
     "title": "Female only student private room",
     "url": "https://kamernet.nl/en/for-rent/room-zeist/steynlaan/room-2405157"
+  },
+  "kamernet:2405160": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-09-08T14:27:52+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Kamer te huur in hoofddorp dichtbij Schiphol",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/graan-voor-visch/room-2405160"
   }
 }
