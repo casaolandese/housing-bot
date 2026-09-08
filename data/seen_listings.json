@@ -199,6 +199,14 @@
     "title": "Rapenburchdreef, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/rapenburchdreef/studio-520294"
   },
+  "directwonen:520304": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-08T14:02:53+00:00",
+    "notified": false,
+    "price": 936,
+    "title": "Predikherenkerkhof, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/predikherenkerkhof/studio-520304"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
