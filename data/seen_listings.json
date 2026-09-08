@@ -4446,5 +4446,13 @@
     "price": 1500,
     "title": "Roemer Visscherstraat, Almere",
     "url": "https://kamernet.nl/en/for-rent/room-almere/roemer-visscherstraat/room-2405103"
+  },
+  "kamernet:2405128": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-08T13:06:20+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "1 rooms for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/marconistraat/room-2405128"
   }
 }
