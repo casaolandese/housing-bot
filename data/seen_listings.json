@@ -4486,5 +4486,13 @@
     "price": 900,
     "title": "Kamer te huur in hoofddorp dichtbij Schiphol",
     "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/graan-voor-visch/room-2405160"
+  },
+  "kamernet:2405177": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-08T16:02:42+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "11 m2 in 76m2 newly renovated appartment",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/burgemeester-cramergracht/room-2405177"
   }
 }
