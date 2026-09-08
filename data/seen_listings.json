@@ -183,6 +183,22 @@
     "title": "Duivendrechtsekade, Amsterdam",
     "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/duivendrechtsekade/kamer-520256"
   },
+  "directwonen:520293": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-08T12:23:23+00:00",
+    "notified": true,
+    "price": 475,
+    "title": "Zamenhofdreef, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/zamenhofdreef/kamer-520293"
+  },
+  "directwonen:520294": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-08T12:23:23+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Rapenburchdreef, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/rapenburchdreef/studio-520294"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
