@@ -4319,6 +4319,30 @@
     "title": "Dorsvlegel, Soest",
     "url": "https://kamernet.nl/en/for-rent/room-soest/dorsvlegel/room-2404951"
   },
+  "kamernet:2404978": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-08T08:23:51+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Wibautstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wibautstraat/room-2404978"
+  },
+  "kamernet:2404979": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-08T08:23:51+00:00",
+    "notified": false,
+    "price": 880,
+    "title": "Vechtplantsoen, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/vechtplantsoen/room-2404979"
+  },
+  "kamernet:2404983": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-08T08:23:51+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Cornelis van Rijplantsoen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-van-rijplantsoen/room-2404983"
+  },
   "kamernet:2405039": {
     "city": "Utrecht",
     "first_seen": "2026-09-08T07:46:36+00:00",
