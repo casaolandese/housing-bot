@@ -4422,5 +4422,13 @@
     "price": 1100,
     "title": "Ceintuurbaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ceintuurbaan/room-2405047"
+  },
+  "kamernet:2405103": {
+    "city": "Almere",
+    "first_seen": "2026-09-08T11:39:00+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Roemer Visscherstraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/roemer-visscherstraat/room-2405103"
   }
 }
