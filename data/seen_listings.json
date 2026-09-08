@@ -4359,6 +4359,14 @@
     "title": "Sublease of my 2nd room for 3 weeks",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/srefidensiplein/room-2404991"
   },
+  "kamernet:2404997": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-08T11:20:13+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Bosboom Toussaintstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bosboom-toussaintstraat/room-2404997"
+  },
   "kamernet:2405008": {
     "city": "Uithoorn",
     "first_seen": "2026-09-08T08:46:11+00:00",
