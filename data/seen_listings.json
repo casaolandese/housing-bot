@@ -4375,6 +4375,22 @@
     "title": "Vrijheidslaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/vrijheidslaan/room-2405013"
   },
+  "kamernet:2405025": {
+    "city": "Uithoorn",
+    "first_seen": "2026-09-08T09:00:14+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Colijnlaan, Uithoorn",
+    "url": "https://kamernet.nl/en/for-rent/room-uithoorn/colijnlaan/room-2405025"
+  },
+  "kamernet:2405036": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-08T09:00:14+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Hoofdweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hoofdweg/room-2405036"
+  },
   "kamernet:2405039": {
     "city": "Utrecht",
     "first_seen": "2026-09-08T07:46:36+00:00",
@@ -4382,5 +4398,13 @@
     "price": 477,
     "title": "Huurster in Overvecht via Woningbouwvereniging",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/gloriantdreef/room-2405039"
+  },
+  "kamernet:2405047": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-08T09:00:14+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Ceintuurbaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ceintuurbaan/room-2405047"
   }
 }
