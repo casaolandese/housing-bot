@@ -311,6 +311,14 @@
     "title": "PRELUDE, ZAANDAM.",
     "url": "https://kamernet.nl/en/for-rent/room-zaandam/prelude/room-2371953"
   },
+  "kamernet:2375523": {
+    "city": "Leimuiden",
+    "first_seen": "2026-09-08T13:28:29+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Oosterweg, Leimuiden",
+    "url": "https://kamernet.nl/en/for-rent/room-leimuiden/oosterweg/room-2375523"
+  },
   "kamernet:2375764": {
     "city": "Amsterdam",
     "first_seen": "2026-09-03T09:21:46+00:00",
