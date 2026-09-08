@@ -4303,6 +4303,14 @@
     "title": "Nieuwezijds Voorburgwal, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwezijds-voorburgwal/room-2404897"
   },
+  "kamernet:2404931": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-08T08:46:11+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Hoekenes, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hoekenes/room-2404931"
+  },
   "kamernet:2404936": {
     "city": "Amsterdam",
     "first_seen": "2026-09-07T14:45:30+00:00",
@@ -4342,6 +4350,30 @@
     "price": 1250,
     "title": "Cornelis van Rijplantsoen, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-van-rijplantsoen/room-2404983"
+  },
+  "kamernet:2404991": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-08T08:46:11+00:00",
+    "notified": true,
+    "price": 710,
+    "title": "Sublease of my 2nd room for 3 weeks",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/srefidensiplein/room-2404991"
+  },
+  "kamernet:2405008": {
+    "city": "Uithoorn",
+    "first_seen": "2026-09-08T08:46:11+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Colijnlaan, Uithoorn",
+    "url": "https://kamernet.nl/en/for-rent/room-uithoorn/colijnlaan/room-2405008"
+  },
+  "kamernet:2405013": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-08T08:46:11+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Vrijheidslaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/vrijheidslaan/room-2405013"
   },
   "kamernet:2405039": {
     "city": "Utrecht",
