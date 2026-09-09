@@ -4614,5 +4614,21 @@
     "price": 1400,
     "title": "Spuistraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2405320"
+  },
+  "kamernet:2405331": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-09T12:26:33+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Friendly and lively neighbourhood.",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/willeskopstraat/room-2405331"
+  },
+  "kamernet:2405336": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-09T12:26:33+00:00",
+    "notified": false,
+    "price": 1800,
+    "title": "Kanaalstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kanaalstraat/room-2405336"
   }
 }
