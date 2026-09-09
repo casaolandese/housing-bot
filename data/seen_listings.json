@@ -4647,6 +4647,14 @@
     "title": "Korte Noorderweg, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/korte-noorderweg/room-2405351"
   },
+  "kamernet:2405402": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-09T16:59:02+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Room for rent young gentleman. No picture no re.",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/driebanstraat/room-2405402"
+  },
   "kamernet:2405403": {
     "city": "Amsterdam",
     "first_seen": "2026-09-09T16:45:39+00:00",
