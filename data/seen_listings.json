@@ -4606,5 +4606,13 @@
     "price": 800,
     "title": "a furnished single room ( will be frunished soon )",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/hasebroekstraat/room-2405290"
+  },
+  "kamernet:2405320": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-09T11:43:47+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Spuistraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2405320"
   }
 }
