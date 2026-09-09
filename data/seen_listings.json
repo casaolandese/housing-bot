@@ -4646,5 +4646,13 @@
     "price": 795,
     "title": "Korte Noorderweg, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/korte-noorderweg/room-2405351"
+  },
+  "kamernet:2405403": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-09T16:45:39+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Eerstegeluk, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eerstegeluk/room-2405403"
   }
 }
