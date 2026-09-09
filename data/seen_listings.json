@@ -4630,5 +4630,13 @@
     "price": 1800,
     "title": "Kanaalstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kanaalstraat/room-2405336"
+  },
+  "kamernet:2405351": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-09T13:29:12+00:00",
+    "notified": false,
+    "price": 795,
+    "title": "Korte Noorderweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/korte-noorderweg/room-2405351"
   }
 }
