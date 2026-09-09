@@ -223,6 +223,14 @@
     "title": "Room in the attic (2nd floor)",
     "url": "https://kamernet.nl/en/for-rent/room-bilthoven/putterlaan/room-1723592"
   },
+  "kamernet:1795399": {
+    "city": "Zaandam",
+    "first_seen": "2026-09-09T08:45:06+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Very spacious room",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/thijssestraat/room-1795399"
+  },
   "kamernet:1945465": {
     "city": "Amsterdam",
     "first_seen": "2026-08-19T08:04:56+00:00",
@@ -4502,5 +4510,53 @@
     "price": 1199,
     "title": "De la Reylaan, Zeist",
     "url": "https://kamernet.nl/en/for-rent/room-zeist/de-la-reylaan/room-2405202"
+  },
+  "kamernet:2405210": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-09T08:45:06+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Room for rent with 2 professional males",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nachtwachtlaan/room-2405210"
+  },
+  "kamernet:2405218": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-09T08:45:06+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Light  and fully furnished room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/arent-janszoon-ernststraat/room-2405218"
+  },
+  "kamernet:2405222": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-09T08:45:06+00:00",
+    "notified": true,
+    "price": 750,
+    "title": "Furnished top-floor room in Holendrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/maldenhof/room-2405222"
+  },
+  "kamernet:2405242": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-09T08:45:06+00:00",
+    "notified": false,
+    "price": 909,
+    "title": "Hasebroekstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/hasebroekstraat/room-2405242"
+  },
+  "kamernet:2405246": {
+    "city": "Almere",
+    "first_seen": "2026-09-09T08:45:06+00:00",
+    "notified": true,
+    "price": 825,
+    "title": "Room for rent Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/presidentstraat/room-2405246"
+  },
+  "kamernet:2405248": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-09T08:45:06+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Room Available – for a Female ONLY Flatmate",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pantograafstraat/room-2405248"
   }
 }
