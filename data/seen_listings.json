@@ -1647,6 +1647,14 @@
     "title": "Beschikbaar leuke studentenkamer op",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/st-janshovenstraat/room-2401195"
   },
+  "kamernet:2401196": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-09T08:59:28+00:00",
+    "notified": true,
+    "price": 530,
+    "title": "Beschikbaar: leuke studentenkamer met kitchenette",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/st-janshovenstraat/room-2401196"
+  },
   "kamernet:2401197": {
     "city": "Amsterdam",
     "first_seen": "2026-08-20T16:03:00+00:00",
@@ -4207,6 +4215,14 @@
     "title": "Kantershof, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kantershof/room-2404635"
   },
+  "kamernet:2404665": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-09T08:59:28+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Groest, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/groest/room-2404665"
+  },
   "kamernet:2404685": {
     "city": "Amsterdam",
     "first_seen": "2026-09-06T09:49:09+00:00",
@@ -4246,6 +4262,14 @@
     "price": 900,
     "title": "Room renting 1 oktober 2026",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bernard-shawsingel/room-2404723"
+  },
+  "kamernet:2404733": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-09T08:59:28+00:00",
+    "notified": false,
+    "price": 980,
+    "title": "Leo Fallplantsoen, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/leo-fallplantsoen/room-2404733"
   },
   "kamernet:2404771": {
     "city": "Bussum",
