@@ -4494,5 +4494,13 @@
     "price": 850,
     "title": "11 m2 in 76m2 newly renovated appartment",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/burgemeester-cramergracht/room-2405177"
+  },
+  "kamernet:2405202": {
+    "city": "Zeist",
+    "first_seen": "2026-09-09T08:22:32+00:00",
+    "notified": false,
+    "price": 1199,
+    "title": "De la Reylaan, Zeist",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/de-la-reylaan/room-2405202"
   }
 }
