@@ -4774,5 +4774,13 @@
     "price": 900,
     "title": "Cozy room close to Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/traviatastraat/room-2405568"
+  },
+  "kamernet:2405603": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-10T18:47:56+00:00",
+    "notified": false,
+    "price": 875,
+    "title": "Cozy, sunny room in spacious apartment",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/patmosdreef/room-2405603"
   }
 }
