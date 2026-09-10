@@ -4662,5 +4662,21 @@
     "price": 1200,
     "title": "Eerstegeluk, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eerstegeluk/room-2405403"
+  },
+  "kamernet:2405469": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-10T08:23:11+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Vleutenseweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/vleutenseweg/room-2405469"
+  },
+  "kamernet:2405471": {
+    "city": "Vianen",
+    "first_seen": "2026-09-10T08:23:11+00:00",
+    "notified": false,
+    "price": 695,
+    "title": "Langendijk, Vianen",
+    "url": "https://kamernet.nl/en/for-rent/room-vianen/langendijk/room-2405471"
   }
 }
