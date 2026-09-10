@@ -1247,6 +1247,14 @@
     "title": "Refreshed Room on the 1st Floor",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/wenenstraat/room-2400627"
   },
+  "kamernet:2400637": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-10T15:52:25+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Hiraistraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hiraistraat/room-2400637"
+  },
   "kamernet:2400652": {
     "city": "Amsterdam",
     "first_seen": "2026-08-18T16:22:37+00:00",
