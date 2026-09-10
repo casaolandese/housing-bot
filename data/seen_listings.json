@@ -4766,5 +4766,13 @@
     "price": 800,
     "title": "Per direct huisgenoot gezocht",
     "url": "https://kamernet.nl/en/for-rent/room-maarssen/pauwenkamp/room-2405562"
+  },
+  "kamernet:2405568": {
+    "city": "Amstelveen",
+    "first_seen": "2026-09-10T16:16:57+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Cozy room close to Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/traviatastraat/room-2405568"
   }
 }
