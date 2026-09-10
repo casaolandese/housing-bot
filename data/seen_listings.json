@@ -4750,5 +4750,13 @@
     "price": 520,
     "title": "Te huur lichte en nette studentenkamer met",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/st-janshovenstraat/room-2405548"
+  },
+  "kamernet:2405562": {
+    "city": "Maarssen",
+    "first_seen": "2026-09-10T14:40:00+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Per direct huisgenoot gezocht",
+    "url": "https://kamernet.nl/en/for-rent/room-maarssen/pauwenkamp/room-2405562"
   }
 }
