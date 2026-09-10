@@ -4718,5 +4718,29 @@
     "price": 730,
     "title": "Spacious room near metrostation Noord",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2405505"
+  },
+  "kamernet:2405521": {
+    "city": "Weesp",
+    "first_seen": "2026-09-10T12:49:06+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Sportparklaan, Weesp",
+    "url": "https://kamernet.nl/en/for-rent/room-weesp/sportparklaan/room-2405521"
+  },
+  "kamernet:2405522": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-10T12:49:06+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Nieuwe Nieuwstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwe-nieuwstraat/room-2405522"
+  },
+  "kamernet:2405528": {
+    "city": "Soesterberg",
+    "first_seen": "2026-09-10T12:49:06+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Postdwarsweg, Soesterberg",
+    "url": "https://kamernet.nl/en/for-rent/room-soesterberg/postdwarsweg/room-2405528"
   }
 }
