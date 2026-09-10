@@ -3295,6 +3295,14 @@
     "title": "Zeemansstraat, Zaandam",
     "url": "https://kamernet.nl/en/for-rent/room-zaandam/zeemansstraat/room-2403387"
   },
+  "kamernet:2403391": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-10T10:44:37+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Blasiusstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/blasiusstraat/room-2403391"
+  },
   "kamernet:2403401": {
     "city": "Amsterdam",
     "first_seen": "2026-08-31T12:58:42+00:00",
@@ -4678,5 +4686,37 @@
     "price": 695,
     "title": "Langendijk, Vianen",
     "url": "https://kamernet.nl/en/for-rent/room-vianen/langendijk/room-2405471"
+  },
+  "kamernet:2405495": {
+    "city": "Nieuw-Vennep",
+    "first_seen": "2026-09-10T10:44:37+00:00",
+    "notified": false,
+    "price": 875,
+    "title": "Kraaijensteinpark, Nieuw-Vennep",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuw-vennep/kraaijensteinpark/room-2405495"
+  },
+  "kamernet:2405496": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-10T10:44:37+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Saffierstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/saffierstraat/room-2405496"
+  },
+  "kamernet:2405504": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-10T10:44:37+00:00",
+    "notified": true,
+    "price": 895,
+    "title": "Room for rent near Lombok!",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/steijnstraat/room-2405504"
+  },
+  "kamernet:2405505": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-10T10:44:37+00:00",
+    "notified": true,
+    "price": 730,
+    "title": "Spacious room near metrostation Noord",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2405505"
   }
 }
