@@ -4742,5 +4742,13 @@
     "price": 900,
     "title": "Postdwarsweg, Soesterberg",
     "url": "https://kamernet.nl/en/for-rent/room-soesterberg/postdwarsweg/room-2405528"
+  },
+  "kamernet:2405548": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-10T13:44:10+00:00",
+    "notified": true,
+    "price": 520,
+    "title": "Te huur lichte en nette studentenkamer met",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/st-janshovenstraat/room-2405548"
   }
 }
