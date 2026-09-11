@@ -4782,5 +4782,13 @@
     "price": 875,
     "title": "Cozy, sunny room in spacious apartment",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/patmosdreef/room-2405603"
+  },
+  "kamernet:2405614": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-11T07:25:39+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Theo Frenkelhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/theo-frenkelhof/room-2405614"
   }
 }
