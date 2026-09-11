@@ -4918,5 +4918,21 @@
     "price": 600,
     "title": "Room near Trains Almere Centrum",
     "url": "https://kamernet.nl/en/for-rent/room-almere/keizerstraat/room-2405744"
+  },
+  "kamernet:2405755": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-11T16:44:01+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Zeeburgerkade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/zeeburgerkade/room-2405755"
+  },
+  "kamernet:2405759": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-11T16:44:01+00:00",
+    "notified": false,
+    "price": 995,
+    "title": "Gaandeweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gaandeweg/room-2405759"
   }
 }
