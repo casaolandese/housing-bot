@@ -4791,6 +4791,14 @@
     "title": "Theo Frenkelhof, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/theo-frenkelhof/room-2405614"
   },
+  "kamernet:2405625": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-11T09:20:53+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Furnished room + private balcony in Oud West",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bilderdijkstraat/room-2405625"
+  },
   "kamernet:2405660": {
     "city": "Amsterdam",
     "first_seen": "2026-09-11T08:59:30+00:00",
@@ -4798,5 +4806,13 @@
     "price": 1500,
     "title": "Jan Evertsenstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-evertsenstraat/room-2405660"
+  },
+  "kamernet:2405668": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-11T09:20:53+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Kantershof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kantershof/room-2405668"
   }
 }
