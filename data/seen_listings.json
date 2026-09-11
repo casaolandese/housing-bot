@@ -215,6 +215,14 @@
     "title": "Oudegracht, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/oudegracht/studio-520347"
   },
+  "directwonen:520498": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-11T14:59:48+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Van Der Pekstraat, Amsterdam",
+    "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/van-der-pekstraat/kamer-520498"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
@@ -4902,5 +4910,13 @@
     "price": 1000,
     "title": "Johan van Soesdijkstraat, Diemen",
     "url": "https://kamernet.nl/en/for-rent/room-diemen/johan-van-soesdijkstraat/room-2405734"
+  },
+  "kamernet:2405744": {
+    "city": "Almere",
+    "first_seen": "2026-09-11T14:59:48+00:00",
+    "notified": true,
+    "price": 600,
+    "title": "Room near Trains Almere Centrum",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/keizerstraat/room-2405744"
   }
 }
