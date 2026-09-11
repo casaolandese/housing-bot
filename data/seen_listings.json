@@ -4822,5 +4822,13 @@
     "price": 1100,
     "title": "Kantershof, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kantershof/room-2405668"
+  },
+  "kamernet:2405687": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-11T10:58:30+00:00",
+    "notified": true,
+    "price": 790,
+    "title": "Room near Lylelaan station",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/theodorus-majofskistraat/room-2405687"
   }
 }
