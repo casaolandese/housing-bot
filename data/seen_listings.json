@@ -359,6 +359,14 @@
     "title": "Independent studio with own kitchen and bathroom",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/juttepeerpad/room-2375764"
   },
+  "kamernet:2380400": {
+    "city": "Amstelveen",
+    "first_seen": "2026-09-11T14:44:35+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Logger, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/logger/room-2380400"
+  },
   "kamernet:2382625": {
     "city": "Diemen",
     "first_seen": "2026-09-01T16:15:15+00:00",
@@ -2895,6 +2903,14 @@
     "title": "Female only student private room",
     "url": "https://kamernet.nl/en/for-rent/room-zeist/steynlaan/room-2402836"
   },
+  "kamernet:2402847": {
+    "city": "Almere",
+    "first_seen": "2026-09-11T14:44:35+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Room for in Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/workumstraat/room-2402847"
+  },
   "kamernet:2402849": {
     "city": "Almere",
     "first_seen": "2026-08-28T21:53:36+00:00",
@@ -4878,5 +4894,13 @@
     "price": 850,
     "title": "Kamer op IJburg/nice room",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eva-besnyostraat/room-2405724"
+  },
+  "kamernet:2405734": {
+    "city": "Diemen",
+    "first_seen": "2026-09-11T14:44:35+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Johan van Soesdijkstraat, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/johan-van-soesdijkstraat/room-2405734"
   }
 }
