@@ -4807,6 +4807,14 @@
     "title": "Jan Evertsenstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-evertsenstraat/room-2405660"
   },
+  "kamernet:2405664": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-11T09:44:35+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Waalstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/waalstraat/room-2405664"
+  },
   "kamernet:2405668": {
     "city": "Amsterdam",
     "first_seen": "2026-09-11T09:20:53+00:00",
