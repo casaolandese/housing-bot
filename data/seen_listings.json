@@ -4551,6 +4551,14 @@
     "title": "1 rooms for rent",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/marconistraat/room-2405128"
   },
+  "kamernet:2405141": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-11T13:02:16+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Cornelis Trooststraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-trooststraat/room-2405141"
+  },
   "kamernet:2405157": {
     "city": "Zeist",
     "first_seen": "2026-09-08T13:48:06+00:00",
