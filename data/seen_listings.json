@@ -4870,5 +4870,13 @@
     "price": 875,
     "title": "kamer te huur",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/hogerhoeve/room-2405706"
+  },
+  "kamernet:2405724": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-11T14:20:35+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Kamer op IJburg/nice room",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eva-besnyostraat/room-2405724"
   }
 }
