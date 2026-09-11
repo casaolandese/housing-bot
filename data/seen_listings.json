@@ -2487,6 +2487,14 @@
     "title": "Female only student private room",
     "url": "https://kamernet.nl/en/for-rent/room-zeist/steynlaan/room-2402205"
   },
+  "kamernet:2402209": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-11T11:51:04+00:00",
+    "notified": true,
+    "price": 480,
+    "title": "Studentenkamer te huur aan de Johannes",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/johannes-uitenbogaertstraat/room-2402209"
+  },
   "kamernet:2402251": {
     "city": "Amsterdam",
     "first_seen": "2026-08-25T17:51:49+00:00",
@@ -4838,5 +4846,21 @@
     "price": 790,
     "title": "Room near Lylelaan station",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/theodorus-majofskistraat/room-2405687"
+  },
+  "kamernet:2405690": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-11T11:51:04+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Van Vollenhovenlaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-vollenhovenlaan/room-2405690"
+  },
+  "kamernet:2405706": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-09-11T11:51:04+00:00",
+    "notified": true,
+    "price": 875,
+    "title": "kamer te huur",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/hogerhoeve/room-2405706"
   }
 }
