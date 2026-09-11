@@ -263,6 +263,14 @@
     "title": "gedeelde kamer",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/lucasbolwerk/room-2214892"
   },
+  "kamernet:2300634": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-11T11:36:06+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Kamertje in het centrum Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/bakenessergracht/room-2300634"
+  },
   "kamernet:2313427": {
     "city": "Amsterdam",
     "first_seen": "2026-08-28T21:53:36+00:00",
