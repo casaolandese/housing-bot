@@ -4790,5 +4790,13 @@
     "price": 1200,
     "title": "Theo Frenkelhof, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/theo-frenkelhof/room-2405614"
+  },
+  "kamernet:2405660": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-11T08:59:30+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Jan Evertsenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-evertsenstraat/room-2405660"
   }
 }
