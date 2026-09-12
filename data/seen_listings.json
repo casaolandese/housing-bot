@@ -4990,5 +4990,13 @@
     "price": 590,
     "title": "Zolderkamer in rustig huis",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/hondsrug/room-2405847"
+  },
+  "kamernet:2405868": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-12T13:18:34+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Postjesweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjesweg/room-2405868"
   }
 }
