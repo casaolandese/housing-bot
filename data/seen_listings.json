@@ -223,6 +223,14 @@
     "title": "Van Der Pekstraat, Amsterdam",
     "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/van-der-pekstraat/kamer-520498"
   },
+  "directwonen:520502": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-12T09:49:07+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Javastraat, Amsterdam",
+    "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/javastraat/kamer-520502"
+  },
   "directwonen:520521": {
     "city": "Utrecht",
     "first_seen": "2026-09-11T16:58:27+00:00",
