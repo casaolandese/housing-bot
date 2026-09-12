@@ -279,6 +279,14 @@
     "title": "gedeelde kamer",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/lucasbolwerk/room-2214892"
   },
+  "kamernet:2269220": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-12T07:41:18+00:00",
+    "notified": false,
+    "price": 69,
+    "title": "Bovenover, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bovenover/room-2269220"
+  },
   "kamernet:2300634": {
     "city": "Haarlem",
     "first_seen": "2026-09-11T11:36:06+00:00",
@@ -4942,5 +4950,29 @@
     "price": 995,
     "title": "Gaandeweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gaandeweg/room-2405759"
+  },
+  "kamernet:2405792": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-12T07:41:18+00:00",
+    "notified": false,
+    "price": 770,
+    "title": "Kamer met terras",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/wijnesteinlaan/room-2405792"
+  },
+  "kamernet:2405802": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-12T07:41:18+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Erik de Roodestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erik-de-roodestraat/room-2405802"
+  },
+  "kamernet:2405806": {
+    "city": "De Meern",
+    "first_seen": "2026-09-12T07:41:18+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Kamer te huur",
+    "url": "https://kamernet.nl/en/for-rent/room-de-meern/keerkring/room-2405806"
   }
 }
