@@ -4982,5 +4982,13 @@
     "price": 800,
     "title": "Kamer te huur",
     "url": "https://kamernet.nl/en/for-rent/room-de-meern/keerkring/room-2405806"
+  },
+  "kamernet:2405847": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-12T11:17:08+00:00",
+    "notified": true,
+    "price": 590,
+    "title": "Zolderkamer in rustig huis",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/hondsrug/room-2405847"
   }
 }
