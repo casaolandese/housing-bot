@@ -4998,5 +4998,13 @@
     "price": 950,
     "title": "Postjesweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjesweg/room-2405868"
+  },
+  "kamernet:2405889": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-12T16:41:23+00:00",
+    "notified": false,
+    "price": 1170,
+    "title": "Jan de Jonghkade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-de-jonghkade/room-2405889"
   }
 }
