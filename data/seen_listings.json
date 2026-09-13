@@ -295,6 +295,14 @@
     "title": "Bovenover, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bovenover/room-2269220"
   },
+  "kamernet:2270778": {
+    "city": "Zaandam",
+    "first_seen": "2026-09-13T22:22:50+00:00",
+    "notified": false,
+    "price": 790,
+    "title": "Gedempte Gracht, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/gedempte-gracht/room-2270778"
+  },
   "kamernet:2300634": {
     "city": "Haarlem",
     "first_seen": "2026-09-11T11:36:06+00:00",
@@ -4527,6 +4535,14 @@
     "title": "Bosboom Toussaintstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bosboom-toussaintstraat/room-2404997"
   },
+  "kamernet:2405000": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-09-13T22:22:50+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Grote Belt, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/grote-belt/room-2405000"
+  },
   "kamernet:2405008": {
     "city": "Uithoorn",
     "first_seen": "2026-09-08T08:46:11+00:00",
@@ -5006,5 +5022,61 @@
     "price": 1170,
     "title": "Jan de Jonghkade, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-de-jonghkade/room-2405889"
+  },
+  "kamernet:2405892": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-13T22:22:50+00:00",
+    "notified": false,
+    "price": 475,
+    "title": "Theemsplein, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/theemsplein/room-2405892"
+  },
+  "kamernet:2405928": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-13T22:22:50+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Uitgeeststraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/uitgeeststraat/room-2405928"
+  },
+  "kamernet:2405939": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-13T22:22:50+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Ponserstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ponserstraat/room-2405939"
+  },
+  "kamernet:2405941": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-13T22:22:50+00:00",
+    "notified": false,
+    "price": 1450,
+    "title": "Biesboschstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/biesboschstraat/room-2405941"
+  },
+  "kamernet:2405958": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-13T22:22:50+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Fraunhoferstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fraunhoferstraat/room-2405958"
+  },
+  "kamernet:2405971": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-13T22:22:50+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Zoomstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/zoomstraat/room-2405971"
+  },
+  "kamernet:2405985": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-13T22:22:50+00:00",
+    "notified": false,
+    "price": 1600,
+    "title": "Copernicusstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/copernicusstraat/room-2405985"
   }
 }
