@@ -5207,6 +5207,14 @@
     "title": "Erik de Roodestraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erik-de-roodestraat/room-2406161"
   },
+  "kamernet:2406181": {
+    "city": "Velsen-Noord",
+    "first_seen": "2026-09-14T12:22:55+00:00",
+    "notified": false,
+    "price": 720,
+    "title": "Duinvlietstraat, Velsen-Noord",
+    "url": "https://kamernet.nl/en/for-rent/room-velsen-noord/duinvlietstraat/room-2406181"
+  },
   "kamernet:2406184": {
     "city": "Driebergen-Rijsenburg",
     "first_seen": "2026-09-14T11:54:01+00:00",
@@ -5214,5 +5222,21 @@
     "price": 625,
     "title": "Traaij, Driebergen-Rijsenburg",
     "url": "https://kamernet.nl/en/for-rent/room-driebergen-rijsenburg/traaij/room-2406184"
+  },
+  "kamernet:2406185": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-14T12:22:55+00:00",
+    "notified": false,
+    "price": 595,
+    "title": "Zuiderweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/zuiderweg/room-2406185"
+  },
+  "kamernet:2406191": {
+    "city": "Zaandam",
+    "first_seen": "2026-09-14T12:22:55+00:00",
+    "notified": true,
+    "price": 390,
+    "title": "HUISGENOOTJE GEZOCHT!",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/parkstraat/room-2406191"
   }
 }
