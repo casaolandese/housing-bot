@@ -5142,5 +5142,13 @@
     "price": 1000,
     "title": "Van Boetzelaerstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-boetzelaerstraat/room-2406093"
+  },
+  "kamernet:2406130": {
+    "city": "Almere",
+    "first_seen": "2026-09-14T08:38:29+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Zoetermeerpad, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/zoetermeerpad/room-2406130"
   }
 }
