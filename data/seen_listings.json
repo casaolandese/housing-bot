@@ -455,6 +455,14 @@
     "title": "Room(22m2) in city center",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/andreasstraat/room-2389593"
   },
+  "kamernet:2394506": {
+    "city": "Soest",
+    "first_seen": "2026-09-14T14:19:14+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Ereprijsstraat, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/ereprijsstraat/room-2394506"
+  },
   "kamernet:2394711": {
     "city": "Utrecht",
     "first_seen": "2026-08-20T03:13:56+00:00",
@@ -4919,6 +4927,14 @@
     "title": "Furnished room + private balcony in Oud West",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bilderdijkstraat/room-2405625"
   },
+  "kamernet:2405655": {
+    "city": "Soest",
+    "first_seen": "2026-09-14T14:19:14+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Valeriaanstraat, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/valeriaanstraat/room-2405655"
+  },
   "kamernet:2405660": {
     "city": "Amsterdam",
     "first_seen": "2026-09-11T08:59:30+00:00",
@@ -5246,5 +5262,13 @@
     "price": 390,
     "title": "HUISGENOOTJE GEZOCHT!",
     "url": "https://kamernet.nl/en/for-rent/room-zaandam/parkstraat/room-2406191"
+  },
+  "kamernet:2406228": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-14T14:19:14+00:00",
+    "notified": false,
+    "price": 500,
+    "title": "2e Nieuwstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/2e-nieuwstraat/room-2406228"
   }
 }
