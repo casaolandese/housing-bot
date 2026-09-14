@@ -239,6 +239,14 @@
     "title": "Bakhuizen Van Den Brinkstraat, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/bakhuizen-van-den-brinkstraat/studio-520521"
   },
+  "directwonen:520544": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-14T11:17:22+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Jelle Posthumapad, Amsterdam",
+    "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/jelle-posthumapad/kamer-520544"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
