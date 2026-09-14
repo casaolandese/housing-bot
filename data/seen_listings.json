@@ -375,6 +375,14 @@
     "title": "Room next to Erasmuspark",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-van-galenstraat/room-2343126"
   },
+  "kamernet:2346358": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-14T10:18:58+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Gouden Leeuw, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gouden-leeuw/room-2346358"
+  },
   "kamernet:2370283": {
     "city": "Amsterdam",
     "first_seen": "2026-08-25T16:18:35+00:00",
@@ -5174,5 +5182,21 @@
     "price": 750,
     "title": "Utrecht directly  available 1 Room",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/burgemeester-norbruislaan/room-2406134"
+  },
+  "kamernet:2406155": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-14T10:18:58+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Kamer te huur op gunstige locatie",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/columbuslaan/room-2406155"
+  },
+  "kamernet:2406161": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-14T10:18:58+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Erik de Roodestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erik-de-roodestraat/room-2406161"
   }
 }
