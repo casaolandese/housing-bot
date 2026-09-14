@@ -703,6 +703,14 @@
     "title": "Orteliusstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/orteliusstraat/room-2399005"
   },
+  "kamernet:2399077": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-14T09:39:32+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Ferdinand Bolstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ferdinand-bolstraat/room-2399077"
+  },
   "kamernet:2399099": {
     "city": "Amsterdam",
     "first_seen": "2026-08-19T09:54:55+00:00",
