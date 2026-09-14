@@ -5270,5 +5270,13 @@
     "price": 500,
     "title": "2e Nieuwstraat, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/2e-nieuwstraat/room-2406228"
+  },
+  "kamernet:2406237": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-14T15:22:39+00:00",
+    "notified": false,
+    "price": 625,
+    "title": "Havenstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/havenstraat/room-2406237"
   }
 }
