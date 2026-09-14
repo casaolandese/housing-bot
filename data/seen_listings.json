@@ -5150,5 +5150,13 @@
     "price": 1050,
     "title": "Zoetermeerpad, Almere",
     "url": "https://kamernet.nl/en/for-rent/room-almere/zoetermeerpad/room-2406130"
+  },
+  "kamernet:2406134": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-14T09:20:11+00:00",
+    "notified": true,
+    "price": 750,
+    "title": "Utrecht directly  available 1 Room",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/burgemeester-norbruislaan/room-2406134"
   }
 }
