@@ -4967,6 +4967,14 @@
     "title": "Room near Trains Almere Centrum",
     "url": "https://kamernet.nl/en/for-rent/room-almere/keizerstraat/room-2405744"
   },
+  "kamernet:2405745": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-09-14T08:19:02+00:00",
+    "notified": true,
+    "price": 600,
+    "title": "Room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/graaf-balthasarlaan/room-2405745"
+  },
   "kamernet:2405755": {
     "city": "Amsterdam",
     "first_seen": "2026-09-11T16:44:01+00:00",
