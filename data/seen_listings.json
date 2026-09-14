@@ -5127,6 +5127,14 @@
     "title": "Room at ground floor",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/binnen-oranjestraat/room-2406033"
   },
+  "kamernet:2406045": {
+    "city": "Weesp",
+    "first_seen": "2026-09-14T13:08:33+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Nieuwstraat, Weesp",
+    "url": "https://kamernet.nl/en/for-rent/room-weesp/nieuwstraat/room-2406045"
+  },
   "kamernet:2406052": {
     "city": "Amsterdam",
     "first_seen": "2026-09-14T07:18:38+00:00",
