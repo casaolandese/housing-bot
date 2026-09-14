@@ -5206,5 +5206,13 @@
     "price": 999,
     "title": "Erik de Roodestraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erik-de-roodestraat/room-2406161"
+  },
+  "kamernet:2406184": {
+    "city": "Driebergen-Rijsenburg",
+    "first_seen": "2026-09-14T11:54:01+00:00",
+    "notified": false,
+    "price": 625,
+    "title": "Traaij, Driebergen-Rijsenburg",
+    "url": "https://kamernet.nl/en/for-rent/room-driebergen-rijsenburg/traaij/room-2406184"
   }
 }
