@@ -5199,6 +5199,22 @@
     "title": "Van Boetzelaerstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-boetzelaerstraat/room-2406093"
   },
+  "kamernet:2406106": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-14T15:59:54+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Nachtwachtlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nachtwachtlaan/room-2406106"
+  },
+  "kamernet:2406107": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-14T15:59:54+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Nachtwachtlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nachtwachtlaan/room-2406107"
+  },
   "kamernet:2406130": {
     "city": "Almere",
     "first_seen": "2026-09-14T08:38:29+00:00",
