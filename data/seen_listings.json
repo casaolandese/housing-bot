@@ -5446,5 +5446,13 @@
     "price": 1200,
     "title": "Sportparklaan, Weesp",
     "url": "https://kamernet.nl/en/for-rent/room-weesp/sportparklaan/room-2406400"
+  },
+  "kamernet:2406404": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-15T12:48:42+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "2 rooms available 2-3 months",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwe-nieuwstraat/room-2406404"
   }
 }
