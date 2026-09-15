@@ -5510,5 +5510,13 @@
     "price": 500,
     "title": "Ouderkerkerdijk, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ouderkerkerdijk/room-2406463"
+  },
+  "kamernet:2406478": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-15T19:31:57+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Room in Bijlmer (Kraaiennest metro station)",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kikkenstein/room-2406478"
   }
 }
