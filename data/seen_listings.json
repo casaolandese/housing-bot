@@ -5422,5 +5422,13 @@
     "price": 850,
     "title": "Furnished Private Room in Shared House",
     "url": "https://kamernet.nl/en/for-rent/room-zaandam/gedempte-gracht/room-2406363"
+  },
+  "kamernet:2406372": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-15T09:41:14+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Room for rent next to Biljmer Arena",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/huigenbos/room-2406372"
   }
 }
