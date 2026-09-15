@@ -5486,5 +5486,13 @@
     "price": 1250,
     "title": "Latherusstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/latherusstraat/room-2406443"
+  },
+  "kamernet:2406448": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-15T15:44:42+00:00",
+    "notified": false,
+    "price": 735,
+    "title": "1 small room available in Deflandplein complex",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/delflandplein/room-2406448"
   }
 }
