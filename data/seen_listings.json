@@ -5462,5 +5462,13 @@
     "price": 900,
     "title": "Room for rent in Maarsenhof",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/maarsenhof/room-2406413"
+  },
+  "kamernet:2406414": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-15T13:46:20+00:00",
+    "notified": false,
+    "price": 475,
+    "title": "furnished room, max for 4 months available",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/hannolaan/room-2406414"
   }
 }
