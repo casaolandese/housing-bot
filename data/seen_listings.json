@@ -5303,6 +5303,14 @@
     "title": "Havenstraat, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/havenstraat/room-2406237"
   },
+  "kamernet:2406238": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-15T07:07:43+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Bright Room in Spacious 2BHK in Amsterdam Zuid",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-nijenrodeweg/room-2406238"
+  },
   "kamernet:2406271": {
     "city": "Amsterdam",
     "first_seen": "2026-09-14T17:37:36+00:00",
@@ -5310,5 +5318,37 @@
     "price": 1500,
     "title": "Raoul Wallenbergstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/raoul-wallenbergstraat/room-2406271"
+  },
+  "kamernet:2406273": {
+    "city": "De Meern",
+    "first_seen": "2026-09-15T07:07:43+00:00",
+    "notified": false,
+    "price": 960,
+    "title": "Laan 1954, De Meern",
+    "url": "https://kamernet.nl/en/for-rent/room-de-meern/laan-1954/room-2406273"
+  },
+  "kamernet:2406284": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-15T07:07:43+00:00",
+    "notified": false,
+    "price": 1435,
+    "title": "Orteliusstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/orteliusstraat/room-2406284"
+  },
+  "kamernet:2406287": {
+    "city": "Amstelveen",
+    "first_seen": "2026-09-15T07:07:43+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Pruimenlaan, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/pruimenlaan/room-2406287"
+  },
+  "kamernet:2406300": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-15T07:07:43+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Room available!",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bijlmerdreef/room-2406300"
   }
 }
