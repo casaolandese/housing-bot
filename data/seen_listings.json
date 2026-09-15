@@ -5494,5 +5494,21 @@
     "price": 735,
     "title": "1 small room available in Deflandplein complex",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/delflandplein/room-2406448"
+  },
+  "kamernet:2406460": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-15T16:55:07+00:00",
+    "notified": false,
+    "price": 645,
+    "title": "Room/ Studio experience in the Baarjes",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-evertsenstraat/room-2406460"
+  },
+  "kamernet:2406463": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-15T16:55:07+00:00",
+    "notified": false,
+    "price": 500,
+    "title": "Ouderkerkerdijk, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ouderkerkerdijk/room-2406463"
   }
 }
