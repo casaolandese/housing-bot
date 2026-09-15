@@ -5454,5 +5454,13 @@
     "price": 900,
     "title": "2 rooms available 2-3 months",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwe-nieuwstraat/room-2406404"
+  },
+  "kamernet:2406413": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-15T13:04:11+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Room for rent in Maarsenhof",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/maarsenhof/room-2406413"
   }
 }
