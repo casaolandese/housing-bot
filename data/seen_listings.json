@@ -5438,5 +5438,13 @@
     "price": 999,
     "title": "Erik de Roodestraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erik-de-roodestraat/room-2406398"
+  },
+  "kamernet:2406400": {
+    "city": "Weesp",
+    "first_seen": "2026-09-15T12:21:33+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Sportparklaan, Weesp",
+    "url": "https://kamernet.nl/en/for-rent/room-weesp/sportparklaan/room-2406400"
   }
 }
