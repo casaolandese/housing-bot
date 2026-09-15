@@ -5478,5 +5478,13 @@
     "price": 475,
     "title": "furnished room, max for 4 months available",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/hannolaan/room-2406414"
+  },
+  "kamernet:2406443": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-15T15:00:03+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Latherusstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/latherusstraat/room-2406443"
   }
 }
