@@ -439,6 +439,14 @@
     "title": "Carel Willinkgracht, Diemen",
     "url": "https://kamernet.nl/en/for-rent/room-diemen/carel-willinkgracht/room-2382625"
   },
+  "kamernet:2384552": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-15T07:29:54+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "August Allebeplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/august-allebeplein/room-2384552"
+  },
   "kamernet:2388331": {
     "city": "Utrecht",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -5350,5 +5358,53 @@
     "price": 900,
     "title": "Room available!",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bijlmerdreef/room-2406300"
+  },
+  "kamernet:2406302": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-15T07:29:54+00:00",
+    "notified": true,
+    "price": 530,
+    "title": "Room for rent in a beautiful green area",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/aureliahof/room-2406302"
+  },
+  "kamernet:2406310": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-09-15T07:29:54+00:00",
+    "notified": false,
+    "price": 1095,
+    "title": "Graan voor Visch, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/graan-voor-visch/room-2406310"
+  },
+  "kamernet:2406327": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-15T07:29:54+00:00",
+    "notified": true,
+    "price": 650,
+    "title": "small nice room",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kempenlaan/room-2406327"
+  },
+  "kamernet:2406328": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-15T07:29:54+00:00",
+    "notified": true,
+    "price": 775,
+    "title": "Bedroom",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kempenlaan/room-2406328"
+  },
+  "kamernet:2406334": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-15T07:29:54+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Amandelstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/amandelstraat/room-2406334"
+  },
+  "kamernet:2406335": {
+    "city": "Zeist",
+    "first_seen": "2026-09-15T07:29:54+00:00",
+    "notified": false,
+    "price": 1199,
+    "title": "De la Reylaan, Zeist",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/de-la-reylaan/room-2406335"
   }
 }
