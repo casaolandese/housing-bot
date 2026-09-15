@@ -247,6 +247,14 @@
     "title": "Jelle Posthumapad, Amsterdam",
     "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/jelle-posthumapad/kamer-520544"
   },
+  "directwonen:520599": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-15T14:44:56+00:00",
+    "notified": false,
+    "price": 1008,
+    "title": "Koekoekstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/koekoekstraat/studio-520599"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
