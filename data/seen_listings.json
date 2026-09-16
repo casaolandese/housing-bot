@@ -5606,5 +5606,13 @@
     "price": 495,
     "title": "Kamer te huur in Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/riouwstraat/room-2406607"
+  },
+  "kamernet:2406628": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-16T16:21:17+00:00",
+    "notified": true,
+    "price": 830,
+    "title": "rooms near trainstation",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/jan-gijzenkade/room-2406628"
   }
 }
