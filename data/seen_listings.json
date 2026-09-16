@@ -5534,5 +5534,21 @@
     "price": 800,
     "title": "Room for rent in Koppenburglaan",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koppenburglaan/room-2406484"
+  },
+  "kamernet:2406506": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-09-16T07:26:53+00:00",
+    "notified": true,
+    "price": 650,
+    "title": "Ruime zolder te huur",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/roosterbos/room-2406506"
+  },
+  "kamernet:2406508": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-16T07:26:53+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Bart Poesiatstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bart-poesiatstraat/room-2406508"
   }
 }
