@@ -5518,5 +5518,21 @@
     "price": 800,
     "title": "Room in Bijlmer (Kraaiennest metro station)",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kikkenstein/room-2406478"
+  },
+  "kamernet:2406480": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-16T07:05:47+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Cornelis van Rijplantsoen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-van-rijplantsoen/room-2406480"
+  },
+  "kamernet:2406484": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-16T07:05:47+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Room for rent in Koppenburglaan",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koppenburglaan/room-2406484"
   }
 }
