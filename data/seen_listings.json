@@ -5574,5 +5574,21 @@
     "price": 1160,
     "title": "Kierkegaardstraat, Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/kierkegaardstraat/room-2406583"
+  },
+  "kamernet:2406585": {
+    "city": "Amstelveen",
+    "first_seen": "2026-09-16T12:50:23+00:00",
+    "notified": false,
+    "price": 1160,
+    "title": "Kierkegaardstraat, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/kierkegaardstraat/room-2406585"
+  },
+  "kamernet:2406586": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-16T12:50:23+00:00",
+    "notified": false,
+    "price": 575,
+    "title": "Langestraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/langestraat/room-2406586"
   }
 }
