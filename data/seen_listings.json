@@ -5558,5 +5558,13 @@
     "price": 900,
     "title": "Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/kardinaal-de-jongstraat/room-2406549"
+  },
+  "kamernet:2406557": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-16T10:44:28+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2406557"
   }
 }
