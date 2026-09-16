@@ -5566,5 +5566,13 @@
     "price": 1500,
     "title": "Koningin Wilhelminaplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2406557"
+  },
+  "kamernet:2406583": {
+    "city": "Amstelveen",
+    "first_seen": "2026-09-16T12:26:08+00:00",
+    "notified": false,
+    "price": 1160,
+    "title": "Kierkegaardstraat, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/kierkegaardstraat/room-2406583"
   }
 }
