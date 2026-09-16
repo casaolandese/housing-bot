@@ -5550,5 +5550,13 @@
     "price": 975,
     "title": "Bart Poesiatstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bart-poesiatstraat/room-2406508"
+  },
+  "kamernet:2406549": {
+    "city": "Amstelveen",
+    "first_seen": "2026-09-16T09:59:05+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/kardinaal-de-jongstraat/room-2406549"
   }
 }
