@@ -5590,5 +5590,21 @@
     "price": 575,
     "title": "Langestraat, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/langestraat/room-2406586"
+  },
+  "kamernet:2406603": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-16T14:26:22+00:00",
+    "notified": false,
+    "price": 595,
+    "title": "Zuiderweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/zuiderweg/room-2406603"
+  },
+  "kamernet:2406607": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-16T14:26:22+00:00",
+    "notified": false,
+    "price": 495,
+    "title": "Kamer te huur in Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/riouwstraat/room-2406607"
   }
 }
