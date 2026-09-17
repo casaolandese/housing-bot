@@ -5663,6 +5663,14 @@
     "title": "rooms near trainstation",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/jan-gijzenkade/room-2406628"
   },
+  "kamernet:2406638": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-17T13:03:45+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Pontsteiger, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pontsteiger/room-2406638"
+  },
   "kamernet:2406640": {
     "city": "Duivendrecht",
     "first_seen": "2026-09-17T06:49:29+00:00",
@@ -5726,5 +5734,13 @@
     "price": 700,
     "title": "Room for rent near Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-diemen/solferinostraat/room-2406737"
+  },
+  "kamernet:2406748": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-17T13:03:45+00:00",
+    "notified": true,
+    "price": 500,
+    "title": "Furnished room in friendly shared house in Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/tetterodestraat/room-2406748"
   }
 }
