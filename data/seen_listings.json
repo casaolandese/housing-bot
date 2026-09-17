@@ -5159,6 +5159,14 @@
     "title": "Copernicusstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/copernicusstraat/room-2405985"
   },
+  "kamernet:2406020": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-17T07:27:57+00:00",
+    "notified": false,
+    "price": 1750,
+    "title": "Nieuwe Kerksplein, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/nieuwe-kerksplein/room-2406020"
+  },
   "kamernet:2406033": {
     "city": "Amsterdam",
     "first_seen": "2026-09-14T07:18:38+00:00",
@@ -5334,6 +5342,14 @@
     "price": 850,
     "title": "Bright Room in Spacious 2BHK in Amsterdam Zuid",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-nijenrodeweg/room-2406238"
+  },
+  "kamernet:2406249": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-17T07:27:57+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Van Spilbergenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-spilbergenstraat/room-2406249"
   },
   "kamernet:2406271": {
     "city": "Amsterdam",
