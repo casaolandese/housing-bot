@@ -5703,6 +5703,14 @@
     "title": "Kamer te huur in het centrum van Haarlem",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/wagenweg/room-2406697"
   },
+  "kamernet:2406709": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-17T12:21:45+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Zwanebloemlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/zwanebloemlaan/room-2406709"
+  },
   "kamernet:2406727": {
     "city": "Amsterdam",
     "first_seen": "2026-09-17T10:20:44+00:00",
