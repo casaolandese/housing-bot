@@ -5670,5 +5670,13 @@
     "price": 800,
     "title": "Room with private bathroom",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/amsterdamsestraatweg/room-2406666"
+  },
+  "kamernet:2406697": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-17T08:43:58+00:00",
+    "notified": true,
+    "price": 775,
+    "title": "Kamer te huur in het centrum van Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/wagenweg/room-2406697"
   }
 }
