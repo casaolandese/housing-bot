@@ -5591,6 +5591,14 @@
     "title": "Bart Poesiatstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bart-poesiatstraat/room-2406508"
   },
+  "kamernet:2406535": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-17T14:23:20+00:00",
+    "notified": true,
+    "price": 550,
+    "title": "Room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/haardstee/room-2406535"
+  },
   "kamernet:2406549": {
     "city": "Amstelveen",
     "first_seen": "2026-09-16T09:59:05+00:00",
