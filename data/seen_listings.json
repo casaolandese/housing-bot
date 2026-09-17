@@ -5750,5 +5750,13 @@
     "price": 500,
     "title": "Furnished room in friendly shared house in Haarlem",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/tetterodestraat/room-2406748"
+  },
+  "kamernet:2406769": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-17T14:44:03+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2406769"
   }
 }
