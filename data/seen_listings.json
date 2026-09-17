@@ -5447,6 +5447,14 @@
     "title": "Student room",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/koppestokstraat/room-2406357"
   },
+  "kamernet:2406359": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-17T08:58:59+00:00",
+    "notified": false,
+    "price": 1025,
+    "title": "Loenermark, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/loenermark/room-2406359"
+  },
   "kamernet:2406363": {
     "city": "Zaandam",
     "first_seen": "2026-09-15T08:50:59+00:00",
