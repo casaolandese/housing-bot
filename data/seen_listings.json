@@ -5614,5 +5614,13 @@
     "price": 830,
     "title": "rooms near trainstation",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/jan-gijzenkade/room-2406628"
+  },
+  "kamernet:2406640": {
+    "city": "Duivendrecht",
+    "first_seen": "2026-09-17T06:49:29+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "In de Papiermolen, Duivendrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-duivendrecht/in-de-papiermolen/room-2406640"
   }
 }
