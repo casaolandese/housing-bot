@@ -5631,6 +5631,14 @@
     "title": "Langestraat, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/langestraat/room-2406586"
   },
+  "kamernet:2406590": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-17T11:19:33+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Azieweg, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/azieweg/room-2406590"
+  },
   "kamernet:2406603": {
     "city": "Hilversum",
     "first_seen": "2026-09-16T14:26:22+00:00",
@@ -5702,5 +5710,13 @@
     "price": 1400,
     "title": "Koningin Wilhelminaplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2406727"
+  },
+  "kamernet:2406737": {
+    "city": "Diemen",
+    "first_seen": "2026-09-17T11:19:33+00:00",
+    "notified": true,
+    "price": 700,
+    "title": "Room for rent near Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/solferinostraat/room-2406737"
   }
 }
