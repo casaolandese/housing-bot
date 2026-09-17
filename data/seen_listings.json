@@ -1935,6 +1935,14 @@
     "title": "Bosrankstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bosrankstraat/room-2401361"
   },
+  "kamernet:2401383": {
+    "city": "Halfweg",
+    "first_seen": "2026-09-17T07:06:39+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Zijkanaal F Oost, Halfweg",
+    "url": "https://kamernet.nl/en/for-rent/room-halfweg/zijkanaal-f-oost/room-2401383"
+  },
   "kamernet:2401385": {
     "city": "Halfweg",
     "first_seen": "2026-08-21T11:02:51+00:00",
@@ -5622,5 +5630,29 @@
     "price": 975,
     "title": "In de Papiermolen, Duivendrecht",
     "url": "https://kamernet.nl/en/for-rent/room-duivendrecht/in-de-papiermolen/room-2406640"
+  },
+  "kamernet:2406657": {
+    "city": "Almere",
+    "first_seen": "2026-09-17T07:06:39+00:00",
+    "notified": false,
+    "price": 640,
+    "title": "Beneluxlaan Almere Poort",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/beneluxlaan/room-2406657"
+  },
+  "kamernet:2406660": {
+    "city": "Almere",
+    "first_seen": "2026-09-17T07:06:39+00:00",
+    "notified": false,
+    "price": 535,
+    "title": "Beneluxlaan Almere Poort",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/beneluxlaan/room-2406660"
+  },
+  "kamernet:2406666": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-17T07:06:39+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Room with private bathroom",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/amsterdamsestraatweg/room-2406666"
   }
 }
