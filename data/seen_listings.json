@@ -5782,5 +5782,21 @@
     "price": 1400,
     "title": "Fregelaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2406772"
+  },
+  "kamernet:2406831": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-17T21:33:57+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Linnaeusparkweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/linnaeusparkweg/room-2406831"
+  },
+  "kamernet:2406835": {
+    "city": "Amstelveen",
+    "first_seen": "2026-09-17T21:33:57+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Buitenplein, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/buitenplein/room-2406835"
   }
 }
