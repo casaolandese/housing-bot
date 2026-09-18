@@ -5886,5 +5886,53 @@
     "price": 1250,
     "title": "Cornelis van Rijplantsoen, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-van-rijplantsoen/room-2406888"
+  },
+  "kamernet:2406914": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-18T16:15:26+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Room at studenthouse",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/sapoerahof/room-2406914"
+  },
+  "kamernet:2406919": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-18T16:15:26+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Troelstralaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/troelstralaan/room-2406919"
+  },
+  "kamernet:2406921": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-18T16:15:26+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Troelstralaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/troelstralaan/room-2406921"
+  },
+  "kamernet:2406929": {
+    "city": "Zeist",
+    "first_seen": "2026-09-18T16:15:26+00:00",
+    "notified": false,
+    "price": 855,
+    "title": "Female only student private room",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/steynlaan/room-2406929"
+  },
+  "kamernet:2406930": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-18T16:15:26+00:00",
+    "notified": false,
+    "price": 1199,
+    "title": "Amandelstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/amandelstraat/room-2406930"
+  },
+  "kamernet:2406936": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-18T16:15:26+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Schipluidenlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/schipluidenlaan/room-2406936"
   }
 }
