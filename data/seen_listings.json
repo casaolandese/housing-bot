@@ -2543,6 +2543,14 @@
     "title": "Derde Oosterparkstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/derde-oosterparkstraat/room-2402103"
   },
+  "kamernet:2402105": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-18T11:54:05+00:00",
+    "notified": true,
+    "price": 820,
+    "title": "Spacious room in large appartment",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2402105"
+  },
   "kamernet:2402112": {
     "city": "Almere",
     "first_seen": "2026-08-25T09:21:43+00:00",
@@ -4791,6 +4799,14 @@
     "title": "a furnished single room ( will be frunished soon )",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/hasebroekstraat/room-2405290"
   },
+  "kamernet:2405311": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-18T11:54:05+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Frederik Hendrikstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/frederik-hendrikstraat/room-2405311"
+  },
   "kamernet:2405320": {
     "city": "Amsterdam",
     "first_seen": "2026-09-09T11:43:47+00:00",
@@ -5783,6 +5799,38 @@
     "title": "Fregelaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2406772"
   },
+  "kamernet:2406781": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-09-18T11:54:05+00:00",
+    "notified": true,
+    "price": 700,
+    "title": "LOFT ATTIC   FOR  RENT",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/cantatelaan/room-2406781"
+  },
+  "kamernet:2406791": {
+    "city": "Diemen",
+    "first_seen": "2026-09-18T11:54:05+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Ouddiemerlaan, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/ouddiemerlaan/room-2406791"
+  },
+  "kamernet:2406814": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-18T11:54:05+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Langestraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/langestraat/room-2406814"
+  },
+  "kamernet:2406823": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-18T11:54:05+00:00",
+    "notified": false,
+    "price": 1800,
+    "title": "Van Ostadestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-ostadestraat/room-2406823"
+  },
   "kamernet:2406831": {
     "city": "Amsterdam",
     "first_seen": "2026-09-17T21:33:57+00:00",
@@ -5791,6 +5839,14 @@
     "title": "Linnaeusparkweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/linnaeusparkweg/room-2406831"
   },
+  "kamernet:2406832": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-18T11:54:05+00:00",
+    "notified": false,
+    "price": 725,
+    "title": "Adelaarstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/adelaarstraat/room-2406832"
+  },
   "kamernet:2406835": {
     "city": "Amstelveen",
     "first_seen": "2026-09-17T21:33:57+00:00",
@@ -5798,5 +5854,37 @@
     "price": 1500,
     "title": "Buitenplein, Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/buitenplein/room-2406835"
+  },
+  "kamernet:2406836": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-18T11:54:05+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Cornelis Anthoniszstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-anthoniszstraat/room-2406836"
+  },
+  "kamernet:2406847": {
+    "city": "Zeist",
+    "first_seen": "2026-09-18T11:54:05+00:00",
+    "notified": false,
+    "price": 1199,
+    "title": "De la Reylaan, Zeist",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/de-la-reylaan/room-2406847"
+  },
+  "kamernet:2406852": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-18T11:54:05+00:00",
+    "notified": false,
+    "price": 1223,
+    "title": "Oeverpad, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oeverpad/room-2406852"
+  },
+  "kamernet:2406888": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-18T11:54:05+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Cornelis van Rijplantsoen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-van-rijplantsoen/room-2406888"
   }
 }
