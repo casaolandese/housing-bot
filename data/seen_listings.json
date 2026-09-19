@@ -295,6 +295,14 @@
     "title": "Luxury room for rent in Amsterdam New West",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ruys-de-beerenbrouckstraat/room-2176834"
   },
+  "kamernet:2183417": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-19T11:35:40+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Johannes Meewisstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/johannes-meewisstraat/room-2183417"
+  },
   "kamernet:2201046": {
     "city": "Monnickendam",
     "first_seen": "2026-08-18T17:57:02+00:00",
@@ -5895,6 +5903,14 @@
     "title": "Room at studenthouse",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/sapoerahof/room-2406914"
   },
+  "kamernet:2406916": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-19T11:35:40+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "🐶 Dog Lovers Welcome: Furnished Room in Noord",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/loenermark/room-2406916"
+  },
   "kamernet:2406919": {
     "city": "Amsterdam",
     "first_seen": "2026-09-18T16:15:26+00:00",
@@ -5934,5 +5950,101 @@
     "price": 1400,
     "title": "Schipluidenlaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/schipluidenlaan/room-2406936"
+  },
+  "kamernet:2406939": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-19T11:35:40+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Maassluisstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/maassluisstraat/room-2406939"
+  },
+  "kamernet:2406941": {
+    "city": "Almere",
+    "first_seen": "2026-09-19T11:35:40+00:00",
+    "notified": false,
+    "price": 875,
+    "title": "Beautiful room of 14 m² including registration",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/kiel/room-2406941"
+  },
+  "kamernet:2406942": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-19T11:35:40+00:00",
+    "notified": true,
+    "price": 500,
+    "title": "kamer tijdelijk te huur nabij  winkelcentrum",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/turkooislaan/room-2406942"
+  },
+  "kamernet:2406947": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-19T11:35:40+00:00",
+    "notified": true,
+    "price": 400,
+    "title": "Kamer tijdelijk te huur voor jaar nabij winkels",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/aquamarijnlaan/room-2406947"
+  },
+  "kamernet:2406977": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-19T11:35:40+00:00",
+    "notified": true,
+    "price": 495,
+    "title": "Een kamer vrij in een huis in Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/rooseveltlaan/room-2406977"
+  },
+  "kamernet:2407007": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-19T11:35:40+00:00",
+    "notified": false,
+    "price": 1360,
+    "title": "Ottho Heldringstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ottho-heldringstraat/room-2407007"
+  },
+  "kamernet:2407015": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-19T11:35:40+00:00",
+    "notified": false,
+    "price": 995,
+    "title": "Gaandeweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gaandeweg/room-2407015"
+  },
+  "kamernet:2407024": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-19T11:35:40+00:00",
+    "notified": false,
+    "price": 1325,
+    "title": "Elzenhagensingel, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elzenhagensingel/room-2407024"
+  },
+  "kamernet:2407040": {
+    "city": "Rijsenhout",
+    "first_seen": "2026-09-19T11:35:40+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Aalsmeerderweg, Rijsenhout",
+    "url": "https://kamernet.nl/en/for-rent/room-rijsenhout/aalsmeerderweg/room-2407040"
+  },
+  "kamernet:2407045": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-19T11:35:40+00:00",
+    "notified": false,
+    "price": 495,
+    "title": "Jan van der Heijdenstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/jan-van-der-heijdenstraat/room-2407045"
+  },
+  "kamernet:2407055": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-19T11:35:40+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Kamer op IJburg/nice room",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eva-besnyostraat/room-2407055"
+  },
+  "kamernet:2407059": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-19T11:35:40+00:00",
+    "notified": false,
+    "price": 735,
+    "title": "1 small room available in Deflandplein complex",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/delflandplein/room-2407059"
   }
 }
