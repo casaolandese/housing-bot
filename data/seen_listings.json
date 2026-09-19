@@ -6078,5 +6078,21 @@
     "price": 1250,
     "title": "Van Tuyll van Serooskerkenweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-tuyll-van-serooskerkenweg/room-2407097"
+  },
+  "kamernet:2407112": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-19T17:32:58+00:00",
+    "notified": false,
+    "price": 450,
+    "title": "mooi studentenhuis nabij station",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/molenaerstraat/room-2407112"
+  },
+  "kamernet:2407117": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-19T17:32:58+00:00",
+    "notified": true,
+    "price": 630,
+    "title": "4-people co-living looking for new housemate",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/weerdestein/room-2407117"
   }
 }
