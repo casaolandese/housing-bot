@@ -6046,5 +6046,37 @@
     "price": 735,
     "title": "1 small room available in Deflandplein complex",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/delflandplein/room-2407059"
+  },
+  "kamernet:2407082": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-19T14:48:03+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Afroditekade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/afroditekade/room-2407082"
+  },
+  "kamernet:2407084": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-19T14:48:03+00:00",
+    "notified": false,
+    "price": 675,
+    "title": "Nieuw huisgenootje gezocht Amsterdam Noord",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ijdoornlaan/room-2407084"
+  },
+  "kamernet:2407095": {
+    "city": "Almere",
+    "first_seen": "2026-09-19T14:48:03+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Roemer Visscherstraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/roemer-visscherstraat/room-2407095"
+  },
+  "kamernet:2407097": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-19T14:48:03+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Van Tuyll van Serooskerkenweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-tuyll-van-serooskerkenweg/room-2407097"
   }
 }
