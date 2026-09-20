@@ -6158,5 +6158,53 @@
     "price": 930,
     "title": "Foeliestraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/foeliestraat/room-2407213"
+  },
+  "kamernet:2407226": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-20T16:25:29+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Laan van Vlaanderen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/laan-van-vlaanderen/room-2407226"
+  },
+  "kamernet:2407227": {
+    "city": "Almere",
+    "first_seen": "2026-09-20T16:25:29+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Neat room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/brongouw/room-2407227"
+  },
+  "kamernet:2407230": {
+    "city": "Driebergen-Rijsenburg",
+    "first_seen": "2026-09-20T16:25:29+00:00",
+    "notified": false,
+    "price": 625,
+    "title": "Traaij, Driebergen-Rijsenburg",
+    "url": "https://kamernet.nl/en/for-rent/room-driebergen-rijsenburg/traaij/room-2407230"
+  },
+  "kamernet:2407233": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-20T16:25:29+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2407233"
+  },
+  "kamernet:2407236": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-20T16:25:29+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Fregelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2407236"
+  },
+  "kamernet:2407294": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-20T16:25:29+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Modern room with garden",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/johan-broedeletstraat/room-2407294"
   }
 }
