@@ -6206,5 +6206,13 @@
     "price": 800,
     "title": "Modern room with garden",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/johan-broedeletstraat/room-2407294"
+  },
+  "kamernet:2407328": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-20T19:00:23+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Light room in the center of Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/gedempte-voldersgracht/room-2407328"
   }
 }
