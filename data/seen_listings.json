@@ -6079,6 +6079,22 @@
     "title": "Van Tuyll van Serooskerkenweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-tuyll-van-serooskerkenweg/room-2407097"
   },
+  "kamernet:2407105": {
+    "city": "Velsen-Noord",
+    "first_seen": "2026-09-20T12:21:31+00:00",
+    "notified": false,
+    "price": 470,
+    "title": "Schulpweg, Velsen-Noord",
+    "url": "https://kamernet.nl/en/for-rent/room-velsen-noord/schulpweg/room-2407105"
+  },
+  "kamernet:2407106": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-20T12:21:31+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Cornelis van Rijplantsoen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-van-rijplantsoen/room-2407106"
+  },
   "kamernet:2407112": {
     "city": "Haarlem",
     "first_seen": "2026-09-19T17:32:58+00:00",
@@ -6094,5 +6110,53 @@
     "price": 630,
     "title": "4-people co-living looking for new housemate",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/weerdestein/room-2407117"
+  },
+  "kamernet:2407140": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-20T12:21:31+00:00",
+    "notified": false,
+    "price": 1075,
+    "title": "Van Hallstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-hallstraat/room-2407140"
+  },
+  "kamernet:2407150": {
+    "city": "Zeist",
+    "first_seen": "2026-09-20T12:21:31+00:00",
+    "notified": false,
+    "price": 1099,
+    "title": "De la Reylaan, Zeist",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/de-la-reylaan/room-2407150"
+  },
+  "kamernet:2407154": {
+    "city": "Almere",
+    "first_seen": "2026-09-20T12:21:31+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Kimwierde, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/kimwierde/room-2407154"
+  },
+  "kamernet:2407183": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-20T12:21:31+00:00",
+    "notified": false,
+    "price": 970,
+    "title": "Leusdenhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leusdenhof/room-2407183"
+  },
+  "kamernet:2407189": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-20T12:21:31+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Leuvenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leuvenstraat/room-2407189"
+  },
+  "kamernet:2407213": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-20T12:21:31+00:00",
+    "notified": false,
+    "price": 930,
+    "title": "Foeliestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/foeliestraat/room-2407213"
   }
 }
