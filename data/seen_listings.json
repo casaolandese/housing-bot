@@ -6406,5 +6406,13 @@
     "price": 800,
     "title": "Room in Amsterdam Southeast",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spakenburgstraat/room-2407556"
+  },
+  "kamernet:2407590": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T22:51:13+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Elzenhagensingel, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elzenhagensingel/room-2407590"
   }
 }
