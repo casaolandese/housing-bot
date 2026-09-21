@@ -6350,5 +6350,61 @@
     "price": 800,
     "title": "Room in Amsterdam Reigersbos",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/toutenburgstraat/room-2407474"
+  },
+  "kamernet:2407510": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-21T19:40:48+00:00",
+    "notified": false,
+    "price": 895,
+    "title": "Kerkstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/kerkstraat/room-2407510"
+  },
+  "kamernet:2407511": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-21T19:40:48+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "1e Oosterstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/1e-oosterstraat/room-2407511"
+  },
+  "kamernet:2407525": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T19:40:48+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Stromarkt, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/stromarkt/room-2407525"
+  },
+  "kamernet:2407526": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T19:40:48+00:00",
+    "notified": false,
+    "price": 1550,
+    "title": "Stromarkt, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/stromarkt/room-2407526"
+  },
+  "kamernet:2407536": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T19:40:48+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Fregelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2407536"
+  },
+  "kamernet:2407542": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-21T19:40:48+00:00",
+    "notified": false,
+    "price": 866,
+    "title": "Penthouse in the heart of Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/vleutenseweg/room-2407542"
+  },
+  "kamernet:2407556": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T19:40:48+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Room in Amsterdam Southeast",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spakenburgstraat/room-2407556"
   }
 }
