@@ -6215,6 +6215,22 @@
     "title": "Light room in the center of Haarlem",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/gedempte-voldersgracht/room-2407328"
   },
+  "kamernet:2407330": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-21T07:16:03+00:00",
+    "notified": true,
+    "price": 762,
+    "title": "Nice room in the center of Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/voorstraat/room-2407330"
+  },
+  "kamernet:2407342": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T07:16:03+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Valutaboulevard, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/valutaboulevard/room-2407342"
+  },
   "kamernet:2407350": {
     "city": "Amsterdam",
     "first_seen": "2026-09-20T21:31:10+00:00",
@@ -6222,5 +6238,21 @@
     "price": 798,
     "title": "Multiple Student Rooms per 1st of October",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gouden-leeuw/room-2407350"
+  },
+  "kamernet:2407356": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-21T07:16:03+00:00",
+    "notified": false,
+    "price": 575,
+    "title": "Student house",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-egmondkade/room-2407356"
+  },
+  "kamernet:2407377": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T07:16:03+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Nachtwachtlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nachtwachtlaan/room-2407377"
   }
 }
