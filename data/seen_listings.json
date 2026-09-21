@@ -5815,6 +5815,14 @@
     "title": "LOFT ATTIC   FOR  RENT",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/cantatelaan/room-2406781"
   },
+  "kamernet:2406789": {
+    "city": "Zwanenburg",
+    "first_seen": "2026-09-21T14:21:10+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "De Heining, Zwanenburg",
+    "url": "https://kamernet.nl/en/for-rent/room-zwanenburg/de-heining/room-2406789"
+  },
   "kamernet:2406791": {
     "city": "Diemen",
     "first_seen": "2026-09-18T11:54:05+00:00",
@@ -6247,6 +6255,14 @@
     "title": "Student house",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-egmondkade/room-2407356"
   },
+  "kamernet:2407358": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T14:21:10+00:00",
+    "notified": true,
+    "price": 750,
+    "title": "Room in Amsterdam East",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tidorestraat/room-2407358"
+  },
   "kamernet:2407377": {
     "city": "Amsterdam",
     "first_seen": "2026-09-21T07:16:03+00:00",
@@ -6254,5 +6270,85 @@
     "price": 800,
     "title": "Nachtwachtlaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nachtwachtlaan/room-2407377"
+  },
+  "kamernet:2407416": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T14:21:10+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Le Mairekade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/le-mairekade/room-2407416"
+  },
+  "kamernet:2407422": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T14:21:10+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Kijkduinstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kijkduinstraat/room-2407422"
+  },
+  "kamernet:2407436": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T14:21:10+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Katrijpstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/katrijpstraat/room-2407436"
+  },
+  "kamernet:2407441": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T14:21:10+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Fregelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2407441"
+  },
+  "kamernet:2407444": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T14:21:10+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2407444"
+  },
+  "kamernet:2407445": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T14:21:10+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Fregelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2407445"
+  },
+  "kamernet:2407449": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-09-21T14:21:10+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Stootvalk, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/stootvalk/room-2407449"
+  },
+  "kamernet:2407454": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T14:21:10+00:00",
+    "notified": false,
+    "price": 990,
+    "title": "De Clercqstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/de-clercqstraat/room-2407454"
+  },
+  "kamernet:2407470": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-21T14:21:10+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Bright room near the Center of Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/waldeck-pyrmontstraat/room-2407470"
+  },
+  "kamernet:2407474": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-21T14:21:10+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Room in Amsterdam Reigersbos",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/toutenburgstraat/room-2407474"
   }
 }
