@@ -6550,5 +6550,13 @@
     "price": 768,
     "title": "Oudwijkerveldstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/oudwijkerveldstraat/room-2407678"
+  },
+  "kamernet:2407764": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-22T20:07:01+00:00",
+    "notified": false,
+    "price": 640,
+    "title": "Woongemeenschap voor ambitieuze studentes",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-luijkenstraat/room-2407764"
   }
 }
