@@ -6271,6 +6271,14 @@
     "title": "Nachtwachtlaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nachtwachtlaan/room-2407377"
   },
+  "kamernet:2407380": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-22T12:07:27+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Nachtwachtlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nachtwachtlaan/room-2407380"
+  },
   "kamernet:2407416": {
     "city": "Amsterdam",
     "first_seen": "2026-09-21T14:21:10+00:00",
@@ -6391,6 +6399,14 @@
     "title": "Fregelaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2407536"
   },
+  "kamernet:2407538": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-22T12:07:27+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Kloekhorststraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kloekhorststraat/room-2407538"
+  },
   "kamernet:2407542": {
     "city": "Utrecht",
     "first_seen": "2026-09-21T19:40:48+00:00",
@@ -6398,6 +6414,14 @@
     "price": 866,
     "title": "Penthouse in the heart of Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/vleutenseweg/room-2407542"
+  },
+  "kamernet:2407544": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-22T12:07:27+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Grubbehoeve, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/grubbehoeve/room-2407544"
   },
   "kamernet:2407556": {
     "city": "Amsterdam",
@@ -6407,6 +6431,38 @@
     "title": "Room in Amsterdam Southeast",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spakenburgstraat/room-2407556"
   },
+  "kamernet:2407560": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-22T12:07:27+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Avercampstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/avercampstraat/room-2407560"
+  },
+  "kamernet:2407566": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-22T12:07:27+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Cannenburg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cannenburg/room-2407566"
+  },
+  "kamernet:2407573": {
+    "city": "Zeist",
+    "first_seen": "2026-09-22T12:07:27+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Ruime kamer 27m2 - 15 min van Utrecht Campus af",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/2e-dorpsstraat/room-2407573"
+  },
+  "kamernet:2407575": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-22T12:07:27+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Admiraal De Ruijterweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/admiraal-de-ruijterweg/room-2407575"
+  },
   "kamernet:2407590": {
     "city": "Amsterdam",
     "first_seen": "2026-09-21T22:51:13+00:00",
@@ -6414,5 +6470,45 @@
     "price": 1200,
     "title": "Elzenhagensingel, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elzenhagensingel/room-2407590"
+  },
+  "kamernet:2407607": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-22T12:07:27+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Room Available – for a Female ONLY Flatmate",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pantograafstraat/room-2407607"
+  },
+  "kamernet:2407611": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-22T12:07:27+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Midscheeps, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/midscheeps/room-2407611"
+  },
+  "kamernet:2407621": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-22T12:07:27+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "2027",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/loenermark/room-2407621"
+  },
+  "kamernet:2407631": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-22T12:07:27+00:00",
+    "notified": false,
+    "price": 1575,
+    "title": "Jan van Galenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-van-galenstraat/room-2407631"
+  },
+  "kamernet:2407654": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-22T12:07:27+00:00",
+    "notified": false,
+    "price": 760,
+    "title": "Furnished room in Buitenveldert",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-heenvlietlaan/room-2407654"
   }
 }
