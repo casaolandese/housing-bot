@@ -2351,6 +2351,14 @@
     "title": "Furnished Student Room for Rent",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/vatternkade/room-2401885"
   },
+  "kamernet:2401897": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-22T16:57:36+00:00",
+    "notified": false,
+    "price": 455,
+    "title": "Liebergerweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/liebergerweg/room-2401897"
+  },
   "kamernet:2401906": {
     "city": "Amsterdam",
     "first_seen": "2026-08-24T11:51:51+00:00",
@@ -6071,6 +6079,14 @@
     "title": "Nieuw huisgenootje gezocht Amsterdam Noord",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ijdoornlaan/room-2407084"
   },
+  "kamernet:2407094": {
+    "city": "Diemen",
+    "first_seen": "2026-09-22T16:57:36+00:00",
+    "notified": false,
+    "price": 690,
+    "title": "Furnished Room 14 m² in Diemen-Zuid",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/havikskruid/room-2407094"
+  },
   "kamernet:2407095": {
     "city": "Almere",
     "first_seen": "2026-09-19T14:48:03+00:00",
@@ -6503,6 +6519,14 @@
     "title": "Jan van Galenstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-van-galenstraat/room-2407631"
   },
+  "kamernet:2407645": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-22T16:57:36+00:00",
+    "notified": false,
+    "price": 615,
+    "title": "17.6 m2 -- Da Costakade -- €615, -- Geen studenten",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/da-costakade/room-2407645"
+  },
   "kamernet:2407654": {
     "city": "Amsterdam",
     "first_seen": "2026-09-22T12:07:27+00:00",
@@ -6510,5 +6534,21 @@
     "price": 760,
     "title": "Furnished room in Buitenveldert",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-heenvlietlaan/room-2407654"
+  },
+  "kamernet:2407669": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-22T16:57:36+00:00",
+    "notified": true,
+    "price": 460,
+    "title": "Small furnished room for rent in Zuilen",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/amsterdamsestraatweg/room-2407669"
+  },
+  "kamernet:2407678": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-22T16:57:36+00:00",
+    "notified": false,
+    "price": 768,
+    "title": "Oudwijkerveldstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/oudwijkerveldstraat/room-2407678"
   }
 }
