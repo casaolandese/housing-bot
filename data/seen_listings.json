@@ -6654,5 +6654,21 @@
     "price": 850,
     "title": "Mooie gemeubileerde kamer in Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/damstraat/room-2407864"
+  },
+  "kamernet:2407913": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-23T20:20:51+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Furnished Room JP Coenstraat",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/jan-pieterszoon-coenstraat/room-2407913"
+  },
+  "kamernet:2407928": {
+    "city": "Almere",
+    "first_seen": "2026-09-23T20:20:51+00:00",
+    "notified": true,
+    "price": 785,
+    "title": "Renovated room with private kitchenette – Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/bosgouw/room-2407928"
   }
 }
