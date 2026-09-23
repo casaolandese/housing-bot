@@ -6039,6 +6039,14 @@
     "title": "Gaandeweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gaandeweg/room-2407015"
   },
+  "kamernet:2407023": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-23T17:05:54+00:00",
+    "notified": false,
+    "price": 1325,
+    "title": "Elzenhagensingel, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elzenhagensingel/room-2407023"
+  },
   "kamernet:2407024": {
     "city": "Amsterdam",
     "first_seen": "2026-09-19T11:35:40+00:00",
@@ -6638,5 +6646,13 @@
     "price": 650,
     "title": "Schoonenburgsingel, Hoofddorp",
     "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/schoonenburgsingel/room-2407848"
+  },
+  "kamernet:2407864": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-23T17:05:54+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Mooie gemeubileerde kamer in Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/damstraat/room-2407864"
   }
 }
