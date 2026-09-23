@@ -5407,6 +5407,14 @@
     "title": "Laan 1954, De Meern",
     "url": "https://kamernet.nl/en/for-rent/room-de-meern/laan-1954/room-2406273"
   },
+  "kamernet:2406275": {
+    "city": "Heemstede",
+    "first_seen": "2026-09-23T12:10:07+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Binnenweg, Heemstede",
+    "url": "https://kamernet.nl/en/for-rent/room-heemstede/binnenweg/room-2406275"
+  },
   "kamernet:2406284": {
     "city": "Amsterdam",
     "first_seen": "2026-09-15T07:07:43+00:00",
@@ -5766,6 +5774,14 @@
     "price": 1400,
     "title": "Koningin Wilhelminaplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2406727"
+  },
+  "kamernet:2406730": {
+    "city": "Zaandam",
+    "first_seen": "2026-09-23T12:10:07+00:00",
+    "notified": true,
+    "price": 786,
+    "title": "2 rooms in renovated apartment in center zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/zuiddijk/room-2406730"
   },
   "kamernet:2406737": {
     "city": "Diemen",
@@ -6239,6 +6255,14 @@
     "title": "Light room in the center of Haarlem",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/gedempte-voldersgracht/room-2407328"
   },
+  "kamernet:2407329": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-23T12:10:07+00:00",
+    "notified": false,
+    "price": 1600,
+    "title": "Vier Heemskinderenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/vier-heemskinderenstraat/room-2407329"
+  },
   "kamernet:2407330": {
     "city": "Utrecht",
     "first_seen": "2026-09-21T07:16:03+00:00",
@@ -6551,6 +6575,38 @@
     "title": "Oudwijkerveldstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/oudwijkerveldstraat/room-2407678"
   },
+  "kamernet:2407743": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-23T12:10:07+00:00",
+    "notified": false,
+    "price": 575,
+    "title": "Kapelstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/kapelstraat/room-2407743"
+  },
+  "kamernet:2407752": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-23T12:10:07+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Amsterdam Noord ( Metro station 52 )",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elzenhagensingel/room-2407752"
+  },
+  "kamernet:2407756": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-23T12:10:07+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Room for rent in Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/reigersbos/room-2407756"
+  },
+  "kamernet:2407759": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-23T12:10:07+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Hammarbystraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hammarbystraat/room-2407759"
+  },
   "kamernet:2407764": {
     "city": "Amsterdam",
     "first_seen": "2026-09-22T20:07:01+00:00",
@@ -6558,5 +6614,29 @@
     "price": 640,
     "title": "Woongemeenschap voor ambitieuze studentes",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-luijkenstraat/room-2407764"
+  },
+  "kamernet:2407776": {
+    "city": "Almere",
+    "first_seen": "2026-09-23T12:10:07+00:00",
+    "notified": false,
+    "price": 60,
+    "title": "Prozastraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/prozastraat/room-2407776"
+  },
+  "kamernet:2407795": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-23T12:10:07+00:00",
+    "notified": false,
+    "price": 1199,
+    "title": "Amandelstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/amandelstraat/room-2407795"
+  },
+  "kamernet:2407848": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-09-23T12:10:07+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Schoonenburgsingel, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/schoonenburgsingel/room-2407848"
   }
 }
