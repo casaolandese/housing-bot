@@ -407,6 +407,14 @@
     "title": "Room next to Erasmuspark",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-van-galenstraat/room-2343126"
   },
+  "kamernet:2345697": {
+    "city": "Diemen",
+    "first_seen": "2026-09-24T12:15:39+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Klipperweg, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/klipperweg/room-2345697"
+  },
   "kamernet:2346358": {
     "city": "Amsterdam",
     "first_seen": "2026-09-14T10:18:58+00:00",
@@ -5655,6 +5663,14 @@
     "title": "Koningin Wilhelminaplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2406557"
   },
+  "kamernet:2406563": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-24T12:15:39+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Leusdenhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leusdenhof/room-2406563"
+  },
   "kamernet:2406583": {
     "city": "Amstelveen",
     "first_seen": "2026-09-16T12:26:08+00:00",
@@ -6631,6 +6647,14 @@
     "title": "Woongemeenschap voor ambitieuze studentes",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-luijkenstraat/room-2407764"
   },
+  "kamernet:2407766": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-24T12:15:39+00:00",
+    "notified": false,
+    "price": 1018,
+    "title": "Concertgebouwplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/concertgebouwplein/room-2407766"
+  },
   "kamernet:2407776": {
     "city": "Almere",
     "first_seen": "2026-09-23T12:10:07+00:00",
@@ -6671,6 +6695,14 @@
     "title": "Furnished Room JP Coenstraat",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/jan-pieterszoon-coenstraat/room-2407913"
   },
+  "kamernet:2407926": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-24T12:15:39+00:00",
+    "notified": false,
+    "price": 625,
+    "title": "9m2 room with 62m2 communal space",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/veldhuizenstraat/room-2407926"
+  },
   "kamernet:2407928": {
     "city": "Almere",
     "first_seen": "2026-09-23T20:20:51+00:00",
@@ -6686,5 +6718,53 @@
     "price": 650,
     "title": "Room Amsterdam New-West",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/maassluisstraat/room-2407935"
+  },
+  "kamernet:2407946": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-24T12:15:39+00:00",
+    "notified": false,
+    "price": 925,
+    "title": "Simon Stevinstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/simon-stevinstraat/room-2407946"
+  },
+  "kamernet:2407950": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-24T12:15:39+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Van Tuyll van Serooskerkenweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-tuyll-van-serooskerkenweg/room-2407950"
+  },
+  "kamernet:2407952": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-24T12:15:39+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Cornelis van Rijplantsoen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-van-rijplantsoen/room-2407952"
+  },
+  "kamernet:2407958": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-24T12:15:39+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Room temporary 1 okt- 1 march",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/albatrosstraat/room-2407958"
+  },
+  "kamernet:2407959": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-24T12:15:39+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2407959"
+  },
+  "kamernet:2407969": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-24T12:15:39+00:00",
+    "notified": false,
+    "price": 925,
+    "title": "Kraaienplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kraaienplein/room-2407969"
   }
 }
