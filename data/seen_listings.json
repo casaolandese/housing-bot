@@ -6423,6 +6423,14 @@
     "title": "Room in Amsterdam Reigersbos",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/toutenburgstraat/room-2407474"
   },
+  "kamernet:2407497": {
+    "city": "Zaandam",
+    "first_seen": "2026-09-24T17:21:01+00:00",
+    "notified": false,
+    "price": 875,
+    "title": "Gemeubileerde kamer te huur",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/panneroodstraat/room-2407497"
+  },
   "kamernet:2407510": {
     "city": "Hilversum",
     "first_seen": "2026-09-21T19:40:48+00:00",
@@ -6766,5 +6774,53 @@
     "price": 925,
     "title": "Kraaienplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kraaienplein/room-2407969"
+  },
+  "kamernet:2407994": {
+    "city": "Zeist",
+    "first_seen": "2026-09-24T17:21:01+00:00",
+    "notified": false,
+    "price": 1099,
+    "title": "De la Reylaan, Zeist",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/de-la-reylaan/room-2407994"
+  },
+  "kamernet:2407998": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-24T17:21:01+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Bijlmerdreef, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bijlmerdreef/room-2407998"
+  },
+  "kamernet:2408000": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-24T17:21:01+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Groetstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/groetstraat/room-2408000"
+  },
+  "kamernet:2408015": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-24T17:21:01+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Groetstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/groetstraat/room-2408015"
+  },
+  "kamernet:2408022": {
+    "city": "Amstelveen",
+    "first_seen": "2026-09-24T17:21:01+00:00",
+    "notified": true,
+    "price": 825,
+    "title": "Room to rent in Middenhoven, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/kromoord/room-2408022"
+  },
+  "kamernet:2408034": {
+    "city": "Amstelveen",
+    "first_seen": "2026-09-24T17:21:01+00:00",
+    "notified": false,
+    "price": 740,
+    "title": "Uilenstede room mate wanted",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/uilenstede/room-2408034"
   }
 }
