@@ -6670,5 +6670,13 @@
     "price": 785,
     "title": "Renovated room with private kitchenette – Almere",
     "url": "https://kamernet.nl/en/for-rent/room-almere/bosgouw/room-2407928"
+  },
+  "kamernet:2407935": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-24T01:22:54+00:00",
+    "notified": true,
+    "price": 650,
+    "title": "Room Amsterdam New-West",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/maassluisstraat/room-2407935"
   }
 }
