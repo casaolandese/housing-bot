@@ -6815,6 +6815,14 @@
     "title": "Cornelis van Rijplantsoen, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-van-rijplantsoen/room-2407952"
   },
+  "kamernet:2407956": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-25T12:58:27+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Hoogoord, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hoogoord/room-2407956"
+  },
   "kamernet:2407958": {
     "city": "Utrecht",
     "first_seen": "2026-09-24T12:15:39+00:00",
@@ -6918,5 +6926,53 @@
     "price": 850,
     "title": "Kamer te huur in Almere Poort",
     "url": "https://kamernet.nl/en/for-rent/room-almere/frankrijkkade/room-2408066"
+  },
+  "kamernet:2408108": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-25T12:58:27+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Van Leijenberghlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-leijenberghlaan/room-2408108"
+  },
+  "kamernet:2408114": {
+    "city": "Nieuw-Vennep",
+    "first_seen": "2026-09-25T12:58:27+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Otellolaan, Nieuw-Vennep",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuw-vennep/otellolaan/room-2408114"
+  },
+  "kamernet:2408116": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-25T12:58:27+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Zoomstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/zoomstraat/room-2408116"
+  },
+  "kamernet:2408125": {
+    "city": "Montfoort",
+    "first_seen": "2026-09-25T12:58:27+00:00",
+    "notified": false,
+    "price": 525,
+    "title": "Keizerstraat, Montfoort",
+    "url": "https://kamernet.nl/en/for-rent/room-montfoort/keizerstraat/room-2408125"
+  },
+  "kamernet:2408134": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-25T12:58:27+00:00",
+    "notified": false,
+    "price": 1099,
+    "title": "Amandelstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/amandelstraat/room-2408134"
+  },
+  "kamernet:2408145": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-25T12:58:27+00:00",
+    "notified": false,
+    "price": 425,
+    "title": "one of four rooms with nice views",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/grubbehoeve/room-2408145"
   }
 }
