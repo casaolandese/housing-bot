@@ -5135,6 +5135,14 @@
     "title": "Zolderkamer in rustig huis",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/hondsrug/room-2405847"
   },
+  "kamernet:2405848": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-25T17:54:26+00:00",
+    "notified": true,
+    "price": 650,
+    "title": "Kamer Amsterdam-Noord/Waterlandpleinbuurt",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kennemerduinstraat/room-2405848"
+  },
   "kamernet:2405868": {
     "city": "Amsterdam",
     "first_seen": "2026-09-12T13:18:34+00:00",
@@ -6974,5 +6982,61 @@
     "price": 425,
     "title": "one of four rooms with nice views",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/grubbehoeve/room-2408145"
+  },
+  "kamernet:2408175": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-09-25T17:54:26+00:00",
+    "notified": true,
+    "price": 700,
+    "title": "LOFT ATTIC   FOR  RENT",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/cantatelaan/room-2408175"
+  },
+  "kamernet:2408185": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-25T17:54:26+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Light room Center Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/gedempte-voldersgracht/room-2408185"
+  },
+  "kamernet:2408206": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-25T17:54:26+00:00",
+    "notified": false,
+    "price": 1365,
+    "title": "Veeteeltstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/veeteeltstraat/room-2408206"
+  },
+  "kamernet:2408208": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-25T17:54:26+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Haringpakkerssteeg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/haringpakkerssteeg/room-2408208"
+  },
+  "kamernet:2408209": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-25T17:54:26+00:00",
+    "notified": false,
+    "price": 720,
+    "title": "Wannepad, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wannepad/room-2408209"
+  },
+  "kamernet:2408210": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-25T17:54:26+00:00",
+    "notified": false,
+    "price": 1600,
+    "title": "Pasubio, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pasubio/room-2408210"
+  },
+  "kamernet:2408212": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-25T17:54:26+00:00",
+    "notified": false,
+    "price": 930,
+    "title": "Dijkgraafplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/dijkgraafplein/room-2408212"
   }
 }
