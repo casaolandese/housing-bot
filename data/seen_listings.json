@@ -6263,6 +6263,70 @@
     "title": "Fregelaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2407236"
   },
+  "kamernet:2407252": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-25T07:34:48+00:00",
+    "notified": true,
+    "price": 455,
+    "title": "Te huur: studentenkamer in Utrecht - Overvecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/gloriantdreef/room-2407252"
+  },
+  "kamernet:2407255": {
+    "city": "Zeist",
+    "first_seen": "2026-09-25T07:34:48+00:00",
+    "notified": true,
+    "price": 625,
+    "title": "Te huur: Ruime studentenkamer in centrum Zeist",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/jagerlaan/room-2407255"
+  },
+  "kamernet:2407256": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-25T07:34:48+00:00",
+    "notified": true,
+    "price": 480,
+    "title": "Te huur: ruime studentenkamer in Utrecht - Zuilen",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/johannes-uitenbogaertstraat/room-2407256"
+  },
+  "kamernet:2407257": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-25T07:34:48+00:00",
+    "notified": true,
+    "price": 375,
+    "title": "Studentenkamer te huur aan de Johannes",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/johannes-uitenbogaertstraat/room-2407257"
+  },
+  "kamernet:2407271": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-25T07:34:48+00:00",
+    "notified": true,
+    "price": 520,
+    "title": "Beschikbaar leuke studentenkamer op",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/st-janshovenstraat/room-2407271"
+  },
+  "kamernet:2407272": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-25T07:34:48+00:00",
+    "notified": true,
+    "price": 520,
+    "title": "Te huur lichte en nette studentenkamer met",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/st-janshovenstraat/room-2407272"
+  },
+  "kamernet:2407287": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-25T07:34:48+00:00",
+    "notified": true,
+    "price": 480,
+    "title": "Studentenkamer te huur aan de Johannes",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/johannes-uitenbogaertstraat/room-2407287"
+  },
+  "kamernet:2407291": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-25T07:34:48+00:00",
+    "notified": true,
+    "price": 475,
+    "title": "Te huur mooie studentenkamers in Utrecht - Overvec",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/zamenhofdreef/room-2407291"
+  },
   "kamernet:2407294": {
     "city": "Amsterdam",
     "first_seen": "2026-09-20T16:25:29+00:00",
@@ -6822,5 +6886,37 @@
     "price": 740,
     "title": "Uilenstede room mate wanted",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/uilenstede/room-2408034"
+  },
+  "kamernet:2408054": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-25T07:34:48+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Ruysdaelstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ruysdaelstraat/room-2408054"
+  },
+  "kamernet:2408056": {
+    "city": "Bussum",
+    "first_seen": "2026-09-25T07:34:48+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Veerplein, Bussum",
+    "url": "https://kamernet.nl/en/for-rent/room-bussum/veerplein/room-2408056"
+  },
+  "kamernet:2408064": {
+    "city": "Almere",
+    "first_seen": "2026-09-25T07:34:48+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Nederlandstraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/nederlandstraat/room-2408064"
+  },
+  "kamernet:2408066": {
+    "city": "Almere",
+    "first_seen": "2026-09-25T07:34:48+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Kamer te huur in Almere Poort",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/frankrijkkade/room-2408066"
   }
 }
