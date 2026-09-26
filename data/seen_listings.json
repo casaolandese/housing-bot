@@ -6207,6 +6207,14 @@
     "title": "Van Hallstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-hallstraat/room-2407140"
   },
+  "kamernet:2407141": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-26T13:55:40+00:00",
+    "notified": false,
+    "price": 1125,
+    "title": "Veldzicht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/veldzicht/room-2407141"
+  },
   "kamernet:2407150": {
     "city": "Zeist",
     "first_seen": "2026-09-20T12:21:31+00:00",
@@ -6671,6 +6679,14 @@
     "title": "17.6 m2 -- Da Costakade -- €615, -- Geen studenten",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/da-costakade/room-2407645"
   },
+  "kamernet:2407647": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-26T13:55:40+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Langestraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/langestraat/room-2407647"
+  },
   "kamernet:2407654": {
     "city": "Amsterdam",
     "first_seen": "2026-09-22T12:07:27+00:00",
@@ -7118,5 +7134,29 @@
     "price": 850,
     "title": "Sunny room with built-in wardrobe",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/s-f-van-ossstraat/room-2408280"
+  },
+  "kamernet:2408299": {
+    "city": "De Meern",
+    "first_seen": "2026-09-26T13:55:40+00:00",
+    "notified": false,
+    "price": 885,
+    "title": "Gulperberg, De Meern",
+    "url": "https://kamernet.nl/en/for-rent/room-de-meern/gulperberg/room-2408299"
+  },
+  "kamernet:2408316": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-26T13:55:40+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Prinsengracht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/prinsengracht/room-2408316"
+  },
+  "kamernet:2408337": {
+    "city": "Almere",
+    "first_seen": "2026-09-26T13:55:40+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Room for in Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/workumstraat/room-2408337"
   }
 }
