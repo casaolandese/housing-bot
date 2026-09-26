@@ -423,6 +423,14 @@
     "title": "Gouden Leeuw, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gouden-leeuw/room-2346358"
   },
+  "kamernet:2359834": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-26T09:48:09+00:00",
+    "notified": false,
+    "price": 1450,
+    "title": "Pietersbergweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pietersbergweg/room-2359834"
+  },
   "kamernet:2370283": {
     "city": "Amsterdam",
     "first_seen": "2026-08-25T16:18:35+00:00",
@@ -3662,6 +3670,14 @@
     "price": 800,
     "title": "Kamer te huur Weesp (Amsterdam)",
     "url": "https://kamernet.nl/en/for-rent/room-weesp/keulsevaartstraat/room-2403731"
+  },
+  "kamernet:2403741": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-26T09:48:09+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Dear becoming renter",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wannepad/room-2403741"
   },
   "kamernet:2403743": {
     "city": "Amsterdam",
@@ -6975,6 +6991,14 @@
     "title": "Amandelstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/amandelstraat/room-2408134"
   },
+  "kamernet:2408139": {
+    "city": "Almere",
+    "first_seen": "2026-09-26T09:48:09+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Room in Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/a-vondelingstraat/room-2408139"
+  },
   "kamernet:2408145": {
     "city": "Amsterdam",
     "first_seen": "2026-09-25T12:58:27+00:00",
@@ -7038,5 +7062,61 @@
     "price": 930,
     "title": "Dijkgraafplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/dijkgraafplein/room-2408212"
+  },
+  "kamernet:2408227": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-26T09:48:09+00:00",
+    "notified": false,
+    "price": 1240,
+    "title": "Oeverpad, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oeverpad/room-2408227"
+  },
+  "kamernet:2408232": {
+    "city": "Almere",
+    "first_seen": "2026-09-26T09:48:09+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Kleine kamer",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/sliedrechtpad/room-2408232"
+  },
+  "kamernet:2408239": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-26T09:48:09+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Kamer amsterdam - Extravagant ingerichte complex",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kerdijkhof/room-2408239"
+  },
+  "kamernet:2408249": {
+    "city": "Zeist",
+    "first_seen": "2026-09-26T09:48:09+00:00",
+    "notified": true,
+    "price": 490,
+    "title": "Kamer voor Nederlandse studenten !",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/burgemeester-patijnlaan/room-2408249"
+  },
+  "kamernet:2408253": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-26T09:48:09+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Room Available – for a Female ONLY Flatmate",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pantograafstraat/room-2408253"
+  },
+  "kamernet:2408264": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-26T09:48:09+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Nachtwachtlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nachtwachtlaan/room-2408264"
+  },
+  "kamernet:2408280": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-26T09:48:09+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Sunny room with built-in wardrobe",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/s-f-van-ossstraat/room-2408280"
   }
 }
