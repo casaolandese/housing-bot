@@ -7238,5 +7238,29 @@
     "price": 1050,
     "title": "Rozenstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/rozenstraat/room-2408454"
+  },
+  "kamernet:2408464": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-27T17:17:17+00:00",
+    "notified": false,
+    "price": 895,
+    "title": "Kerkstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/kerkstraat/room-2408464"
+  },
+  "kamernet:2408470": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-27T17:17:17+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Elzenhagensingel, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elzenhagensingel/room-2408470"
+  },
+  "kamernet:2408482": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-27T17:17:17+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Waagdragerhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/waagdragerhof/room-2408482"
   }
 }
