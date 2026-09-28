@@ -7262,5 +7262,13 @@
     "price": 1200,
     "title": "Waagdragerhof, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/waagdragerhof/room-2408482"
+  },
+  "kamernet:2408576": {
+    "city": "Almere",
+    "first_seen": "2026-09-28T07:46:34+00:00",
+    "notified": true,
+    "price": 550,
+    "title": "Room for rent by 1th novembre 2026",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/hopklaverstraat/room-2408576"
   }
 }
