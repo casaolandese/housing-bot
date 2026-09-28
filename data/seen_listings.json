@@ -351,6 +351,14 @@
     "title": "Kamertje in het centrum Haarlem",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/bakenessergracht/room-2300634"
   },
+  "kamernet:2306195": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Spacious Room",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ookmeerweg/room-2306195"
+  },
   "kamernet:2313427": {
     "city": "Amsterdam",
     "first_seen": "2026-08-28T21:53:36+00:00",
@@ -447,6 +455,14 @@
     "title": "PRELUDE, ZAANDAM.",
     "url": "https://kamernet.nl/en/for-rent/room-zaandam/prelude/room-2371953"
   },
+  "kamernet:2373062": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Pietersbergweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pietersbergweg/room-2373062"
+  },
   "kamernet:2375523": {
     "city": "Leimuiden",
     "first_seen": "2026-09-08T13:28:29+00:00",
@@ -502,6 +518,14 @@
     "price": 750,
     "title": "Room(22m2) in city center",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/andreasstraat/room-2389593"
+  },
+  "kamernet:2391937": {
+    "city": "Amstelveen",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 940,
+    "title": "Marga Klompelaan, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/marga-klompelaan/room-2391937"
   },
   "kamernet:2394506": {
     "city": "Soest",
@@ -6263,6 +6287,14 @@
     "title": "Foeliestraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/foeliestraat/room-2407213"
   },
+  "kamernet:2407224": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "A cozy room in a very nice quiet apartment.",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/laan-van-vlaanderen/room-2407224"
+  },
   "kamernet:2407226": {
     "city": "Amsterdam",
     "first_seen": "2026-09-20T16:25:29+00:00",
@@ -6791,6 +6823,14 @@
     "title": "Amandelstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/amandelstraat/room-2407795"
   },
+  "kamernet:2407815": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Jekerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jekerstraat/room-2407815"
+  },
   "kamernet:2407848": {
     "city": "Hoofddorp",
     "first_seen": "2026-09-23T12:10:07+00:00",
@@ -7151,6 +7191,14 @@
     "title": "Carnapstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/carnapstraat/room-2408282"
   },
+  "kamernet:2408289": {
+    "city": "Bilthoven",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 450,
+    "title": "Betreft een kamer in een eengezinswoning",
+    "url": "https://kamernet.nl/en/for-rent/room-bilthoven/burgemeester-fabiuspark/room-2408289"
+  },
   "kamernet:2408299": {
     "city": "De Meern",
     "first_seen": "2026-09-26T13:55:40+00:00",
@@ -7263,6 +7311,22 @@
     "title": "Waagdragerhof, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/waagdragerhof/room-2408482"
   },
+  "kamernet:2408510": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Kijkduinstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kijkduinstraat/room-2408510"
+  },
+  "kamernet:2408569": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Room Available – for a Female ONLY Flatmate",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pantograafstraat/room-2408569"
+  },
   "kamernet:2408576": {
     "city": "Almere",
     "first_seen": "2026-09-28T07:46:34+00:00",
@@ -7270,5 +7334,117 @@
     "price": 550,
     "title": "Room for rent by 1th novembre 2026",
     "url": "https://kamernet.nl/en/for-rent/room-almere/hopklaverstraat/room-2408576"
+  },
+  "kamernet:2408583": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2408583"
+  },
+  "kamernet:2408602": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": true,
+    "price": 795,
+    "title": "Room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/steijnstraat/room-2408602"
+  },
+  "kamernet:2408610": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Prinsengracht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/prinsengracht/room-2408610"
+  },
+  "kamernet:2408636": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 1650,
+    "title": "Egelantiersstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/egelantiersstraat/room-2408636"
+  },
+  "kamernet:2408660": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Mooie kamer in osdorp, vlakbij osdorpplein",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/overleg/room-2408660"
+  },
+  "kamernet:2408668": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 1370,
+    "title": "Polanenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/polanenstraat/room-2408668"
+  },
+  "kamernet:2408687": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 985,
+    "title": "Willy Sluiterstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/willy-sluiterstraat/room-2408687"
+  },
+  "kamernet:2408701": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Van Tuyll van Serooskerkenweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-tuyll-van-serooskerkenweg/room-2408701"
+  },
+  "kamernet:2408710": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": true,
+    "price": 650,
+    "title": "Huisgenoot gezocht - Kennemerduinstraat",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kennemerduinstraat/room-2408710"
+  },
+  "kamernet:2408718": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Van der Mondestraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-der-mondestraat/room-2408718"
+  },
+  "kamernet:2408728": {
+    "city": "Zeist",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 1099,
+    "title": "De la Reylaan, Zeist",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/de-la-reylaan/room-2408728"
+  },
+  "kamernet:2408736": {
+    "city": "Amstelveen",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 626,
+    "title": "Room available in Amstelveen Zonnestein",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/oostelijk-halfrond/room-2408736"
+  },
+  "kamernet:2408742": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 760,
+    "title": "Furnished room in Buitenveldert",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-heenvlietlaan/room-2408742"
+  },
+  "kamernet:2408748": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T16:06:10+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Titus van Rijnstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/titus-van-rijnstraat/room-2408748"
   }
 }
