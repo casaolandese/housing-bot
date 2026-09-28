@@ -255,6 +255,14 @@
     "title": "Koekoekstraat, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/koekoekstraat/studio-520599"
   },
+  "directwonen:521019": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-28T21:59:27+00:00",
+    "notified": true,
+    "price": 711,
+    "title": "Van Speijkstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/van-speijkstraat/studio-521019"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
@@ -5471,6 +5479,14 @@
     "title": "Binnenweg, Heemstede",
     "url": "https://kamernet.nl/en/for-rent/room-heemstede/binnenweg/room-2406275"
   },
+  "kamernet:2406283": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-28T21:59:27+00:00",
+    "notified": false,
+    "price": 1435,
+    "title": "Orteliusstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/orteliusstraat/room-2406283"
+  },
   "kamernet:2406284": {
     "city": "Amsterdam",
     "first_seen": "2026-09-15T07:07:43+00:00",
@@ -6846,6 +6862,14 @@
     "price": 850,
     "title": "Mooie gemeubileerde kamer in Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/damstraat/room-2407864"
+  },
+  "kamernet:2407890": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-28T21:59:27+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Stanleylaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/stanleylaan/room-2407890"
   },
   "kamernet:2407913": {
     "city": "Utrecht",
