@@ -7215,6 +7215,14 @@
     "title": "Nachtwachtlaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nachtwachtlaan/room-2408264"
   },
+  "kamernet:2408271": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-29T19:35:23+00:00",
+    "notified": true,
+    "price": 600,
+    "title": "Furnished rooms",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ophemerthof/room-2408271"
+  },
   "kamernet:2408280": {
     "city": "Amsterdam",
     "first_seen": "2026-09-26T09:48:09+00:00",
@@ -7574,5 +7582,29 @@
     "price": 640,
     "title": "Beneluxlaan Almere Poort",
     "url": "https://kamernet.nl/en/for-rent/room-almere/beneluxlaan/room-2408939"
+  },
+  "kamernet:2408966": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-29T19:35:23+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "near city Centrum Nice room",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/medanstraat/room-2408966"
+  },
+  "kamernet:2408975": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-29T19:35:23+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2408975"
+  },
+  "kamernet:2408983": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-29T19:35:23+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Nobelweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nobelweg/room-2408983"
   }
 }
