@@ -7606,5 +7606,13 @@
     "price": 1250,
     "title": "Nobelweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nobelweg/room-2408983"
+  },
+  "kamernet:2409022": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-29T23:12:00+00:00",
+    "notified": false,
+    "price": 695,
+    "title": "Lichte kamer in dé winkelstraat van Haarlem-Noord",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/generaal-cronjestraat/room-2409022"
   }
 }
