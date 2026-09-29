@@ -15,6 +15,14 @@
     "title": "Willem Molengraaffstraat, Amsterdam",
     "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/willem-molengraaffstraat/kamer-510319"
   },
+  "directwonen:517744": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-29T14:22:51+00:00",
+    "notified": false,
+    "price": 1650,
+    "title": "Voorstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/voorstraat/studio-517744"
+  },
   "directwonen:518017": {
     "city": "Amsterdam",
     "first_seen": "2026-08-26T11:51:23+00:00",
@@ -518,6 +526,14 @@
     "price": 700,
     "title": "Beautiful furnitured attick room",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/pionstraat/room-2388331"
+  },
+  "kamernet:2388648": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-29T14:22:51+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2388648"
   },
   "kamernet:2389593": {
     "city": "Utrecht",
@@ -7231,6 +7247,14 @@
     "title": "Gulperberg, De Meern",
     "url": "https://kamernet.nl/en/for-rent/room-de-meern/gulperberg/room-2408299"
   },
+  "kamernet:2408300": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-29T14:22:51+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Tweede Kostverlorenkade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tweede-kostverlorenkade/room-2408300"
+  },
   "kamernet:2408316": {
     "city": "Amsterdam",
     "first_seen": "2026-09-26T13:55:40+00:00",
@@ -7359,6 +7383,14 @@
     "title": "Room for rent by 1th novembre 2026",
     "url": "https://kamernet.nl/en/for-rent/room-almere/hopklaverstraat/room-2408576"
   },
+  "kamernet:2408582": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-29T14:22:51+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2408582"
+  },
   "kamernet:2408583": {
     "city": "Amsterdam",
     "first_seen": "2026-09-28T16:06:10+00:00",
@@ -7486,5 +7518,61 @@
     "price": 1223,
     "title": "Oeverpad, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oeverpad/room-2408796"
+  },
+  "kamernet:2408819": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-29T14:22:51+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Fregelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2408819"
+  },
+  "kamernet:2408847": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-29T14:22:51+00:00",
+    "notified": false,
+    "price": 605,
+    "title": "Steenweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/steenweg/room-2408847"
+  },
+  "kamernet:2408877": {
+    "city": "Halfweg",
+    "first_seen": "2026-09-29T14:22:51+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Zijkanaal F Oost, Halfweg",
+    "url": "https://kamernet.nl/en/for-rent/room-halfweg/zijkanaal-f-oost/room-2408877"
+  },
+  "kamernet:2408896": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-29T14:22:51+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Fregelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2408896"
+  },
+  "kamernet:2408901": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-29T14:22:51+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "J. Kruiswijkhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/j-kruiswijkhof/room-2408901"
+  },
+  "kamernet:2408938": {
+    "city": "Almere",
+    "first_seen": "2026-09-29T14:22:51+00:00",
+    "notified": false,
+    "price": 535,
+    "title": "Huize Bennie",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/beneluxlaan/room-2408938"
+  },
+  "kamernet:2408939": {
+    "city": "Almere",
+    "first_seen": "2026-09-29T14:22:51+00:00",
+    "notified": false,
+    "price": 640,
+    "title": "Beneluxlaan Almere Poort",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/beneluxlaan/room-2408939"
   }
 }
