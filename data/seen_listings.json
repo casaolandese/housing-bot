@@ -7470,5 +7470,21 @@
     "price": 1000,
     "title": "Titus van Rijnstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/titus-van-rijnstraat/room-2408748"
+  },
+  "kamernet:2408758": {
+    "city": "Diemen",
+    "first_seen": "2026-09-29T07:42:46+00:00",
+    "notified": true,
+    "price": 680,
+    "title": "Looking for working room mate",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/tarwekamp/room-2408758"
+  },
+  "kamernet:2408796": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-29T07:42:46+00:00",
+    "notified": false,
+    "price": 1223,
+    "title": "Oeverpad, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oeverpad/room-2408796"
   }
 }
