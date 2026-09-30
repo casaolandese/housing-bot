@@ -343,6 +343,14 @@
     "title": "gedeelde kamer",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/lucasbolwerk/room-2214892"
   },
+  "kamernet:2239287": {
+    "city": "Bilthoven",
+    "first_seen": "2026-09-30T15:24:20+00:00",
+    "notified": true,
+    "price": 485,
+    "title": "Nice room with big roofterrace",
+    "url": "https://kamernet.nl/en/for-rent/room-bilthoven/planetenbaan/room-2239287"
+  },
   "kamernet:2269220": {
     "city": "Amsterdam",
     "first_seen": "2026-09-12T07:41:18+00:00",
@@ -6783,6 +6791,14 @@
     "title": "Oudwijkerveldstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/oudwijkerveldstraat/room-2407678"
   },
+  "kamernet:2407735": {
+    "city": "Hoef en Haag",
+    "first_seen": "2026-09-30T15:24:20+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Hoevesteinse Lint, Hoef en Haag",
+    "url": "https://kamernet.nl/en/for-rent/room-hoef-en-haag/hoevesteinse-lint/room-2407735"
+  },
   "kamernet:2407743": {
     "city": "Hilversum",
     "first_seen": "2026-09-23T12:10:07+00:00",
@@ -7678,5 +7694,109 @@
     "price": 830,
     "title": "rooms near trainstation",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/jan-gijzenkade/room-2409049"
+  },
+  "kamernet:2409125": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-30T15:24:20+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Willem Barentszstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/willem-barentszstraat/room-2409125"
+  },
+  "kamernet:2409146": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-30T15:24:20+00:00",
+    "notified": false,
+    "price": 350,
+    "title": "Room for Rent in Amsterdam East.",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/christiaan-de-wetstraat/room-2409146"
+  },
+  "kamernet:2409150": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-30T15:24:20+00:00",
+    "notified": false,
+    "price": 1330,
+    "title": "Omval, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/omval/room-2409150"
+  },
+  "kamernet:2409162": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-30T15:24:20+00:00",
+    "notified": false,
+    "price": 1600,
+    "title": "Scheldestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/scheldestraat/room-2409162"
+  },
+  "kamernet:2409171": {
+    "city": "Hilversum",
+    "first_seen": "2026-09-30T15:24:20+00:00",
+    "notified": false,
+    "price": 595,
+    "title": "Langestraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/langestraat/room-2409171"
+  },
+  "kamernet:2409183": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-09-30T15:24:20+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Soderblomstraat, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/soderblomstraat/room-2409183"
+  },
+  "kamernet:2409216": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-30T15:24:20+00:00",
+    "notified": true,
+    "price": 575,
+    "title": "Kleine kamer voor 1 persoon",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/louis-pasteurstraat/room-2409216"
+  },
+  "kamernet:2409217": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-30T15:24:20+00:00",
+    "notified": false,
+    "price": 795,
+    "title": "Salawatihof, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/salawatihof/room-2409217"
+  },
+  "kamernet:2409245": {
+    "city": "Nieuw-Vennep",
+    "first_seen": "2026-09-30T15:24:20+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Kraaijensteinpark, Nieuw-Vennep",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuw-vennep/kraaijensteinpark/room-2409245"
+  },
+  "kamernet:2409246": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-30T15:24:20+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Geldersekade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/geldersekade/room-2409246"
+  },
+  "kamernet:2409248": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-30T15:24:20+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Hodenpijlkade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hodenpijlkade/room-2409248"
+  },
+  "kamernet:2409250": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-30T15:24:20+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Eshowe, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eshowe/room-2409250"
+  },
+  "kamernet:2409262": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-30T15:24:20+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2409262"
   }
 }
