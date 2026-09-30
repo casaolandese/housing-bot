@@ -431,6 +431,14 @@
     "title": "Geer Ban, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/geer-ban/room-2340798"
   },
+  "kamernet:2342161": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-30T20:15:23+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Burgemeester Roellstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/burgemeester-roellstraat/room-2342161"
+  },
   "kamernet:2343126": {
     "city": "Amsterdam",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -7798,5 +7806,21 @@
     "price": 1200,
     "title": "Koningin Wilhelminaplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2409262"
+  },
+  "kamernet:2409273": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-30T20:15:23+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "near city center nice room",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/medanstraat/room-2409273"
+  },
+  "kamernet:2409277": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-30T20:15:23+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Corversbosstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/corversbosstraat/room-2409277"
   }
 }
