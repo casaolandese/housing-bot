@@ -7439,6 +7439,14 @@
     "title": "Mooie kamer in osdorp, vlakbij osdorpplein",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/overleg/room-2408660"
   },
+  "kamernet:2408666": {
+    "city": "Mijdrecht",
+    "first_seen": "2026-09-30T08:43:54+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Leeuwerik, Mijdrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-mijdrecht/leeuwerik/room-2408666"
+  },
   "kamernet:2408668": {
     "city": "Amsterdam",
     "first_seen": "2026-09-28T16:06:10+00:00",
@@ -7607,6 +7615,30 @@
     "title": "Nobelweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nobelweg/room-2408983"
   },
+  "kamernet:2408991": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-30T08:43:54+00:00",
+    "notified": true,
+    "price": 599,
+    "title": "Nice room nearbij Reigersbos metrostation",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/remmerdenplein/room-2408991"
+  },
+  "kamernet:2408996": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-30T08:43:54+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Cornelis van Rijplantsoen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-van-rijplantsoen/room-2408996"
+  },
+  "kamernet:2408998": {
+    "city": "Utrecht",
+    "first_seen": "2026-09-30T08:43:54+00:00",
+    "notified": false,
+    "price": 735,
+    "title": "Willem van Noortplein, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/willem-van-noortplein/room-2408998"
+  },
   "kamernet:2409022": {
     "city": "Haarlem",
     "first_seen": "2026-09-29T23:12:00+00:00",
@@ -7614,5 +7646,37 @@
     "price": 695,
     "title": "Lichte kamer in dé winkelstraat van Haarlem-Noord",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/generaal-cronjestraat/room-2409022"
+  },
+  "kamernet:2409028": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-30T08:43:54+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Single room for women",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/loodskotterhof/room-2409028"
+  },
+  "kamernet:2409035": {
+    "city": "Wormer",
+    "first_seen": "2026-09-30T08:43:54+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Veerdijk, Wormer",
+    "url": "https://kamernet.nl/en/for-rent/room-wormer/veerdijk/room-2409035"
+  },
+  "kamernet:2409043": {
+    "city": "Amsterdam",
+    "first_seen": "2026-09-30T08:43:54+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Room Available – for a Female ONLY Flatmate",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pantograafstraat/room-2409043"
+  },
+  "kamernet:2409049": {
+    "city": "Haarlem",
+    "first_seen": "2026-09-30T08:43:54+00:00",
+    "notified": true,
+    "price": 830,
+    "title": "rooms near trainstation",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/jan-gijzenkade/room-2409049"
   }
 }
