@@ -7455,6 +7455,14 @@
     "title": "Egelantiersstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/egelantiersstraat/room-2408636"
   },
+  "kamernet:2408639": {
+    "city": "Soest",
+    "first_seen": "2026-10-01T11:50:02+00:00",
+    "notified": false,
+    "price": 790,
+    "title": "Koninginnelaan, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/koninginnelaan/room-2408639"
+  },
   "kamernet:2408660": {
     "city": "Amsterdam",
     "first_seen": "2026-09-28T16:06:10+00:00",
@@ -7823,6 +7831,46 @@
     "title": "Corversbosstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/corversbosstraat/room-2409277"
   },
+  "kamernet:2409288": {
+    "city": "Aalsmeer",
+    "first_seen": "2026-10-01T11:50:02+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Cyclamenstraat, Aalsmeer",
+    "url": "https://kamernet.nl/en/for-rent/room-aalsmeer/cyclamenstraat/room-2409288"
+  },
+  "kamernet:2409291": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-01T11:50:02+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Room temporary 1 okt- 28 feb",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/albatrosstraat/room-2409291"
+  },
+  "kamernet:2409299": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-01T11:50:02+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Eerste Jan van der Heijdenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eerste-jan-van-der-heijdenstraat/room-2409299"
+  },
+  "kamernet:2409304": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-01T11:50:02+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Halmaheirastraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/halmaheirastraat/room-2409304"
+  },
+  "kamernet:2409337": {
+    "city": "Haarlem",
+    "first_seen": "2026-10-01T11:50:02+00:00",
+    "notified": false,
+    "price": 445,
+    "title": "Korte Hofstraat, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/korte-hofstraat/room-2409337"
+  },
   "kamernet:2409344": {
     "city": "Amsterdam",
     "first_seen": "2026-09-30T23:58:08+00:00",
@@ -7830,5 +7878,21 @@
     "price": 899,
     "title": "Neat room (LADIES ONLY)",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/handmolen/room-2409344"
+  },
+  "kamernet:2409416": {
+    "city": "Soesterberg",
+    "first_seen": "2026-10-01T11:50:02+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Postdwarsweg, Soesterberg",
+    "url": "https://kamernet.nl/en/for-rent/room-soesterberg/postdwarsweg/room-2409416"
+  },
+  "kamernet:2409419": {
+    "city": "Almere",
+    "first_seen": "2026-10-01T11:50:02+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Kimwierde, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/kimwierde/room-2409419"
   }
 }
