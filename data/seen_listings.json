@@ -7926,5 +7926,13 @@
     "price": 1300,
     "title": "Utrechtseweg, Zeist",
     "url": "https://kamernet.nl/en/for-rent/room-zeist/utrechtseweg/room-2409463"
+  },
+  "kamernet:2409533": {
+    "city": "Haarlem",
+    "first_seen": "2026-10-01T22:04:34+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Kruisweg, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/kruisweg/room-2409533"
   }
 }
