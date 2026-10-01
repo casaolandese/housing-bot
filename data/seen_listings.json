@@ -7894,5 +7894,37 @@
     "price": 1350,
     "title": "Kimwierde, Almere",
     "url": "https://kamernet.nl/en/for-rent/room-almere/kimwierde/room-2409419"
+  },
+  "kamernet:2409433": {
+    "city": "Almere",
+    "first_seen": "2026-10-01T17:48:12+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Room for rent in Almere with registration",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/staverenstraat/room-2409433"
+  },
+  "kamernet:2409443": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-01T17:48:12+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Willem Barentszstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/willem-barentszstraat/room-2409443"
+  },
+  "kamernet:2409459": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-01T17:48:12+00:00",
+    "notified": true,
+    "price": 340,
+    "title": "Student house",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-egmondkade/room-2409459"
+  },
+  "kamernet:2409463": {
+    "city": "Zeist",
+    "first_seen": "2026-10-01T17:48:12+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Utrechtseweg, Zeist",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/utrechtseweg/room-2409463"
   }
 }
