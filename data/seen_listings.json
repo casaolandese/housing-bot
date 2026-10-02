@@ -7927,6 +7927,22 @@
     "title": "Utrechtseweg, Zeist",
     "url": "https://kamernet.nl/en/for-rent/room-zeist/utrechtseweg/room-2409463"
   },
+  "kamernet:2409489": {
+    "city": "Almere",
+    "first_seen": "2026-10-02T07:34:07+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Kimwierde, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/kimwierde/room-2409489"
+  },
+  "kamernet:2409496": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-02T07:34:07+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Room for Rent in a Spacious Apartment🌟",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/esplanade-de-meer/room-2409496"
+  },
   "kamernet:2409533": {
     "city": "Haarlem",
     "first_seen": "2026-10-01T22:04:34+00:00",
@@ -7934,5 +7950,29 @@
     "price": 1000,
     "title": "Kruisweg, Haarlem",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/kruisweg/room-2409533"
+  },
+  "kamernet:2409534": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-02T07:34:07+00:00",
+    "notified": false,
+    "price": 865,
+    "title": "Jan van der Heijdenstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/jan-van-der-heijdenstraat/room-2409534"
+  },
+  "kamernet:2409541": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-02T07:34:07+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Room available!",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bijlmerdreef/room-2409541"
+  },
+  "kamernet:2409587": {
+    "city": "Diemen",
+    "first_seen": "2026-10-02T07:34:07+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Prins Bernhardlaan, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/prins-bernhardlaan/room-2409587"
   }
 }
