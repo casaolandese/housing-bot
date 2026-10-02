@@ -7967,6 +7967,14 @@
     "title": "Room available!",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bijlmerdreef/room-2409541"
   },
+  "kamernet:2409554": {
+    "city": "Weesp",
+    "first_seen": "2026-10-02T14:08:44+00:00",
+    "notified": false,
+    "price": 770,
+    "title": "Kamer te huur Weesp (Amsterdam)",
+    "url": "https://kamernet.nl/en/for-rent/room-weesp/keulsevaartstraat/room-2409554"
+  },
   "kamernet:2409587": {
     "city": "Diemen",
     "first_seen": "2026-10-02T07:34:07+00:00",
@@ -7974,5 +7982,69 @@
     "price": 950,
     "title": "Prins Bernhardlaan, Diemen",
     "url": "https://kamernet.nl/en/for-rent/room-diemen/prins-bernhardlaan/room-2409587"
+  },
+  "kamernet:2409641": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-02T14:08:44+00:00",
+    "notified": false,
+    "price": 625,
+    "title": "Dalsteindreef, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/dalsteindreef/room-2409641"
+  },
+  "kamernet:2409659": {
+    "city": "Duivendrecht",
+    "first_seen": "2026-10-02T14:08:44+00:00",
+    "notified": false,
+    "price": 890,
+    "title": "In de Houtzaagmolen, Duivendrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-duivendrecht/in-de-houtzaagmolen/room-2409659"
+  },
+  "kamernet:2409667": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-10-02T14:08:44+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Muiderbos, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/muiderbos/room-2409667"
+  },
+  "kamernet:2409688": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-02T14:08:44+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "1e Oosterstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/1e-oosterstraat/room-2409688"
+  },
+  "kamernet:2409694": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-02T14:08:44+00:00",
+    "notified": false,
+    "price": 695,
+    "title": "Achterom, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/achterom/room-2409694"
+  },
+  "kamernet:2409720": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-02T14:08:44+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Fregelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2409720"
+  },
+  "kamernet:2409724": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-02T14:08:44+00:00",
+    "notified": true,
+    "price": 863,
+    "title": "🏠 Your own place at Clauskinderenweg!",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/clauskindereweg/room-2409724"
+  },
+  "kamernet:2409731": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-02T14:08:44+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Room temporary 1 okt- 28 feb 2027 intern",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/albatrosstraat/room-2409731"
   }
 }
