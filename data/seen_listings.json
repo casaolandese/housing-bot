@@ -303,6 +303,14 @@
     "title": "Groenburgwal, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/groenburgwal/room-1945465"
   },
+  "kamernet:2047636": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-02T19:20:47+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Bos en Lommerweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bos-en-lommerweg/room-2047636"
+  },
   "kamernet:2176834": {
     "city": "Amsterdam",
     "first_seen": "2026-09-14T07:37:14+00:00",
@@ -7975,6 +7983,22 @@
     "title": "Kamer te huur Weesp (Amsterdam)",
     "url": "https://kamernet.nl/en/for-rent/room-weesp/keulsevaartstraat/room-2409554"
   },
+  "kamernet:2409557": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-02T19:20:47+00:00",
+    "notified": false,
+    "price": 955,
+    "title": "Livingstonelaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/livingstonelaan/room-2409557"
+  },
+  "kamernet:2409558": {
+    "city": "Zaandam",
+    "first_seen": "2026-10-02T19:20:47+00:00",
+    "notified": false,
+    "price": 875,
+    "title": "Tilly Luspad, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/tilly-luspad/room-2409558"
+  },
   "kamernet:2409587": {
     "city": "Diemen",
     "first_seen": "2026-10-02T07:34:07+00:00",
@@ -8046,5 +8070,37 @@
     "price": 850,
     "title": "Room temporary 1 okt- 28 feb 2027 intern",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/albatrosstraat/room-2409731"
+  },
+  "kamernet:2409740": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-02T19:20:47+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2409740"
+  },
+  "kamernet:2409748": {
+    "city": "Haarlem",
+    "first_seen": "2026-10-02T19:20:47+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Room in beautiful apartment",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/laan-van-berlijn/room-2409748"
+  },
+  "kamernet:2409757": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-02T19:20:47+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Malvastraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/malvastraat/room-2409757"
+  },
+  "kamernet:2409759": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-02T19:20:47+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Van Spilbergenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-spilbergenstraat/room-2409759"
   }
 }
