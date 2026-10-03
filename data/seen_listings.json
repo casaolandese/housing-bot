@@ -8102,5 +8102,69 @@
     "price": 1350,
     "title": "Van Spilbergenstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-spilbergenstraat/room-2409759"
+  },
+  "kamernet:2409773": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-03T08:04:34+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Pietersbergweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pietersbergweg/room-2409773"
+  },
+  "kamernet:2409787": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-03T08:04:34+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Govert Flinckstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/govert-flinckstraat/room-2409787"
+  },
+  "kamernet:2409792": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-10-03T08:04:34+00:00",
+    "notified": false,
+    "price": 410,
+    "title": "Studenten kamer",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/rijnlanderweg/room-2409792"
+  },
+  "kamernet:2409795": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-03T08:04:34+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Grubbehoeve, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/grubbehoeve/room-2409795"
+  },
+  "kamernet:2409799": {
+    "city": "Diemen",
+    "first_seen": "2026-10-03T08:04:34+00:00",
+    "notified": false,
+    "price": 1175,
+    "title": "Kruidenhof, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/kruidenhof/room-2409799"
+  },
+  "kamernet:2409829": {
+    "city": "Amstelveen",
+    "first_seen": "2026-10-03T08:04:34+00:00",
+    "notified": false,
+    "price": 8,
+    "title": "Eikenrodelaan, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/eikenrodelaan/room-2409829"
+  },
+  "kamernet:2409832": {
+    "city": "Soesterberg",
+    "first_seen": "2026-10-03T08:04:34+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Postdwarsweg, Soesterberg",
+    "url": "https://kamernet.nl/en/for-rent/room-soesterberg/postdwarsweg/room-2409832"
+  },
+  "kamernet:2409833": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-03T08:04:34+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Teldershof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/teldershof/room-2409833"
   }
 }
