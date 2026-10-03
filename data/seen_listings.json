@@ -7,6 +7,14 @@
     "title": "Lange Nieuwstraat, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/lange-nieuwstraat/studio-277668"
   },
+  "directwonen:507686": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-03T13:21:33+00:00",
+    "notified": true,
+    "price": 426,
+    "title": "Tourniairestraat, Amsterdam",
+    "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/tourniairestraat/kamer-507686"
+  },
   "directwonen:510319": {
     "city": "Amsterdam",
     "first_seen": "2026-09-07T17:50:48+00:00",
@@ -8166,5 +8174,13 @@
     "price": 1300,
     "title": "Teldershof, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/teldershof/room-2409833"
+  },
+  "kamernet:2409880": {
+    "city": "Amstelveen",
+    "first_seen": "2026-10-03T13:21:33+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Marjoleinlaan, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/marjoleinlaan/room-2409880"
   }
 }
