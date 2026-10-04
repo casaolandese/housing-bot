@@ -487,6 +487,14 @@
     "title": "Pietersbergweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pietersbergweg/room-2359834"
   },
+  "kamernet:2361622": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-04T08:51:47+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "kamer",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/trumanlaan/room-2361622"
+  },
   "kamernet:2370283": {
     "city": "Amsterdam",
     "first_seen": "2026-08-25T16:18:35+00:00",
@@ -8198,5 +8206,37 @@
     "price": 1223,
     "title": "Oeverpad, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oeverpad/room-2409895"
+  },
+  "kamernet:2409936": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-10-04T08:51:47+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Van den Berghlaan, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/van-den-berghlaan/room-2409936"
+  },
+  "kamernet:2409954": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-04T08:51:47+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Kea Boumanstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kea-boumanstraat/room-2409954"
+  },
+  "kamernet:2409956": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-04T08:51:47+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Petrarcalaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/petrarcalaan/room-2409956"
+  },
+  "kamernet:2409960": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-04T08:51:47+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Elzenhagensingel, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elzenhagensingel/room-2409960"
   }
 }
