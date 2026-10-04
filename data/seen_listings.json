@@ -8238,5 +8238,69 @@
     "price": 1300,
     "title": "Elzenhagensingel, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elzenhagensingel/room-2409960"
+  },
+  "kamernet:2409968": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-04T14:44:14+00:00",
+    "notified": false,
+    "price": 1340,
+    "title": "Balistraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/balistraat/room-2409968"
+  },
+  "kamernet:2409972": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-04T14:44:14+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Jan van Zutphenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-van-zutphenstraat/room-2409972"
+  },
+  "kamernet:2409984": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-04T14:44:14+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Oeverpad, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oeverpad/room-2409984"
+  },
+  "kamernet:2409986": {
+    "city": "Soest",
+    "first_seen": "2026-10-04T14:44:14+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "den Blieklaan, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/den-blieklaan/room-2409986"
+  },
+  "kamernet:2409988": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-04T14:44:14+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "2027",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/loenermark/room-2409988"
+  },
+  "kamernet:2409994": {
+    "city": "Amstelveen",
+    "first_seen": "2026-10-04T14:44:14+00:00",
+    "notified": false,
+    "price": 730,
+    "title": "William Boothlaan, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/william-boothlaan/room-2409994"
+  },
+  "kamernet:2410009": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-04T14:44:14+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Fregelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2410009"
+  },
+  "kamernet:2410018": {
+    "city": "Soest",
+    "first_seen": "2026-10-04T14:44:14+00:00",
+    "notified": false,
+    "price": 795,
+    "title": "Ereprijsstraat, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/ereprijsstraat/room-2410018"
   }
 }
