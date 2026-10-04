@@ -8302,5 +8302,13 @@
     "price": 795,
     "title": "Ereprijsstraat, Soest",
     "url": "https://kamernet.nl/en/for-rent/room-soest/ereprijsstraat/room-2410018"
+  },
+  "kamernet:2410020": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-04T18:25:00+00:00",
+    "notified": false,
+    "price": 1370,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2410020"
   }
 }
