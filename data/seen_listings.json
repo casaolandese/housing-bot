@@ -279,6 +279,14 @@
     "title": "Van Speijkstraat, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/van-speijkstraat/studio-521019"
   },
+  "directwonen:521262": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-05T15:04:31+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Kloveniersburgwal, Amsterdam",
+    "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/kloveniersburgwal/kamer-521262"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
