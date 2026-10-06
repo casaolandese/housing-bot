@@ -8582,5 +8582,21 @@
     "price": 1350,
     "title": "Troelstralaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/troelstralaan/room-2410429"
+  },
+  "kamernet:2410451": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-06T20:54:25+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Bernadottelaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/bernadottelaan/room-2410451"
+  },
+  "kamernet:2410453": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-06T20:54:25+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Weesperplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/weesperplein/room-2410453"
   }
 }
