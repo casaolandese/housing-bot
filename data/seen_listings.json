@@ -8526,5 +8526,61 @@
     "price": 1000,
     "title": "Charley Tooropgracht, Diemen",
     "url": "https://kamernet.nl/en/for-rent/room-diemen/charley-tooropgracht/room-2410324"
+  },
+  "kamernet:2410356": {
+    "city": "Almere",
+    "first_seen": "2026-10-06T15:56:52+00:00",
+    "notified": false,
+    "price": 895,
+    "title": "Two private rooms in Almere-Stad",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/rotterdamweg/room-2410356"
+  },
+  "kamernet:2410383": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-06T15:56:52+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Looking for a decent tenant",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/livingstonelaan/room-2410383"
+  },
+  "kamernet:2410386": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-06T15:56:52+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Zwanebloemlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/zwanebloemlaan/room-2410386"
+  },
+  "kamernet:2410400": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-06T15:56:52+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Elisabeth Boddaertstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elisabeth-boddaertstraat/room-2410400"
+  },
+  "kamernet:2410404": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-06T15:56:52+00:00",
+    "notified": true,
+    "price": 880,
+    "title": "Room for rent in Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pijnackerstraat/room-2410404"
+  },
+  "kamernet:2410426": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-06T15:56:52+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Werengouw, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/werengouw/room-2410426"
+  },
+  "kamernet:2410429": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-06T15:56:52+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Troelstralaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/troelstralaan/room-2410429"
   }
 }
