@@ -631,6 +631,14 @@
     "title": "Ereprijsstraat, Soest",
     "url": "https://kamernet.nl/en/for-rent/room-soest/ereprijsstraat/room-2394506"
   },
+  "kamernet:2394584": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-07T19:39:21+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Rijnstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/rijnstraat/room-2394584"
+  },
   "kamernet:2394711": {
     "city": "Utrecht",
     "first_seen": "2026-08-20T03:13:56+00:00",
@@ -8695,6 +8703,14 @@
     "title": "Zijlweg, Haarlem",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/zijlweg/room-2410590"
   },
+  "kamernet:2410593": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-07T19:39:21+00:00",
+    "notified": true,
+    "price": 600,
+    "title": "Gezocht nieuwe huisdeler",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erich-salomonstraat/room-2410593"
+  },
   "kamernet:2410604": {
     "city": "Utrecht",
     "first_seen": "2026-10-07T13:49:24+00:00",
@@ -8711,6 +8727,22 @@
     "title": "Aaf Bouberstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/aaf-bouberstraat/room-2410605"
   },
+  "kamernet:2410610": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-07T19:39:21+00:00",
+    "notified": true,
+    "price": 782,
+    "title": "2 grote kamers in gedeelde bovenwoning",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/vleutenseweg/room-2410610"
+  },
+  "kamernet:2410626": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-07T19:39:21+00:00",
+    "notified": false,
+    "price": 640,
+    "title": "Kantershofstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kantershofstraat/room-2410626"
+  },
   "kamernet:2410629": {
     "city": "Amsterdam",
     "first_seen": "2026-10-07T13:49:24+00:00",
@@ -8718,5 +8750,53 @@
     "price": 1200,
     "title": "Thorbeckeplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/thorbeckeplein/room-2410629"
+  },
+  "kamernet:2410662": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-07T19:39:21+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Furnished room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-eysingalaan/room-2410662"
+  },
+  "kamernet:2410664": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-07T19:39:21+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Mooie kamer in osdorp, vlakbij osdorpplein",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/overleg/room-2410664"
+  },
+  "kamernet:2410677": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-07T19:39:21+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Van Woustraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-woustraat/room-2410677"
+  },
+  "kamernet:2410687": {
+    "city": "Abcoude",
+    "first_seen": "2026-10-07T19:39:21+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Waardassackerstraat, Abcoude",
+    "url": "https://kamernet.nl/en/for-rent/room-abcoude/waardassackerstraat/room-2410687"
+  },
+  "kamernet:2410695": {
+    "city": "IJmuiden",
+    "first_seen": "2026-10-07T19:39:21+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Tussenbeeksweg, IJmuiden",
+    "url": "https://kamernet.nl/en/for-rent/room-ijmuiden/tussenbeeksweg/room-2410695"
+  },
+  "kamernet:2410721": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-07T19:39:21+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Jisperveldstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jisperveldstraat/room-2410721"
   }
 }
