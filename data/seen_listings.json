@@ -8894,5 +8894,85 @@
     "price": 685,
     "title": "Helena Kuipers-Rietberghof, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/helena-kuipers-rietberghof/room-2410818"
+  },
+  "kamernet:2410835": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-08T18:55:01+00:00",
+    "notified": true,
+    "price": 395,
+    "title": "Cozy Room immediately available in Utrecht.",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/amsterdamsestraatweg/room-2410835"
+  },
+  "kamernet:2410837": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-08T18:55:01+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Oostakkerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oostakkerstraat/room-2410837"
+  },
+  "kamernet:2410838": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-08T18:55:01+00:00",
+    "notified": true,
+    "price": 795,
+    "title": "Temporary Room / Utrecht City Centre",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/lange-jufferstraat/room-2410838"
+  },
+  "kamernet:2410840": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-08T18:55:01+00:00",
+    "notified": true,
+    "price": 625,
+    "title": "Nice room for rent, directly available",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/vondellaan/room-2410840"
+  },
+  "kamernet:2410847": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-08T18:55:01+00:00",
+    "notified": false,
+    "price": 720,
+    "title": "Euterpedreef, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/euterpedreef/room-2410847"
+  },
+  "kamernet:2410867": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-08T18:55:01+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Amstelplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/amstelplein/room-2410867"
+  },
+  "kamernet:2410884": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-08T18:55:01+00:00",
+    "notified": false,
+    "price": 1199,
+    "title": "John Coltranestraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/john-coltranestraat/room-2410884"
+  },
+  "kamernet:2410887": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-08T18:55:01+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "About the place",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oostakkerstraat/room-2410887"
+  },
+  "kamernet:2410888": {
+    "city": "Weesp",
+    "first_seen": "2026-10-08T18:55:01+00:00",
+    "notified": false,
+    "price": 740,
+    "title": "Ruime kamer te huur & Beschikbaar per  23 juli",
+    "url": "https://kamernet.nl/en/for-rent/room-weesp/keulsevaartstraat/room-2410888"
+  },
+  "kamernet:2410889": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-08T18:55:01+00:00",
+    "notified": false,
+    "price": 960,
+    "title": "Hamontstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hamontstraat/room-2410889"
   }
 }
