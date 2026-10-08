@@ -287,6 +287,14 @@
     "title": "Kloveniersburgwal, Amsterdam",
     "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/kloveniersburgwal/kamer-521262"
   },
+  "directwonen:521516": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-08T23:42:24+00:00",
+    "notified": true,
+    "price": 445,
+    "title": "Borneostraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/borneostraat/kamer-521516"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
@@ -8974,5 +8982,13 @@
     "price": 960,
     "title": "Hamontstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hamontstraat/room-2410889"
+  },
+  "kamernet:2410903": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-08T23:42:24+00:00",
+    "notified": false,
+    "price": 3300,
+    "title": "Prinses Irenelaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/prinses-irenelaan/room-2410903"
   }
 }
