@@ -447,6 +447,14 @@
     "title": "Room 13m2 in the center of Hoofddorp",
     "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/leeghwaterstraat/room-2324583"
   },
+  "kamernet:2333381": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-08T12:16:15+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Temporary Room for 3 weeks for girls only",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/onstein/room-2333381"
+  },
   "kamernet:2336550": {
     "city": "Amsterdam",
     "first_seen": "2026-09-06T13:34:32+00:00",
@@ -8007,6 +8015,14 @@
     "title": "Willem Barentszstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/willem-barentszstraat/room-2409443"
   },
+  "kamernet:2409450": {
+    "city": "Amstelveen",
+    "first_seen": "2026-10-08T12:16:15+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Kamer in Amstelveen (volledig gemeubileerd)",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/watercirkel/room-2409450"
+  },
   "kamernet:2409459": {
     "city": "Utrecht",
     "first_seen": "2026-10-01T17:48:12+00:00",
@@ -8447,6 +8463,14 @@
     "title": "Helena Kuipers-Rietberghof, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/helena-kuipers-rietberghof/room-2410105"
   },
+  "kamernet:2410112": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-08T12:16:15+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Faustdreef, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/faustdreef/room-2410112"
+  },
   "kamernet:2410136": {
     "city": "Utrecht",
     "first_seen": "2026-10-05T21:59:55+00:00",
@@ -8639,6 +8663,14 @@
     "title": "Prinsengracht, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/prinsengracht/room-2410484"
   },
+  "kamernet:2410488": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-08T12:16:15+00:00",
+    "notified": true,
+    "price": 500,
+    "title": "A room of 17 m² on Isaak Gosseshof in Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/isaak-gosseshof/room-2410488"
+  },
   "kamernet:2410504": {
     "city": "Amsterdam",
     "first_seen": "2026-10-07T13:49:24+00:00",
@@ -8791,6 +8823,14 @@
     "title": "Tussenbeeksweg, IJmuiden",
     "url": "https://kamernet.nl/en/for-rent/room-ijmuiden/tussenbeeksweg/room-2410695"
   },
+  "kamernet:2410710": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-08T12:16:15+00:00",
+    "notified": false,
+    "price": 1199,
+    "title": "Daniel Defoelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/daniel-defoelaan/room-2410710"
+  },
   "kamernet:2410721": {
     "city": "Amsterdam",
     "first_seen": "2026-10-07T19:39:21+00:00",
@@ -8798,5 +8838,61 @@
     "price": 900,
     "title": "Jisperveldstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jisperveldstraat/room-2410721"
+  },
+  "kamernet:2410729": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-08T12:16:15+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Wittgensteinlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wittgensteinlaan/room-2410729"
+  },
+  "kamernet:2410739": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-08T12:16:15+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Gomarushof, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/gomarushof/room-2410739"
+  },
+  "kamernet:2410751": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-08T12:16:15+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Loenermark, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/loenermark/room-2410751"
+  },
+  "kamernet:2410760": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-08T12:16:15+00:00",
+    "notified": true,
+    "price": 509,
+    "title": "2 Cozy Rooms Available in Amsterdam!",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/vatternkade/room-2410760"
+  },
+  "kamernet:2410789": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-08T12:16:15+00:00",
+    "notified": false,
+    "price": 1075,
+    "title": "Shackletonstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/shackletonstraat/room-2410789"
+  },
+  "kamernet:2410806": {
+    "city": "Soest",
+    "first_seen": "2026-10-08T12:16:15+00:00",
+    "notified": false,
+    "price": 860,
+    "title": "Veenbesstraat, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/veenbesstraat/room-2410806"
+  },
+  "kamernet:2410818": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-08T12:16:15+00:00",
+    "notified": false,
+    "price": 685,
+    "title": "Helena Kuipers-Rietberghof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/helena-kuipers-rietberghof/room-2410818"
   }
 }
