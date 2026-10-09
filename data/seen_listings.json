@@ -431,6 +431,14 @@
     "title": "Room for rent for young gentleman.",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/driebanstraat/room-2313427"
   },
+  "kamernet:2316050": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-10-09T10:36:45+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "DECENT ROOM  IN HOOFDDORP",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/soderblomstraat/room-2316050"
+  },
   "kamernet:2320766": {
     "city": "Amsterdam",
     "first_seen": "2026-08-25T09:21:43+00:00",
@@ -8519,6 +8527,14 @@
     "title": "Jan Evertsenstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-evertsenstraat/room-2410212"
   },
+  "kamernet:2410254": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-10-09T10:36:45+00:00",
+    "notified": false,
+    "price": 373,
+    "title": "Beverweide, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/beverweide/room-2410254"
+  },
   "kamernet:2410256": {
     "city": "Maarssen",
     "first_seen": "2026-10-05T21:59:55+00:00",
@@ -8831,6 +8847,14 @@
     "title": "Tussenbeeksweg, IJmuiden",
     "url": "https://kamernet.nl/en/for-rent/room-ijmuiden/tussenbeeksweg/room-2410695"
   },
+  "kamernet:2410702": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-09T10:36:45+00:00",
+    "notified": false,
+    "price": 1233,
+    "title": "Javastraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/javastraat/room-2410702"
+  },
   "kamernet:2410710": {
     "city": "Amsterdam",
     "first_seen": "2026-10-08T12:16:15+00:00",
@@ -8990,5 +9014,37 @@
     "price": 3300,
     "title": "Prinses Irenelaan, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/prinses-irenelaan/room-2410903"
+  },
+  "kamernet:2410929": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-09T10:36:45+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "🏡 Spacious Single Room Available in Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/auriollaan/room-2410929"
+  },
+  "kamernet:2410930": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-09T10:36:45+00:00",
+    "notified": false,
+    "price": 872,
+    "title": "Postjeskade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjeskade/room-2410930"
+  },
+  "kamernet:2410932": {
+    "city": "De Bilt",
+    "first_seen": "2026-10-09T10:36:45+00:00",
+    "notified": false,
+    "price": 511,
+    "title": "Hessenweg, De Bilt",
+    "url": "https://kamernet.nl/en/for-rent/room-de-bilt/hessenweg/room-2410932"
+  },
+  "kamernet:2410990": {
+    "city": "Almere",
+    "first_seen": "2026-10-09T10:36:45+00:00",
+    "notified": false,
+    "price": 925,
+    "title": "Smildestraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/smildestraat/room-2410990"
   }
 }
