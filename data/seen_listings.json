@@ -295,6 +295,22 @@
     "title": "Borneostraat, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/borneostraat/kamer-521516"
   },
+  "directwonen:521540": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-09T17:11:16+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Amsterdamsestraatweg, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/amsterdamsestraatweg/studio-521540"
+  },
+  "directwonen:521541": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-09T17:11:16+00:00",
+    "notified": true,
+    "price": 520,
+    "title": "St. Janshovenstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/st.-janshovenstraat/kamer-521541"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
@@ -334,6 +350,14 @@
     "price": 1000,
     "title": "Bos en Lommerweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bos-en-lommerweg/room-2047636"
+  },
+  "kamernet:2116611": {
+    "city": "Bussum",
+    "first_seen": "2026-10-09T17:11:16+00:00",
+    "notified": false,
+    "price": 485,
+    "title": "Vlietlaan, Bussum",
+    "url": "https://kamernet.nl/en/for-rent/room-bussum/vlietlaan/room-2116611"
   },
   "kamernet:2176834": {
     "city": "Amsterdam",
@@ -9046,5 +9070,45 @@
     "price": 925,
     "title": "Smildestraat, Almere",
     "url": "https://kamernet.nl/en/for-rent/room-almere/smildestraat/room-2410990"
+  },
+  "kamernet:2410993": {
+    "city": "Almere",
+    "first_seen": "2026-10-09T17:11:16+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Hendrik Marsmanstraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/hendrik-marsmanstraat/room-2410993"
+  },
+  "kamernet:2411024": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-09T17:11:16+00:00",
+    "notified": false,
+    "price": 952,
+    "title": "Mijehof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/mijehof/room-2411024"
+  },
+  "kamernet:2411038": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-09T17:11:16+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Eerste Jan van der Heijdenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eerste-jan-van-der-heijdenstraat/room-2411038"
+  },
+  "kamernet:2411040": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-09T17:11:16+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Leenhofstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leenhofstraat/room-2411040"
+  },
+  "kamernet:2411045": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-09T17:11:16+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Jekerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jekerstraat/room-2411045"
   }
 }
