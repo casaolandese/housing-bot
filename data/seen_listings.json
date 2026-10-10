@@ -9270,5 +9270,13 @@
     "price": 1300,
     "title": "Burgemeester Roellstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/burgemeester-roellstraat/room-2411179"
+  },
+  "kamernet:2411225": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-10T21:56:56+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Furnished room in big apartment",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/raoul-wallenbergstraat/room-2411225"
   }
 }
