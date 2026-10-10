@@ -9238,5 +9238,37 @@
     "price": 575,
     "title": "Langestraat, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/langestraat/room-2411129"
+  },
+  "kamernet:2411150": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-10T18:25:37+00:00",
+    "notified": false,
+    "price": 795,
+    "title": "Zuiderweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/zuiderweg/room-2411150"
+  },
+  "kamernet:2411156": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-10-10T18:25:37+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Tuinweg, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/tuinweg/room-2411156"
+  },
+  "kamernet:2411174": {
+    "city": "Zaandam",
+    "first_seen": "2026-10-10T18:25:37+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Opera, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/opera/room-2411174"
+  },
+  "kamernet:2411179": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-10T18:25:37+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Burgemeester Roellstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/burgemeester-roellstraat/room-2411179"
   }
 }
