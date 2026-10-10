@@ -543,6 +543,14 @@
     "title": "Gouden Leeuw, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gouden-leeuw/room-2346358"
   },
+  "kamernet:2352643": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-10T13:56:18+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Melis Stokehof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/melis-stokehof/room-2352643"
+  },
   "kamernet:2359834": {
     "city": "Amsterdam",
     "first_seen": "2026-09-26T09:48:09+00:00",
@@ -662,6 +670,14 @@
     "price": 1100,
     "title": "Joan Muyskenweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/joan-muyskenweg/room-2389856"
+  },
+  "kamernet:2390075": {
+    "city": "Diemen",
+    "first_seen": "2026-10-10T13:56:18+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Very near Amsterdam room with own shower+toilet!",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/buitenlust/room-2390075"
   },
   "kamernet:2391937": {
     "city": "Amstelveen",
@@ -9087,6 +9103,14 @@
     "title": "Mijehof, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/mijehof/room-2411024"
   },
+  "kamernet:2411026": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-10T13:56:18+00:00",
+    "notified": false,
+    "price": 91,
+    "title": "Mijehof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/mijehof/room-2411026"
+  },
   "kamernet:2411038": {
     "city": "Amsterdam",
     "first_seen": "2026-10-09T17:11:16+00:00",
@@ -9142,5 +9166,77 @@
     "price": 850,
     "title": "Veerdijk, Wormer",
     "url": "https://kamernet.nl/en/for-rent/room-wormer/veerdijk/room-2411083"
+  },
+  "kamernet:2411085": {
+    "city": "Wormer",
+    "first_seen": "2026-10-10T13:56:18+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Veerdijk, Wormer",
+    "url": "https://kamernet.nl/en/for-rent/room-wormer/veerdijk/room-2411085"
+  },
+  "kamernet:2411108": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-10T13:56:18+00:00",
+    "notified": false,
+    "price": 940,
+    "title": "R.J.H. Fortuynplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/rjh-fortuynplein/room-2411108"
+  },
+  "kamernet:2411112": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-10T13:56:18+00:00",
+    "notified": true,
+    "price": 650,
+    "title": "small nice room",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kempenlaan/room-2411112"
+  },
+  "kamernet:2411113": {
+    "city": "Haarlem",
+    "first_seen": "2026-10-10T13:56:18+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Light room Center Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/gedempte-voldersgracht/room-2411113"
+  },
+  "kamernet:2411114": {
+    "city": "Almere",
+    "first_seen": "2026-10-10T13:56:18+00:00",
+    "notified": false,
+    "price": 925,
+    "title": "Smildestraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/smildestraat/room-2411114"
+  },
+  "kamernet:2411115": {
+    "city": "Weesp",
+    "first_seen": "2026-10-10T13:56:18+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-weesp/heemraadweg/room-2411115"
+  },
+  "kamernet:2411118": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-10-10T13:56:18+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Soderblomstraat, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/soderblomstraat/room-2411118"
+  },
+  "kamernet:2411119": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-10T13:56:18+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Anne Kooistrahof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/anne-kooistrahof/room-2411119"
+  },
+  "kamernet:2411129": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-10T13:56:18+00:00",
+    "notified": false,
+    "price": 575,
+    "title": "Langestraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/langestraat/room-2411129"
   }
 }
