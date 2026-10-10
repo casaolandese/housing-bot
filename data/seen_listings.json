@@ -9110,5 +9110,37 @@
     "price": 950,
     "title": "Jekerstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jekerstraat/room-2411045"
+  },
+  "kamernet:2411062": {
+    "city": "Purmerend",
+    "first_seen": "2026-10-10T07:23:37+00:00",
+    "notified": false,
+    "price": 580,
+    "title": "Weverstraat, Purmerend",
+    "url": "https://kamernet.nl/en/for-rent/room-purmerend/weverstraat/room-2411062"
+  },
+  "kamernet:2411079": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-10T07:23:37+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Bijlmerdreef, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bijlmerdreef/room-2411079"
+  },
+  "kamernet:2411081": {
+    "city": "Wormer",
+    "first_seen": "2026-10-10T07:23:37+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Veerdijk, Wormer",
+    "url": "https://kamernet.nl/en/for-rent/room-wormer/veerdijk/room-2411081"
+  },
+  "kamernet:2411083": {
+    "city": "Wormer",
+    "first_seen": "2026-10-10T07:23:37+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Veerdijk, Wormer",
+    "url": "https://kamernet.nl/en/for-rent/room-wormer/veerdijk/room-2411083"
   }
 }
