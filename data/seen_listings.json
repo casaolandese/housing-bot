@@ -9271,6 +9271,46 @@
     "title": "Burgemeester Roellstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/burgemeester-roellstraat/room-2411179"
   },
+  "kamernet:2411191": {
+    "city": "Driebergen-Rijsenburg",
+    "first_seen": "2026-10-11T13:35:14+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Hoofdstraat, Driebergen-Rijsenburg",
+    "url": "https://kamernet.nl/en/for-rent/room-driebergen-rijsenburg/hoofdstraat/room-2411191"
+  },
+  "kamernet:2411195": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-11T13:35:14+00:00",
+    "notified": false,
+    "price": 658,
+    "title": "Kantershofstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kantershofstraat/room-2411195"
+  },
+  "kamernet:2411198": {
+    "city": "Almere",
+    "first_seen": "2026-10-11T13:35:14+00:00",
+    "notified": false,
+    "price": 733,
+    "title": "Borodinstraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/borodinstraat/room-2411198"
+  },
+  "kamernet:2411203": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-11T13:35:14+00:00",
+    "notified": false,
+    "price": 1233,
+    "title": "Javastraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/javastraat/room-2411203"
+  },
+  "kamernet:2411205": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-11T13:35:14+00:00",
+    "notified": false,
+    "price": 695,
+    "title": "Toutenburgstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/toutenburgstraat/room-2411205"
+  },
   "kamernet:2411225": {
     "city": "Amsterdam",
     "first_seen": "2026-10-10T21:56:56+00:00",
@@ -9278,5 +9318,77 @@
     "price": 800,
     "title": "Furnished room in big apartment",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/raoul-wallenbergstraat/room-2411225"
+  },
+  "kamernet:2411227": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-11T13:35:14+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Hofgeest, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hofgeest/room-2411227"
+  },
+  "kamernet:2411234": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-11T13:35:14+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Twee Kamers Vrij in Geuzenveld",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leenhofstraat/room-2411234"
+  },
+  "kamernet:2411235": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-11T13:35:14+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Nachtwachtlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nachtwachtlaan/room-2411235"
+  },
+  "kamernet:2411269": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-11T13:35:14+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Eerste Helmersstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eerste-helmersstraat/room-2411269"
+  },
+  "kamernet:2411271": {
+    "city": "Diemen",
+    "first_seen": "2026-10-11T13:35:14+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Fully Furnished Student Room in Diemen-Zuid",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/roggekamp/room-2411271"
+  },
+  "kamernet:2411285": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-11T13:35:14+00:00",
+    "notified": false,
+    "price": 450,
+    "title": "Nice room in a convenient location",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/torreslaan/room-2411285"
+  },
+  "kamernet:2411287": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-11T13:35:14+00:00",
+    "notified": true,
+    "price": 465,
+    "title": "Studentenhouse, 1 rooms available",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/celebesstraat/room-2411287"
+  },
+  "kamernet:2411288": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-11T13:35:14+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Leenhofstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leenhofstraat/room-2411288"
+  },
+  "kamernet:2411293": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-11T13:35:14+00:00",
+    "notified": false,
+    "price": 525,
+    "title": "Nice room in a convenient location",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/torreslaan/room-2411293"
   }
 }
