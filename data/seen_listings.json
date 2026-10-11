@@ -543,6 +543,14 @@
     "title": "Gouden Leeuw, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gouden-leeuw/room-2346358"
   },
+  "kamernet:2347529": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-11T18:27:43+00:00",
+    "notified": true,
+    "price": 599,
+    "title": "Nice room nearbij Reigersbos metrostation",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/remmerdenplein/room-2347529"
+  },
   "kamernet:2352643": {
     "city": "Amsterdam",
     "first_seen": "2026-10-10T13:56:18+00:00",
@@ -9390,5 +9398,13 @@
     "price": 525,
     "title": "Nice room in a convenient location",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/torreslaan/room-2411293"
+  },
+  "kamernet:2411308": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-11T18:27:43+00:00",
+    "notified": false,
+    "price": 590,
+    "title": "Room for a girl",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/marconistraat/room-2411308"
   }
 }
