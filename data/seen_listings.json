@@ -9023,6 +9023,14 @@
     "title": "Amstelplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/amstelplein/room-2410867"
   },
+  "kamernet:2410872": {
+    "city": "De Meern",
+    "first_seen": "2026-10-12T17:52:00+00:00",
+    "notified": true,
+    "price": 785,
+    "title": "Nice room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-de-meern/gulperberg/room-2410872"
+  },
   "kamernet:2410884": {
     "city": "Utrecht",
     "first_seen": "2026-10-08T18:55:01+00:00",
@@ -9406,5 +9414,117 @@
     "price": 590,
     "title": "Room for a girl",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/marconistraat/room-2411308"
+  },
+  "kamernet:2411321": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-12T17:52:00+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Ruysdaelstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ruysdaelstraat/room-2411321"
+  },
+  "kamernet:2411328": {
+    "city": "Almere",
+    "first_seen": "2026-10-12T17:52:00+00:00",
+    "notified": false,
+    "price": 875,
+    "title": "Rolling Stonesstraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/rolling-stonesstraat/room-2411328"
+  },
+  "kamernet:2411334": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-12T17:52:00+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2411334"
+  },
+  "kamernet:2411368": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-12T17:52:00+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Loodskotterhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/loodskotterhof/room-2411368"
+  },
+  "kamernet:2411407": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-12T17:52:00+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Luminous room in West/ladies only",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/burgemeester-roellstraat/room-2411407"
+  },
+  "kamernet:2411419": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-12T17:52:00+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Paardenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/paardenstraat/room-2411419"
+  },
+  "kamernet:2411427": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-12T17:52:00+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Eerste Jan van der Heijdenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eerste-jan-van-der-heijdenstraat/room-2411427"
+  },
+  "kamernet:2411440": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-12T17:52:00+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Fleerde, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fleerde/room-2411440"
+  },
+  "kamernet:2411467": {
+    "city": "Almere",
+    "first_seen": "2026-10-12T17:52:00+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Room in Almere  with registration",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/kimwierde/room-2411467"
+  },
+  "kamernet:2411471": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-12T17:52:00+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Fregelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2411471"
+  },
+  "kamernet:2411490": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-12T17:52:00+00:00",
+    "notified": false,
+    "price": 795,
+    "title": "Hilvertsweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/hilvertsweg/room-2411490"
+  },
+  "kamernet:2411511": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-12T17:52:00+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Srefidensiplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/srefidensiplein/room-2411511"
+  },
+  "kamernet:2411550": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-12T17:52:00+00:00",
+    "notified": false,
+    "price": 865,
+    "title": "Jan van der Heijdenstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/jan-van-der-heijdenstraat/room-2411550"
+  },
+  "kamernet:2411562": {
+    "city": "Haarlem",
+    "first_seen": "2026-10-12T17:52:00+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Gedempte Voldersgracht, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/gedempte-voldersgracht/room-2411562"
   }
 }
