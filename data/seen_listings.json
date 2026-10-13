@@ -9151,6 +9151,14 @@
     "title": "Jekerstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jekerstraat/room-2411045"
   },
+  "kamernet:2411049": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-13T15:01:22+00:00",
+    "notified": false,
+    "price": 745,
+    "title": "St.-Ludgerusstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/st-ludgerusstraat/room-2411049"
+  },
   "kamernet:2411062": {
     "city": "Purmerend",
     "first_seen": "2026-10-10T07:23:37+00:00",
@@ -9542,5 +9550,93 @@
     "price": 850,
     "title": "Veembroederhof, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/veembroederhof/room-2411585"
+  },
+  "kamernet:2411589": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-13T15:01:22+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Marco Pololaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/marco-pololaan/room-2411589"
+  },
+  "kamernet:2411613": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-13T15:01:22+00:00",
+    "notified": false,
+    "price": 575,
+    "title": "furnished room",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/hannolaan/room-2411613"
+  },
+  "kamernet:2411650": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-13T15:01:22+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Coffijboomstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/coffijboomstraat/room-2411650"
+  },
+  "kamernet:2411676": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-13T15:01:22+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Leenhofstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leenhofstraat/room-2411676"
+  },
+  "kamernet:2411680": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-10-13T15:01:22+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Orvelterdek, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/orvelterdek/room-2411680"
+  },
+  "kamernet:2411684": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-10-13T15:01:22+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Nice modern room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/herteweide/room-2411684"
+  },
+  "kamernet:2411700": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-13T15:01:22+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Salzburg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/salzburg/room-2411700"
+  },
+  "kamernet:2411713": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-13T15:01:22+00:00",
+    "notified": false,
+    "price": 1950,
+    "title": "Spuistraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2411713"
+  },
+  "kamernet:2411719": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-13T15:01:22+00:00",
+    "notified": false,
+    "price": 2300,
+    "title": "Kelbergen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kelbergen/room-2411719"
+  },
+  "kamernet:2411731": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-13T15:01:22+00:00",
+    "notified": false,
+    "price": 1,
+    "title": "Wijttenbachstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wijttenbachstraat/room-2411731"
+  },
+  "kamernet:2411737": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-13T15:01:22+00:00",
+    "notified": false,
+    "price": 1295,
+    "title": "Jennerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jennerstraat/room-2411737"
   }
 }
