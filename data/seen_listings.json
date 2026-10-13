@@ -9527,6 +9527,14 @@
     "title": "Gedempte Voldersgracht, Haarlem",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/gedempte-voldersgracht/room-2411562"
   },
+  "kamernet:2411577": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-13T07:02:59+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Grubbehoeve, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/grubbehoeve/room-2411577"
+  },
   "kamernet:2411585": {
     "city": "Amsterdam",
     "first_seen": "2026-10-13T00:29:29+00:00",
