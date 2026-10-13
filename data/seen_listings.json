@@ -9638,5 +9638,53 @@
     "price": 1295,
     "title": "Jennerstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jennerstraat/room-2411737"
+  },
+  "kamernet:2411749": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-13T20:39:40+00:00",
+    "notified": false,
+    "price": 815,
+    "title": "Geleenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/geleenstraat/room-2411749"
+  },
+  "kamernet:2411753": {
+    "city": "Almere",
+    "first_seen": "2026-10-13T20:39:40+00:00",
+    "notified": false,
+    "price": 535,
+    "title": "Huize Bennie",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/beneluxlaan/room-2411753"
+  },
+  "kamernet:2411754": {
+    "city": "Almere",
+    "first_seen": "2026-10-13T20:39:40+00:00",
+    "notified": false,
+    "price": 640,
+    "title": "Huize Bennie",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/beneluxlaan/room-2411754"
+  },
+  "kamernet:2411755": {
+    "city": "Naarden",
+    "first_seen": "2026-10-13T20:39:40+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Kolonel Palmstraat, Naarden",
+    "url": "https://kamernet.nl/en/for-rent/room-naarden/kolonel-palmstraat/room-2411755"
+  },
+  "kamernet:2411757": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-13T20:39:40+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Jan Evertsenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-evertsenstraat/room-2411757"
+  },
+  "kamernet:2411758": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-13T20:39:40+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/boeninlaan/room-2411758"
   }
 }
