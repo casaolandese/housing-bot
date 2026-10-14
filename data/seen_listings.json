@@ -9503,6 +9503,14 @@
     "title": "Fregelaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2411471"
   },
+  "kamernet:2411483": {
+    "city": "Leimuiden",
+    "first_seen": "2026-10-14T09:47:48+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Oosterweg, Leimuiden",
+    "url": "https://kamernet.nl/en/for-rent/room-leimuiden/oosterweg/room-2411483"
+  },
   "kamernet:2411490": {
     "city": "Hilversum",
     "first_seen": "2026-10-12T17:52:00+00:00",
@@ -9566,6 +9574,14 @@
     "price": 575,
     "title": "furnished room",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/hannolaan/room-2411613"
+  },
+  "kamernet:2411626": {
+    "city": "Almere",
+    "first_seen": "2026-10-14T09:47:48+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Trojestraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/trojestraat/room-2411626"
   },
   "kamernet:2411650": {
     "city": "Amsterdam",
@@ -9686,5 +9702,85 @@
     "price": 800,
     "title": "Room for rent",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/boeninlaan/room-2411758"
+  },
+  "kamernet:2411764": {
+    "city": "Haarlem",
+    "first_seen": "2026-10-14T09:47:48+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Verspronckweg, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/verspronckweg/room-2411764"
+  },
+  "kamernet:2411769": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-14T09:47:48+00:00",
+    "notified": false,
+    "price": 1058,
+    "title": "Kruitberghof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kruitberghof/room-2411769"
+  },
+  "kamernet:2411772": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-14T09:47:48+00:00",
+    "notified": true,
+    "price": 600,
+    "title": "Room for working immigranten",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/hopakker/room-2411772"
+  },
+  "kamernet:2411815": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-10-14T09:47:48+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Grote Belt, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/grote-belt/room-2411815"
+  },
+  "kamernet:2411817": {
+    "city": "Soest",
+    "first_seen": "2026-10-14T09:47:48+00:00",
+    "notified": false,
+    "price": 895,
+    "title": "Ereprijsstraat, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/ereprijsstraat/room-2411817"
+  },
+  "kamernet:2411825": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-14T09:47:48+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Vaartscherijnstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/vaartscherijnstraat/room-2411825"
+  },
+  "kamernet:2411829": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-14T09:47:48+00:00",
+    "notified": false,
+    "price": 1075,
+    "title": "Haarlemmerweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/haarlemmerweg/room-2411829"
+  },
+  "kamernet:2411842": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-14T09:47:48+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Emfuleni, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/emfuleni/room-2411842"
+  },
+  "kamernet:2411851": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-14T09:47:48+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Voordek, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/voordek/room-2411851"
+  },
+  "kamernet:2411858": {
+    "city": "Diemen",
+    "first_seen": "2026-10-14T09:47:48+00:00",
+    "notified": false,
+    "price": 835,
+    "title": "Solferinostraat, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/solferinostraat/room-2411858"
   }
 }
