@@ -9567,6 +9567,14 @@
     "title": "Marco Pololaan, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/marco-pololaan/room-2411589"
   },
+  "kamernet:2411590": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-14T14:44:15+00:00",
+    "notified": false,
+    "price": 970,
+    "title": "Nieuwe Herengracht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwe-herengracht/room-2411590"
+  },
   "kamernet:2411613": {
     "city": "Utrecht",
     "first_seen": "2026-10-13T15:01:22+00:00",
@@ -9574,6 +9582,14 @@
     "price": 575,
     "title": "furnished room",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/hannolaan/room-2411613"
+  },
+  "kamernet:2411614": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-14T14:44:15+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Termini, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/termini/room-2411614"
   },
   "kamernet:2411626": {
     "city": "Almere",
@@ -9782,5 +9798,77 @@
     "price": 835,
     "title": "Solferinostraat, Diemen",
     "url": "https://kamernet.nl/en/for-rent/room-diemen/solferinostraat/room-2411858"
+  },
+  "kamernet:2411866": {
+    "city": "Nieuw-Vennep",
+    "first_seen": "2026-10-14T14:44:15+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Kraaijensteinpark, Nieuw-Vennep",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuw-vennep/kraaijensteinpark/room-2411866"
+  },
+  "kamernet:2411875": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-14T14:44:15+00:00",
+    "notified": false,
+    "price": 2300,
+    "title": "Kelbergen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kelbergen/room-2411875"
+  },
+  "kamernet:2411881": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-14T14:44:15+00:00",
+    "notified": false,
+    "price": 925,
+    "title": "Simon Stevinstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/simon-stevinstraat/room-2411881"
+  },
+  "kamernet:2411890": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-14T14:44:15+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2411890"
+  },
+  "kamernet:2411894": {
+    "city": "Duivendrecht",
+    "first_seen": "2026-10-14T14:44:15+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "In de Papiermolen, Duivendrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-duivendrecht/in-de-papiermolen/room-2411894"
+  },
+  "kamernet:2411902": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-14T14:44:15+00:00",
+    "notified": true,
+    "price": 795,
+    "title": "Temporary Room / Utrecht City Centre",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/lange-jufferstraat/room-2411902"
+  },
+  "kamernet:2411904": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-14T14:44:15+00:00",
+    "notified": true,
+    "price": 395,
+    "title": "Cozy Room immediately available in Utrecht.",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/amsterdamsestraatweg/room-2411904"
+  },
+  "kamernet:2411905": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-14T14:44:15+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Fregelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2411905"
+  },
+  "kamernet:2411934": {
+    "city": "IJsselstein",
+    "first_seen": "2026-10-14T14:44:15+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Achtersloot, IJsselstein",
+    "url": "https://kamernet.nl/en/for-rent/room-ijsselstein/achtersloot/room-2411934"
   }
 }
