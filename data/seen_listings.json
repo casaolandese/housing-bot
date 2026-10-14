@@ -9823,6 +9823,14 @@
     "title": "Simon Stevinstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/simon-stevinstraat/room-2411881"
   },
+  "kamernet:2411889": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-14T18:59:12+00:00",
+    "notified": false,
+    "price": 955,
+    "title": "Granidastraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/granidastraat/room-2411889"
+  },
   "kamernet:2411890": {
     "city": "Amsterdam",
     "first_seen": "2026-10-14T14:44:15+00:00",
@@ -9870,5 +9878,29 @@
     "price": 750,
     "title": "Achtersloot, IJsselstein",
     "url": "https://kamernet.nl/en/for-rent/room-ijsselstein/achtersloot/room-2411934"
+  },
+  "kamernet:2411948": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-14T18:59:12+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "President Allendelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/president-allendelaan/room-2411948"
+  },
+  "kamernet:2411958": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-14T18:59:12+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Korfoedreef, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/korfoedreef/room-2411958"
+  },
+  "kamernet:2411974": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-14T18:59:12+00:00",
+    "notified": false,
+    "price": 824,
+    "title": "Boomberglaan, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/boomberglaan/room-2411974"
   }
 }
