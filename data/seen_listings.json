@@ -9902,5 +9902,61 @@
     "price": 824,
     "title": "Boomberglaan, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/boomberglaan/room-2411974"
+  },
+  "kamernet:2411979": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-15T10:05:20+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Albert Camuslaan",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/albert-camuslaan/room-2411979"
+  },
+  "kamernet:2412002": {
+    "city": "Zeist",
+    "first_seen": "2026-10-15T10:05:20+00:00",
+    "notified": false,
+    "price": 895,
+    "title": "Eikenlaan, Zeist",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/eikenlaan/room-2412002"
+  },
+  "kamernet:2412005": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-15T10:05:20+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Mariastraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/mariastraat/room-2412005"
+  },
+  "kamernet:2412016": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-15T10:05:20+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Lutonhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/lutonhof/room-2412016"
+  },
+  "kamernet:2412019": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-15T10:05:20+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Lovely  Room in a Cozy Home- Female Flatmate ONLY",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pantograafstraat/room-2412019"
+  },
+  "kamernet:2412032": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-15T10:05:20+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Raamstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/raamstraat/room-2412032"
+  },
+  "kamernet:2412033": {
+    "city": "Doorn",
+    "first_seen": "2026-10-15T10:05:20+00:00",
+    "notified": false,
+    "price": 899,
+    "title": "Oude Rijksstraatweg, Doorn",
+    "url": "https://kamernet.nl/en/for-rent/room-doorn/oude-rijksstraatweg/room-2412033"
   }
 }
