@@ -311,6 +311,14 @@
     "title": "St. Janshovenstraat, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/st.-janshovenstraat/kamer-521541"
   },
+  "directwonen:521828": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-15T14:59:26+00:00",
+    "notified": true,
+    "price": 836,
+    "title": "Oudegracht, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/oudegracht/studio-521828"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
@@ -9958,5 +9966,53 @@
     "price": 899,
     "title": "Oude Rijksstraatweg, Doorn",
     "url": "https://kamernet.nl/en/for-rent/room-doorn/oude-rijksstraatweg/room-2412033"
+  },
+  "kamernet:2412092": {
+    "city": "Zaandam",
+    "first_seen": "2026-10-15T14:59:26+00:00",
+    "notified": true,
+    "price": 600,
+    "title": "Rustige plek met eigen entree",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/ooievaarstraat/room-2412092"
+  },
+  "kamernet:2412093": {
+    "city": "Soest",
+    "first_seen": "2026-10-15T14:59:26+00:00",
+    "notified": false,
+    "price": 500,
+    "title": "Speenkruidstraat, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/speenkruidstraat/room-2412093"
+  },
+  "kamernet:2412101": {
+    "city": "Bussum",
+    "first_seen": "2026-10-15T14:59:26+00:00",
+    "notified": false,
+    "price": 625,
+    "title": "Vlietlaan, Bussum",
+    "url": "https://kamernet.nl/en/for-rent/room-bussum/vlietlaan/room-2412101"
+  },
+  "kamernet:2412121": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-15T14:59:26+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Amsteldijk, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/amsteldijk/room-2412121"
+  },
+  "kamernet:2412127": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-15T14:59:26+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Fleerde, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fleerde/room-2412127"
+  },
+  "kamernet:2412135": {
+    "city": "Haarlem",
+    "first_seen": "2026-10-15T14:59:26+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Gedempte Voldersgracht, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/gedempte-voldersgracht/room-2412135"
   }
 }
