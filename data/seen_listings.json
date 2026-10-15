@@ -9991,6 +9991,14 @@
     "title": "Vlietlaan, Bussum",
     "url": "https://kamernet.nl/en/for-rent/room-bussum/vlietlaan/room-2412101"
   },
+  "kamernet:2412103": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-15T19:03:47+00:00",
+    "notified": false,
+    "price": 80,
+    "title": "Croesestraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/croesestraat/room-2412103"
+  },
   "kamernet:2412121": {
     "city": "Amsterdam",
     "first_seen": "2026-10-15T14:59:26+00:00",
@@ -10014,5 +10022,37 @@
     "price": 900,
     "title": "Gedempte Voldersgracht, Haarlem",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/gedempte-voldersgracht/room-2412135"
+  },
+  "kamernet:2412143": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-15T19:03:47+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Borgerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/borgerstraat/room-2412143"
+  },
+  "kamernet:2412144": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-10-15T19:03:47+00:00",
+    "notified": false,
+    "price": 580,
+    "title": "Graaf Hermanlaan, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/graaf-hermanlaan/room-2412144"
+  },
+  "kamernet:2412149": {
+    "city": "Wormer",
+    "first_seen": "2026-10-15T19:03:47+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Veerdijk, Wormer",
+    "url": "https://kamernet.nl/en/for-rent/room-wormer/veerdijk/room-2412149"
+  },
+  "kamernet:2412155": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-15T19:03:47+00:00",
+    "notified": false,
+    "price": 2000,
+    "title": "Bellamyplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bellamyplein/room-2412155"
   }
 }
