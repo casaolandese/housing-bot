@@ -10270,5 +10270,13 @@
     "price": 1000,
     "title": "Johannes Meewisstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/johannes-meewisstraat/room-2412346"
+  },
+  "kamernet:2412382": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-16T23:48:07+00:00",
+    "notified": false,
+    "price": 845,
+    "title": "Ibizastraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ibizastraat/room-2412382"
   }
 }
