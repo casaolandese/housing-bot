@@ -319,6 +319,38 @@
     "title": "Oudegracht, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/oudegracht/studio-521828"
   },
+  "directwonen:521874": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-16T18:12:14+00:00",
+    "notified": true,
+    "price": 540,
+    "title": "Pagelaan, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/pagelaan/kamer-521874"
+  },
+  "directwonen:521888": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-16T18:12:14+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Galvanistraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/galvanistraat/studio-521888"
+  },
+  "directwonen:521890": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-16T18:12:14+00:00",
+    "notified": false,
+    "price": 905,
+    "title": "Lessinglaan, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/lessinglaan/studio-521890"
+  },
+  "directwonen:521892": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-16T18:12:14+00:00",
+    "notified": false,
+    "price": 953,
+    "title": "Van Speijkstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/van-speijkstraat/studio-521892"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
@@ -10214,5 +10246,29 @@
     "price": 1500,
     "title": "Mariastraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/mariastraat/room-2412308"
+  },
+  "kamernet:2412334": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-16T18:12:14+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Geer Ban, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/geer-ban/room-2412334"
+  },
+  "kamernet:2412342": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-16T18:12:14+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Weesperplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/weesperplein/room-2412342"
+  },
+  "kamernet:2412346": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-16T18:12:14+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Johannes Meewisstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/johannes-meewisstraat/room-2412346"
   }
 }
