@@ -415,6 +415,14 @@
     "title": "Luxury room for rent in Amsterdam New West",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ruys-de-beerenbrouckstraat/room-2176834"
   },
+  "kamernet:2179753": {
+    "city": "Aalsmeerderbrug",
+    "first_seen": "2026-10-17T17:19:36+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Molenweg, Aalsmeerderbrug",
+    "url": "https://kamernet.nl/en/for-rent/room-aalsmeerderbrug/molenweg/room-2179753"
+  },
   "kamernet:2183417": {
     "city": "Amsterdam",
     "first_seen": "2026-09-19T11:35:40+00:00",
@@ -846,6 +854,14 @@
     "price": 625,
     "title": "Te huur: Ruime studentenkamer in centrum Zeist",
     "url": "https://kamernet.nl/en/for-rent/room-zeist/jagerlaan/room-2396377"
+  },
+  "kamernet:2396401": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-17T17:19:36+00:00",
+    "notified": false,
+    "price": 1450,
+    "title": "Admiraal De Ruijterweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/admiraal-de-ruijterweg/room-2396401"
   },
   "kamernet:2396403": {
     "city": "Zeist",
@@ -9943,6 +9959,14 @@
     "title": "Fregelaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fregelaan/room-2411905"
   },
+  "kamernet:2411927": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-17T17:19:36+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Amstelkade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/amstelkade/room-2411927"
+  },
   "kamernet:2411934": {
     "city": "IJsselstein",
     "first_seen": "2026-10-14T14:44:15+00:00",
@@ -10390,5 +10414,13 @@
     "price": 900,
     "title": "Mauvestraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/mauvestraat/room-2412446"
+  },
+  "kamernet:2412459": {
+    "city": "Almere",
+    "first_seen": "2026-10-17T17:19:36+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Trojestraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/trojestraat/room-2412459"
   }
 }
