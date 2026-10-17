@@ -383,6 +383,14 @@
     "title": "Groenburgwal, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/groenburgwal/room-1945465"
   },
+  "kamernet:2027645": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-17T11:07:04+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "near city centerom 18m²",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/medanstraat/room-2027645"
+  },
   "kamernet:2047636": {
     "city": "Amsterdam",
     "first_seen": "2026-10-02T19:20:47+00:00",
@@ -534,6 +542,14 @@
     "price": 600,
     "title": "Temporary Room for 3 weeks for girls only",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/onstein/room-2333381"
+  },
+  "kamernet:2334682": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-17T11:07:04+00:00",
+    "notified": true,
+    "price": 799,
+    "title": "gedeelde kamer",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/lucasbolwerk/room-2334682"
   },
   "kamernet:2336550": {
     "city": "Amsterdam",
@@ -9791,6 +9807,14 @@
     "title": "Room for working immigranten",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/hopakker/room-2411772"
   },
+  "kamernet:2411807": {
+    "city": "Zeist",
+    "first_seen": "2026-10-17T11:07:04+00:00",
+    "notified": false,
+    "price": 725,
+    "title": "room for students",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/comeniuslaan/room-2411807"
+  },
   "kamernet:2411815": {
     "city": "Hoofddorp",
     "first_seen": "2026-10-14T09:47:48+00:00",
@@ -10263,6 +10287,14 @@
     "title": "Weesperplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/weesperplein/room-2412342"
   },
+  "kamernet:2412343": {
+    "city": "Zaandam",
+    "first_seen": "2026-10-17T11:07:04+00:00",
+    "notified": false,
+    "price": 875,
+    "title": "Tilly Luspad, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/tilly-luspad/room-2412343"
+  },
   "kamernet:2412346": {
     "city": "Amsterdam",
     "first_seen": "2026-10-16T18:12:14+00:00",
@@ -10271,6 +10303,22 @@
     "title": "Johannes Meewisstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/johannes-meewisstraat/room-2412346"
   },
+  "kamernet:2412377": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-17T11:07:04+00:00",
+    "notified": false,
+    "price": 725,
+    "title": "Adelaarstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/adelaarstraat/room-2412377"
+  },
+  "kamernet:2412379": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-17T11:07:04+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Bart Poesiatstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bart-poesiatstraat/room-2412379"
+  },
   "kamernet:2412382": {
     "city": "Amsterdam",
     "first_seen": "2026-10-16T23:48:07+00:00",
@@ -10278,5 +10326,37 @@
     "price": 845,
     "title": "Ibizastraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ibizastraat/room-2412382"
+  },
+  "kamernet:2412392": {
+    "city": "Amstelveen",
+    "first_seen": "2026-10-17T11:07:04+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Eleanor Rooseveltlaan, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/eleanor-rooseveltlaan/room-2412392"
+  },
+  "kamernet:2412403": {
+    "city": "Almere",
+    "first_seen": "2026-10-17T11:07:04+00:00",
+    "notified": false,
+    "price": 885,
+    "title": "Smildestraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/smildestraat/room-2412403"
+  },
+  "kamernet:2412409": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-17T11:07:04+00:00",
+    "notified": false,
+    "price": 595,
+    "title": "Langestraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/langestraat/room-2412409"
+  },
+  "kamernet:2412420": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-17T11:07:04+00:00",
+    "notified": false,
+    "price": 795,
+    "title": "Hilvertsweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/hilvertsweg/room-2412420"
   }
 }
