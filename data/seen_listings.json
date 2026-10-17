@@ -10335,6 +10335,14 @@
     "title": "Eleanor Rooseveltlaan, Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/eleanor-rooseveltlaan/room-2412392"
   },
+  "kamernet:2412394": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-17T14:12:25+00:00",
+    "notified": false,
+    "price": 150,
+    "title": "Azielaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/azielaan/room-2412394"
+  },
   "kamernet:2412403": {
     "city": "Almere",
     "first_seen": "2026-10-17T11:07:04+00:00",
@@ -10358,5 +10366,29 @@
     "price": 795,
     "title": "Hilvertsweg, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/hilvertsweg/room-2412420"
+  },
+  "kamernet:2412425": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-17T14:12:25+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Rozenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/rozenstraat/room-2412425"
+  },
+  "kamernet:2412427": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-10-17T14:12:25+00:00",
+    "notified": false,
+    "price": 435,
+    "title": "Bedumerschans, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/bedumerschans/room-2412427"
+  },
+  "kamernet:2412446": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-17T14:12:25+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Mauvestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/mauvestraat/room-2412446"
   }
 }
