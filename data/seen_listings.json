@@ -10510,5 +10510,21 @@
     "price": 900,
     "title": "Temporary room available!",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ophemerthof/room-2412551"
+  },
+  "kamernet:2412558": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-18T14:54:04+00:00",
+    "notified": false,
+    "price": 990,
+    "title": "Groeneweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/groeneweg/room-2412558"
+  },
+  "kamernet:2412596": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-10-18T14:54:04+00:00",
+    "notified": false,
+    "price": 758,
+    "title": "Kerkveld, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/kerkveld/room-2412596"
   }
 }
