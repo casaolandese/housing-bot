@@ -10534,5 +10534,13 @@
     "price": 758,
     "title": "Kerkveld, Nieuwegein",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/kerkveld/room-2412596"
+  },
+  "kamernet:2412662": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-18T20:32:58+00:00",
+    "notified": false,
+    "price": 1675,
+    "title": "Kerkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kerkstraat/room-2412662"
   }
 }
