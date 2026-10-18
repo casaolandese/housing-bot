@@ -391,6 +391,14 @@
     "title": "near city centerom 18m²",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/medanstraat/room-2027645"
   },
+  "kamernet:2046437": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-18T11:43:11+00:00",
+    "notified": true,
+    "price": 620,
+    "title": "Kamer in super leuk huis in rivierenwijk",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/westravenstraat/room-2046437"
+  },
   "kamernet:2047636": {
     "city": "Amsterdam",
     "first_seen": "2026-10-02T19:20:47+00:00",
@@ -3270,6 +3278,14 @@
     "price": 1600,
     "title": "Derde Oosterparkstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/derde-oosterparkstraat/room-2402784"
+  },
+  "kamernet:2402786": {
+    "city": "Diemen",
+    "first_seen": "2026-10-18T11:43:11+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Martin Luther Kinglaan, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/martin-luther-kinglaan/room-2402786"
   },
   "kamernet:2402789": {
     "city": "Diemen",
@@ -9823,6 +9839,14 @@
     "title": "Room for working immigranten",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/hopakker/room-2411772"
   },
+  "kamernet:2411792": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-18T11:43:11+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Michelangelostraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/michelangelostraat/room-2411792"
+  },
   "kamernet:2411807": {
     "city": "Zeist",
     "first_seen": "2026-10-17T11:07:04+00:00",
@@ -10422,5 +10446,69 @@
     "price": 700,
     "title": "Trojestraat, Almere",
     "url": "https://kamernet.nl/en/for-rent/room-almere/trojestraat/room-2412459"
+  },
+  "kamernet:2412480": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-18T11:43:11+00:00",
+    "notified": false,
+    "price": 1095,
+    "title": "Wolbrantskerkweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wolbrantskerkweg/room-2412480"
+  },
+  "kamernet:2412495": {
+    "city": "Purmerend",
+    "first_seen": "2026-10-18T11:43:11+00:00",
+    "notified": false,
+    "price": 580,
+    "title": "Weverstraat, Purmerend",
+    "url": "https://kamernet.nl/en/for-rent/room-purmerend/weverstraat/room-2412495"
+  },
+  "kamernet:2412510": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-18T11:43:11+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Gaandeweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gaandeweg/room-2412510"
+  },
+  "kamernet:2412516": {
+    "city": "Wormer",
+    "first_seen": "2026-10-18T11:43:11+00:00",
+    "notified": false,
+    "price": 795,
+    "title": "Fuutstraat, Wormer",
+    "url": "https://kamernet.nl/en/for-rent/room-wormer/fuutstraat/room-2412516"
+  },
+  "kamernet:2412517": {
+    "city": "Amstelveen",
+    "first_seen": "2026-10-18T11:43:11+00:00",
+    "notified": false,
+    "price": 995,
+    "title": "Korianderlaan, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/korianderlaan/room-2412517"
+  },
+  "kamernet:2412527": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-18T11:43:11+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Ben van Meerendonkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2412527"
+  },
+  "kamernet:2412541": {
+    "city": "Wormer",
+    "first_seen": "2026-10-18T11:43:11+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Veerdijk, Wormer",
+    "url": "https://kamernet.nl/en/for-rent/room-wormer/veerdijk/room-2412541"
+  },
+  "kamernet:2412551": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-18T11:43:11+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Temporary room available!",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ophemerthof/room-2412551"
   }
 }
