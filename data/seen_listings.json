@@ -7583,6 +7583,14 @@
     "title": "Room for rent",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/nicolaas-ruychaverstraat/room-2408393"
   },
+  "kamernet:2408403": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-19T05:19:33+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Ja",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/mesdagstraat/room-2408403"
+  },
   "kamernet:2408436": {
     "city": "Amsterdam",
     "first_seen": "2026-09-27T12:32:00+00:00",
