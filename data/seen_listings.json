@@ -10702,5 +10702,61 @@
     "price": 1500,
     "title": "Kolonel Palmstraat, Naarden",
     "url": "https://kamernet.nl/en/for-rent/room-naarden/kolonel-palmstraat/room-2412724"
+  },
+  "kamernet:2412764": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-19T17:27:25+00:00",
+    "notified": false,
+    "price": 2600,
+    "title": "Marathonweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/marathonweg/room-2412764"
+  },
+  "kamernet:2412767": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-19T17:27:25+00:00",
+    "notified": false,
+    "price": 505,
+    "title": "Vaartweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/vaartweg/room-2412767"
+  },
+  "kamernet:2412774": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-10-19T17:27:25+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Prachtige zolderkamer 21m2, deels gemeubileerd",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/jan-van-scorelhage/room-2412774"
+  },
+  "kamernet:2412781": {
+    "city": "Almere",
+    "first_seen": "2026-10-19T17:27:25+00:00",
+    "notified": false,
+    "price": 960,
+    "title": "Breukelengracht, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/breukelengracht/room-2412781"
+  },
+  "kamernet:2412784": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-19T17:27:25+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Sleewijkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/sleewijkstraat/room-2412784"
+  },
+  "kamernet:2412799": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-19T17:27:25+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Aalsmeerweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/aalsmeerweg/room-2412799"
+  },
+  "kamernet:2412803": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-19T17:27:25+00:00",
+    "notified": false,
+    "price": 1700,
+    "title": "Spuistraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2412803"
   }
 }
