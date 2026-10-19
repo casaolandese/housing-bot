@@ -10758,5 +10758,13 @@
     "price": 1700,
     "title": "Spuistraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2412803"
+  },
+  "kamernet:2412873": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-19T21:43:00+00:00",
+    "notified": false,
+    "price": 625,
+    "title": "Da Costakade, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/da-costakade/room-2412873"
   }
 }
