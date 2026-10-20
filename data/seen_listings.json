@@ -10519,6 +10519,14 @@
     "title": "Wolbrantskerkweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wolbrantskerkweg/room-2412480"
   },
+  "kamernet:2412490": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-20T15:19:42+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Marius Bauerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/marius-bauerstraat/room-2412490"
+  },
   "kamernet:2412495": {
     "city": "Purmerend",
     "first_seen": "2026-10-18T11:43:11+00:00",
@@ -10886,5 +10894,37 @@
     "price": 1000,
     "title": "Bijlmerplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bijlmerplein/room-2412934"
+  },
+  "kamernet:2412976": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-20T15:19:42+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Elzenhagensingel, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elzenhagensingel/room-2412976"
+  },
+  "kamernet:2412996": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-10-20T15:19:42+00:00",
+    "notified": true,
+    "price": 520,
+    "title": "Oostkamer eerste verdieping",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/nedereindseweg/room-2412996"
+  },
+  "kamernet:2413008": {
+    "city": "Almere",
+    "first_seen": "2026-10-20T15:19:42+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Keizerstraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/keizerstraat/room-2413008"
+  },
+  "kamernet:2413017": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-20T15:19:42+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Padangstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/padangstraat/room-2413017"
   }
 }
