@@ -10926,5 +10926,21 @@
     "price": 550,
     "title": "Padangstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/padangstraat/room-2413017"
+  },
+  "kamernet:2413050": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-20T19:25:59+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Ben van Meerendonkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2413050"
+  },
+  "kamernet:2413069": {
+    "city": "Amstelveen",
+    "first_seen": "2026-10-20T19:25:59+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Turfschip, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/turfschip/room-2413069"
   }
 }
