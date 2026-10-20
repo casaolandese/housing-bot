@@ -10942,5 +10942,13 @@
     "price": 700,
     "title": "Turfschip, Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/turfschip/room-2413069"
+  },
+  "kamernet:2413082": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-20T22:34:14+00:00",
+    "notified": true,
+    "price": 700,
+    "title": "Eengezinswoning met tuin in Utrecht-Zuilen",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/prinses-irenelaan/room-2413082"
   }
 }
