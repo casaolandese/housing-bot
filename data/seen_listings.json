@@ -711,6 +711,14 @@
     "title": "Carel Willinkgracht, Diemen",
     "url": "https://kamernet.nl/en/for-rent/room-diemen/carel-willinkgracht/room-2382625"
   },
+  "kamernet:2384077": {
+    "city": "Zaandam",
+    "first_seen": "2026-10-21T11:35:58+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Zuidervaart, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/zuidervaart/room-2384077"
+  },
   "kamernet:2384552": {
     "city": "Amsterdam",
     "first_seen": "2026-09-15T07:29:54+00:00",
@@ -10495,6 +10503,14 @@
     "title": "Bedumerschans, Nieuwegein",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/bedumerschans/room-2412427"
   },
+  "kamernet:2412433": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-21T11:35:58+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Pelikaanstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/pelikaanstraat/room-2412433"
+  },
   "kamernet:2412446": {
     "city": "Amsterdam",
     "first_seen": "2026-10-17T14:12:25+00:00",
@@ -10686,6 +10702,14 @@
     "price": 599,
     "title": "Nice room nearbij Reigersbos metrostation",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/remmerdenplein/room-2412685"
+  },
+  "kamernet:2412699": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-21T11:35:58+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Pietersbergweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pietersbergweg/room-2412699"
   },
   "kamernet:2412711": {
     "city": "Amsterdam",
@@ -10935,6 +10959,14 @@
     "title": "Ben van Meerendonkstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2413050"
   },
+  "kamernet:2413065": {
+    "city": "Weesp",
+    "first_seen": "2026-10-21T11:35:58+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Kamer te huur Weesp (Amsterdam)",
+    "url": "https://kamernet.nl/en/for-rent/room-weesp/keulsevaartstraat/room-2413065"
+  },
   "kamernet:2413069": {
     "city": "Amstelveen",
     "first_seen": "2026-10-20T19:25:59+00:00",
@@ -10943,6 +10975,14 @@
     "title": "Turfschip, Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/turfschip/room-2413069"
   },
+  "kamernet:2413080": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-21T11:35:58+00:00",
+    "notified": false,
+    "price": 780,
+    "title": "Ondiep, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/ondiep/room-2413080"
+  },
   "kamernet:2413082": {
     "city": "Utrecht",
     "first_seen": "2026-10-20T22:34:14+00:00",
@@ -10950,5 +10990,29 @@
     "price": 700,
     "title": "Eengezinswoning met tuin in Utrecht-Zuilen",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/prinses-irenelaan/room-2413082"
+  },
+  "kamernet:2413094": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-21T11:35:58+00:00",
+    "notified": false,
+    "price": 1332,
+    "title": "Willem de Zwijgerlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/willem-de-zwijgerlaan/room-2413094"
+  },
+  "kamernet:2413105": {
+    "city": "Diemen",
+    "first_seen": "2026-10-21T11:35:58+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Martin Luther Kinglaan, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/martin-luther-kinglaan/room-2413105"
+  },
+  "kamernet:2413124": {
+    "city": "Naarden",
+    "first_seen": "2026-10-21T11:35:58+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Kolonel Palmstraat, Naarden",
+    "url": "https://kamernet.nl/en/for-rent/room-naarden/kolonel-palmstraat/room-2413124"
   }
 }
