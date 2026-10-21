@@ -9463,6 +9463,14 @@
     "title": "Toutenburgstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/toutenburgstraat/room-2411205"
   },
+  "kamernet:2411216": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-21T16:06:36+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Theo Frenkelhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/theo-frenkelhof/room-2411216"
+  },
   "kamernet:2411225": {
     "city": "Amsterdam",
     "first_seen": "2026-10-10T21:56:56+00:00",
@@ -11014,5 +11022,37 @@
     "price": 1500,
     "title": "Kolonel Palmstraat, Naarden",
     "url": "https://kamernet.nl/en/for-rent/room-naarden/kolonel-palmstraat/room-2413124"
+  },
+  "kamernet:2413144": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-21T16:06:36+00:00",
+    "notified": false,
+    "price": 1025,
+    "title": "Orteliusstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/orteliusstraat/room-2413144"
+  },
+  "kamernet:2413197": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-21T16:06:36+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Mariastraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/mariastraat/room-2413197"
+  },
+  "kamernet:2413210": {
+    "city": "Zeist",
+    "first_seen": "2026-10-21T16:06:36+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Utrechtseweg, Zeist",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/utrechtseweg/room-2413210"
+  },
+  "kamernet:2413243": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-10-21T16:06:36+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Sont, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/sont/room-2413243"
   }
 }
