@@ -11054,5 +11054,29 @@
     "price": 700,
     "title": "Sont, Hoofddorp",
     "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/sont/room-2413243"
+  },
+  "kamernet:2413263": {
+    "city": "Duivendrecht",
+    "first_seen": "2026-10-21T20:09:21+00:00",
+    "notified": false,
+    "price": 870,
+    "title": "Korenbloemstraat, Duivendrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-duivendrecht/korenbloemstraat/room-2413263"
+  },
+  "kamernet:2413267": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-21T20:09:21+00:00",
+    "notified": false,
+    "price": 830,
+    "title": "Albert Cuypstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/albert-cuypstraat/room-2413267"
+  },
+  "kamernet:2413292": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-21T20:09:21+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Marco Polostraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/marco-polostraat/room-2413292"
   }
 }
