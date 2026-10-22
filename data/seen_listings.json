@@ -631,6 +631,14 @@
     "title": "Nice room nearbij Reigersbos metrostation",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/remmerdenplein/room-2347529"
   },
+  "kamernet:2351638": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": false,
+    "price": 475,
+    "title": "Bantamstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/bantamstraat/room-2351638"
+  },
   "kamernet:2352643": {
     "city": "Amsterdam",
     "first_seen": "2026-10-10T13:56:18+00:00",
@@ -11071,6 +11079,38 @@
     "title": "Albert Cuypstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/albert-cuypstraat/room-2413267"
   },
+  "kamernet:2413272": {
+    "city": "Almere",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Staverenstraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/staverenstraat/room-2413272"
+  },
+  "kamernet:2413278": {
+    "city": "Almere",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Kweekgrasstraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/kweekgrasstraat/room-2413278"
+  },
+  "kamernet:2413282": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": false,
+    "price": 450,
+    "title": "Burgemeester Roellstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/burgemeester-roellstraat/room-2413282"
+  },
+  "kamernet:2413291": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Koopvaardersplantsoen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koopvaardersplantsoen/room-2413291"
+  },
   "kamernet:2413292": {
     "city": "Amsterdam",
     "first_seen": "2026-10-21T20:09:21+00:00",
@@ -11078,5 +11118,125 @@
     "price": 1250,
     "title": "Marco Polostraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/marco-polostraat/room-2413292"
+  },
+  "kamernet:2413317": {
+    "city": "Amstelveen",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Watercirkel, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/watercirkel/room-2413317"
+  },
+  "kamernet:2413320": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": true,
+    "price": 650,
+    "title": "small nice room",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kempenlaan/room-2413320"
+  },
+  "kamernet:2413321": {
+    "city": "Zaandam",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Comfortable room",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/westzijde/room-2413321"
+  },
+  "kamernet:2413333": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Willy Sluiterstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/willy-sluiterstraat/room-2413333"
+  },
+  "kamernet:2413337": {
+    "city": "Purmerend",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": false,
+    "price": 580,
+    "title": "Weverstraat, Purmerend",
+    "url": "https://kamernet.nl/en/for-rent/room-purmerend/weverstraat/room-2413337"
+  },
+  "kamernet:2413368": {
+    "city": "Naarden",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Kolonel Palmstraat, Naarden",
+    "url": "https://kamernet.nl/en/for-rent/room-naarden/kolonel-palmstraat/room-2413368"
+  },
+  "kamernet:2413381": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": true,
+    "price": 780,
+    "title": "Te huur kamer Hammarbystraat",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hammarbystraat/room-2413381"
+  },
+  "kamernet:2413382": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Ferdinand Bolstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ferdinand-bolstraat/room-2413382"
+  },
+  "kamernet:2413406": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Bernadottelaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/bernadottelaan/room-2413406"
+  },
+  "kamernet:2413419": {
+    "city": "Soest",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Valeriaanstraat, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/valeriaanstraat/room-2413419"
+  },
+  "kamernet:2413423": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Orteliusstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/orteliusstraat/room-2413423"
+  },
+  "kamernet:2413426": {
+    "city": "Soest",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": false,
+    "price": 786,
+    "title": "Ereprijsstraat, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/ereprijsstraat/room-2413426"
+  },
+  "kamernet:2413433": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": true,
+    "price": 380,
+    "title": "Cozy Room immediately available in Utrecht.",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/amsterdamsestraatweg/room-2413433"
+  },
+  "kamernet:2413435": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": true,
+    "price": 795,
+    "title": "Temporary Room / Utrecht City Centre",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/lange-jufferstraat/room-2413435"
+  },
+  "kamernet:2413437": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-22T12:30:03+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Postjesweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjesweg/room-2413437"
   }
 }
