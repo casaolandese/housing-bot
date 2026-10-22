@@ -11238,5 +11238,45 @@
     "price": 850,
     "title": "Postjesweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjesweg/room-2413437"
+  },
+  "kamernet:2413461": {
+    "city": "Diemen",
+    "first_seen": "2026-10-22T17:34:59+00:00",
+    "notified": true,
+    "price": 600,
+    "title": "Looking for working room mate",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/tarwekamp/room-2413461"
+  },
+  "kamernet:2413464": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-22T17:34:59+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Katrijpstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/katrijpstraat/room-2413464"
+  },
+  "kamernet:2413495": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-22T17:34:59+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Ben van Meerendonkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2413495"
+  },
+  "kamernet:2413501": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-22T17:34:59+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Bijlmerdreef, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bijlmerdreef/room-2413501"
+  },
+  "kamernet:2413516": {
+    "city": "Halfweg",
+    "first_seen": "2026-10-22T17:34:59+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Zijkanaal F Oost, Halfweg",
+    "url": "https://kamernet.nl/en/for-rent/room-halfweg/zijkanaal-f-oost/room-2413516"
   }
 }
