@@ -11278,5 +11278,13 @@
     "price": 1200,
     "title": "Zijkanaal F Oost, Halfweg",
     "url": "https://kamernet.nl/en/for-rent/room-halfweg/zijkanaal-f-oost/room-2413516"
+  },
+  "kamernet:2413541": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-22T20:48:37+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Room in Bijlmer (Kraaiennest metro station)",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kikkenstein/room-2413541"
   }
 }
