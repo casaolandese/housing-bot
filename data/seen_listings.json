@@ -11374,5 +11374,45 @@
     "price": 1500,
     "title": "Kolonel Palmstraat, Naarden",
     "url": "https://kamernet.nl/en/for-rent/room-naarden/kolonel-palmstraat/room-2413631"
+  },
+  "kamernet:2413639": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-23T17:37:52+00:00",
+    "notified": false,
+    "price": 545,
+    "title": "Koppestokstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/koppestokstraat/room-2413639"
+  },
+  "kamernet:2413640": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-23T17:37:52+00:00",
+    "notified": false,
+    "price": 890,
+    "title": "Willem de Zwijgerlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/willem-de-zwijgerlaan/room-2413640"
+  },
+  "kamernet:2413643": {
+    "city": "De Bilt",
+    "first_seen": "2026-10-23T17:37:52+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Laan 1813, De Bilt",
+    "url": "https://kamernet.nl/en/for-rent/room-de-bilt/laan-1813/room-2413643"
+  },
+  "kamernet:2413647": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-23T17:37:52+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Houdringe, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/houdringe/room-2413647"
+  },
+  "kamernet:2413648": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-23T17:37:52+00:00",
+    "notified": true,
+    "price": 599,
+    "title": "Nice room nearbij Reigersbos metrostation",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/remmerdenplein/room-2413648"
   }
 }
