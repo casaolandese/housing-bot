@@ -11279,6 +11279,22 @@
     "title": "Zijkanaal F Oost, Halfweg",
     "url": "https://kamernet.nl/en/for-rent/room-halfweg/zijkanaal-f-oost/room-2413516"
   },
+  "kamernet:2413539": {
+    "city": "Koog aan de Zaan",
+    "first_seen": "2026-10-23T12:49:52+00:00",
+    "notified": false,
+    "price": 932,
+    "title": "Julianastraat, Koog aan de Zaan",
+    "url": "https://kamernet.nl/en/for-rent/room-koog-aan-de-zaan/julianastraat/room-2413539"
+  },
+  "kamernet:2413540": {
+    "city": "Koog aan de Zaan",
+    "first_seen": "2026-10-23T12:49:52+00:00",
+    "notified": false,
+    "price": 858,
+    "title": "Julianastraat, Koog aan de Zaan",
+    "url": "https://kamernet.nl/en/for-rent/room-koog-aan-de-zaan/julianastraat/room-2413540"
+  },
   "kamernet:2413541": {
     "city": "Amsterdam",
     "first_seen": "2026-10-22T20:48:37+00:00",
@@ -11286,5 +11302,77 @@
     "price": 700,
     "title": "Room in Bijlmer (Kraaiennest metro station)",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kikkenstein/room-2413541"
+  },
+  "kamernet:2413550": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-23T12:49:52+00:00",
+    "notified": true,
+    "price": 650,
+    "title": "A SPACIOUS ROOM FOR RENT",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/florijn/room-2413550"
+  },
+  "kamernet:2413568": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-23T12:49:52+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Jeltje de Bosch Kemperpad, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jeltje-de-bosch-kemperpad/room-2413568"
+  },
+  "kamernet:2413569": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-23T12:49:52+00:00",
+    "notified": false,
+    "price": 1450,
+    "title": "Nachtwachtlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nachtwachtlaan/room-2413569"
+  },
+  "kamernet:2413570": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-23T12:49:52+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Nachtwachtlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nachtwachtlaan/room-2413570"
+  },
+  "kamernet:2413604": {
+    "city": "Weesp",
+    "first_seen": "2026-10-23T12:49:52+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Ruime kamer van 22 m² in het centrum van Weesp",
+    "url": "https://kamernet.nl/en/for-rent/room-weesp/nieuwstraat/room-2413604"
+  },
+  "kamernet:2413609": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-23T12:49:52+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Leuke nette kamer",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/korfoedreef/room-2413609"
+  },
+  "kamernet:2413620": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-23T12:49:52+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Rozenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/rozenstraat/room-2413620"
+  },
+  "kamernet:2413627": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-23T12:49:52+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Eerste Jan Steenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eerste-jan-steenstraat/room-2413627"
+  },
+  "kamernet:2413631": {
+    "city": "Naarden",
+    "first_seen": "2026-10-23T12:49:52+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Kolonel Palmstraat, Naarden",
+    "url": "https://kamernet.nl/en/for-rent/room-naarden/kolonel-palmstraat/room-2413631"
   }
 }
