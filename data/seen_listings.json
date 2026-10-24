@@ -11095,6 +11095,14 @@
     "title": "Kweekgrasstraat, Almere",
     "url": "https://kamernet.nl/en/for-rent/room-almere/kweekgrasstraat/room-2413278"
   },
+  "kamernet:2413280": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-24T15:54:27+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Tweede van Swindenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tweede-van-swindenstraat/room-2413280"
+  },
   "kamernet:2413282": {
     "city": "Amsterdam",
     "first_seen": "2026-10-22T12:30:03+00:00",
@@ -11446,5 +11454,29 @@
     "price": 1250,
     "title": "Steve Bikoplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/steve-bikoplein/room-2413744"
+  },
+  "kamernet:2413773": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-24T15:54:27+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Plesmanlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/plesmanlaan/room-2413773"
+  },
+  "kamernet:2413788": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-24T15:54:27+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Van Eysingalaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-eysingalaan/room-2413788"
+  },
+  "kamernet:2413790": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-24T15:54:27+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Josephus Jittastraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/josephus-jittastraat/room-2413790"
   }
 }
