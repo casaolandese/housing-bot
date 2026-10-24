@@ -11255,6 +11255,14 @@
     "title": "Katrijpstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/katrijpstraat/room-2413464"
   },
+  "kamernet:2413494": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-24T12:05:19+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Ben van Meerendonkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2413494"
+  },
   "kamernet:2413495": {
     "city": "Amsterdam",
     "first_seen": "2026-10-22T17:34:59+00:00",
@@ -11430,5 +11438,13 @@
     "price": 800,
     "title": "Constant Erzeijstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/constant-erzeijstraat/room-2413704"
+  },
+  "kamernet:2413744": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-24T12:05:19+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Steve Bikoplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/steve-bikoplein/room-2413744"
   }
 }
