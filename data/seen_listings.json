@@ -11414,5 +11414,21 @@
     "price": 599,
     "title": "Nice room nearbij Reigersbos metrostation",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/remmerdenplein/room-2413648"
+  },
+  "kamernet:2413675": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-24T07:12:01+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Entrepotdok, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/entrepotdok/room-2413675"
+  },
+  "kamernet:2413704": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-24T07:12:01+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Constant Erzeijstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/constant-erzeijstraat/room-2413704"
   }
 }
