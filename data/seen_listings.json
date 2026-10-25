@@ -11615,6 +11615,14 @@
     "title": "Temporary room available Rivierenbuurt",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/uiterwaardenstraat/room-2413954"
   },
+  "kamernet:2414003": {
+    "city": "Diemen",
+    "first_seen": "2026-10-25T23:40:58+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Botterweg, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/botterweg/room-2414003"
+  },
   "kamernet:2414008": {
     "city": "Nieuwegein",
     "first_seen": "2026-10-25T21:49:13+00:00",
