@@ -11614,5 +11614,21 @@
     "price": 700,
     "title": "Temporary room available Rivierenbuurt",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/uiterwaardenstraat/room-2413954"
+  },
+  "kamernet:2414008": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-10-25T21:49:13+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Ansinghlaan, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/ansinghlaan/room-2414008"
+  },
+  "kamernet:2414029": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-25T21:49:13+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Jan Smitstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-smitstraat/room-2414029"
   }
 }
