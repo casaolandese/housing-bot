@@ -663,6 +663,14 @@
     "title": "kamer",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/trumanlaan/room-2361622"
   },
+  "kamernet:2363204": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-25T16:19:44+00:00",
+    "notified": false,
+    "price": 1750,
+    "title": "Praterlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/praterlaan/room-2363204"
+  },
   "kamernet:2370283": {
     "city": "Amsterdam",
     "first_seen": "2026-08-25T16:18:35+00:00",
@@ -11582,5 +11590,29 @@
     "price": 900,
     "title": "Raaks, Haarlem",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/raaks/room-2413921"
+  },
+  "kamernet:2413934": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-25T16:19:44+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Gouden Leeuw, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gouden-leeuw/room-2413934"
+  },
+  "kamernet:2413940": {
+    "city": "Diemen",
+    "first_seen": "2026-10-25T16:19:44+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Martin Luther Kinglaan, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/martin-luther-kinglaan/room-2413940"
+  },
+  "kamernet:2413954": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-25T16:19:44+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Temporary room available Rivierenbuurt",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/uiterwaardenstraat/room-2413954"
   }
 }
