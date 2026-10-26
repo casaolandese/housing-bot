@@ -10983,6 +10983,14 @@
     "title": "Padangstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/padangstraat/room-2413017"
   },
+  "kamernet:2413049": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Ben van Meerendonkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2413049"
+  },
   "kamernet:2413050": {
     "city": "Amsterdam",
     "first_seen": "2026-10-20T19:25:59+00:00",
@@ -11615,6 +11623,14 @@
     "title": "Temporary room available Rivierenbuurt",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/uiterwaardenstraat/room-2413954"
   },
+  "kamernet:2413993": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "near city center nice room",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/medanstraat/room-2413993"
+  },
   "kamernet:2414003": {
     "city": "Diemen",
     "first_seen": "2026-10-25T23:40:58+00:00",
@@ -11631,6 +11647,22 @@
     "title": "Ansinghlaan, Nieuwegein",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/ansinghlaan/room-2414008"
   },
+  "kamernet:2414013": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "It is a quite place",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leenhofstraat/room-2414013"
+  },
+  "kamernet:2414016": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Van den Berghlaan, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/van-den-berghlaan/room-2414016"
+  },
   "kamernet:2414029": {
     "city": "Amsterdam",
     "first_seen": "2026-10-25T21:49:13+00:00",
@@ -11638,5 +11670,125 @@
     "price": 650,
     "title": "Jan Smitstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-smitstraat/room-2414029"
+  },
+  "kamernet:2414035": {
+    "city": "Houten",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": true,
+    "price": 600,
+    "title": "Room in Houten",
+    "url": "https://kamernet.nl/en/for-rent/room-houten/de-molen/room-2414035"
+  },
+  "kamernet:2414042": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 6,
+    "title": "Kennemerduinstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kennemerduinstraat/room-2414042"
+  },
+  "kamernet:2414056": {
+    "city": "Amstelveen",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Private room for rent",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/adriaen-van-ostadelaan/room-2414056"
+  },
+  "kamernet:2414062": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 720,
+    "title": "Westerdok, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/westerdok/room-2414062"
+  },
+  "kamernet:2414071": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Wittgensteinlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wittgensteinlaan/room-2414071"
+  },
+  "kamernet:2414075": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Leuke nette kamer",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/korfoedreef/room-2414075"
+  },
+  "kamernet:2414090": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Roeselarestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/roeselarestraat/room-2414090"
+  },
+  "kamernet:2414107": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 640,
+    "title": "Lange Viestraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/lange-viestraat/room-2414107"
+  },
+  "kamernet:2414108": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "It is a quite place",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leenhofstraat/room-2414108"
+  },
+  "kamernet:2414121": {
+    "city": "Haarlem",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Room",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/linschotenstraat/room-2414121"
+  },
+  "kamernet:2414124": {
+    "city": "Badhoevedorp",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 417,
+    "title": "Adelaarstraat, Badhoevedorp",
+    "url": "https://kamernet.nl/en/for-rent/room-badhoevedorp/adelaarstraat/room-2414124"
+  },
+  "kamernet:2414130": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Groen van Prinstererstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/groen-van-prinstererstraat/room-2414130"
+  },
+  "kamernet:2414134": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 620,
+    "title": "Da Costakade, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/da-costakade/room-2414134"
+  },
+  "kamernet:2414152": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 1800,
+    "title": "Amstelveenseweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/amstelveenseweg/room-2414152"
+  },
+  "kamernet:2414153": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-26T14:25:03+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Westerdoksdijk, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/westerdoksdijk/room-2414153"
   }
 }
