@@ -11838,5 +11838,29 @@
     "price": 1200,
     "title": "Botterweg, Diemen",
     "url": "https://kamernet.nl/en/for-rent/room-diemen/botterweg/room-2414229"
+  },
+  "kamernet:2414243": {
+    "city": "Diemen",
+    "first_seen": "2026-10-26T23:51:08+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Botterweg, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/botterweg/room-2414243"
+  },
+  "kamernet:2414283": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-26T23:51:08+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Hopakker, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/hopakker/room-2414283"
+  },
+  "kamernet:2414284": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-10-26T23:51:08+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Ansinghlaan, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/ansinghlaan/room-2414284"
   }
 }
