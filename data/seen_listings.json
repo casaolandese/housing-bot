@@ -11863,6 +11863,46 @@
     "title": "Ansinghlaan, Nieuwegein",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/ansinghlaan/room-2414284"
   },
+  "kamernet:2414443": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-27T15:52:02+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Room renting 25 nov 2026",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bernard-shawsingel/room-2414443"
+  },
+  "kamernet:2414458": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-27T15:52:02+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Pietersbergweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pietersbergweg/room-2414458"
+  },
+  "kamernet:2414465": {
+    "city": "Koog aan de Zaan",
+    "first_seen": "2026-10-27T15:52:02+00:00",
+    "notified": false,
+    "price": 932,
+    "title": "Julianastraat, Koog aan de Zaan",
+    "url": "https://kamernet.nl/en/for-rent/room-koog-aan-de-zaan/julianastraat/room-2414465"
+  },
+  "kamernet:2414475": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-27T15:52:02+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Prinseneiland, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/prinseneiland/room-2414475"
+  },
+  "kamernet:2414476": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-27T15:52:02+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Gomarushof, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/gomarushof/room-2414476"
+  },
   "kamernet:2414480": {
     "city": "Amstelveen",
     "first_seen": "2026-10-27T10:05:15+00:00",
@@ -11870,5 +11910,45 @@
     "price": 700,
     "title": "Eleanor Rooseveltlaan, Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/eleanor-rooseveltlaan/room-2414480"
+  },
+  "kamernet:2414485": {
+    "city": "Almere",
+    "first_seen": "2026-10-27T15:52:02+00:00",
+    "notified": false,
+    "price": 875,
+    "title": "Rolling Stonesstraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/rolling-stonesstraat/room-2414485"
+  },
+  "kamernet:2414568": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-27T15:52:02+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Theo Frenkelhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/theo-frenkelhof/room-2414568"
+  },
+  "kamernet:2414600": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-27T15:52:02+00:00",
+    "notified": false,
+    "price": 895,
+    "title": "Kerkstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/kerkstraat/room-2414600"
+  },
+  "kamernet:2414601": {
+    "city": "Bosch en Duin",
+    "first_seen": "2026-10-27T15:52:02+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Douglaslaan, Bosch en Duin",
+    "url": "https://kamernet.nl/en/for-rent/room-bosch-en-duin/douglaslaan/room-2414601"
+  },
+  "kamernet:2414608": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-27T15:52:02+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "room free",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/langswater/room-2414608"
   }
 }
