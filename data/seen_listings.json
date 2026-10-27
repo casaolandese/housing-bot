@@ -11862,5 +11862,13 @@
     "price": 800,
     "title": "Ansinghlaan, Nieuwegein",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/ansinghlaan/room-2414284"
+  },
+  "kamernet:2414480": {
+    "city": "Amstelveen",
+    "first_seen": "2026-10-27T10:05:15+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Eleanor Rooseveltlaan, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/eleanor-rooseveltlaan/room-2414480"
   }
 }
