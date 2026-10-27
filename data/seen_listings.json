@@ -11950,5 +11950,21 @@
     "price": 900,
     "title": "room free",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/langswater/room-2414608"
+  },
+  "kamernet:2414618": {
+    "city": "Naarden",
+    "first_seen": "2026-10-27T20:33:49+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Kolonel Palmstraat, Naarden",
+    "url": "https://kamernet.nl/en/for-rent/room-naarden/kolonel-palmstraat/room-2414618"
+  },
+  "kamernet:2414641": {
+    "city": "Soesterberg",
+    "first_seen": "2026-10-27T20:33:49+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Simon Stevinlaan, Soesterberg",
+    "url": "https://kamernet.nl/en/for-rent/room-soesterberg/simon-stevinlaan/room-2414641"
   }
 }
