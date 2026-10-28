@@ -12143,6 +12143,14 @@
     "title": "Knollendamstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/knollendamstraat/room-2414833"
   },
+  "kamernet:2414843": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-28T21:52:04+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2414843"
+  },
   "kamernet:2414844": {
     "city": "Almere",
     "first_seen": "2026-10-28T17:25:16+00:00",
@@ -12150,5 +12158,13 @@
     "price": 1050,
     "title": "Koperslagerhof, Almere",
     "url": "https://kamernet.nl/en/for-rent/room-almere/koperslagerhof/room-2414844"
+  },
+  "kamernet:2414847": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-28T21:52:04+00:00",
+    "notified": false,
+    "price": 1332,
+    "title": "Willem de Zwijgerlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/willem-de-zwijgerlaan/room-2414847"
   }
 }
