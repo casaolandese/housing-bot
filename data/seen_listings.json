@@ -10999,6 +10999,14 @@
     "title": "Padangstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/padangstraat/room-2413017"
   },
+  "kamernet:2413026": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-10-28T17:25:16+00:00",
+    "notified": true,
+    "price": 620,
+    "title": "Oost kamer eerste verdieping",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/nedereindseweg/room-2413026"
+  },
   "kamernet:2413049": {
     "city": "Amsterdam",
     "first_seen": "2026-10-26T14:25:03+00:00",
@@ -12094,5 +12102,53 @@
     "price": 800,
     "title": "Kolonel Palmstraat, Naarden",
     "url": "https://kamernet.nl/en/for-rent/room-naarden/kolonel-palmstraat/room-2414774"
+  },
+  "kamernet:2414784": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-28T17:25:16+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Elzenhagensingel, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elzenhagensingel/room-2414784"
+  },
+  "kamernet:2414793": {
+    "city": "Bussum",
+    "first_seen": "2026-10-28T17:25:16+00:00",
+    "notified": false,
+    "price": 489,
+    "title": "Schwerinlaan, Bussum",
+    "url": "https://kamernet.nl/en/for-rent/room-bussum/schwerinlaan/room-2414793"
+  },
+  "kamernet:2414794": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-28T17:25:16+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Hoofddorpweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hoofddorpweg/room-2414794"
+  },
+  "kamernet:2414807": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-28T17:25:16+00:00",
+    "notified": false,
+    "price": 1135,
+    "title": "Overtoom, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/overtoom/room-2414807"
+  },
+  "kamernet:2414833": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-28T17:25:16+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Knollendamstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/knollendamstraat/room-2414833"
+  },
+  "kamernet:2414844": {
+    "city": "Almere",
+    "first_seen": "2026-10-28T17:25:16+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Koperslagerhof, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/koperslagerhof/room-2414844"
   }
 }
