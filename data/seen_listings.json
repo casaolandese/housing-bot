@@ -383,6 +383,14 @@
     "title": "Groenburgwal, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/groenburgwal/room-1945465"
   },
+  "kamernet:1947945": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": true,
+    "price": 900,
+    "title": "Nature apartment surrounded by green @ Gaasperplas",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leerdamhof/room-1947945"
+  },
   "kamernet:2027645": {
     "city": "Utrecht",
     "first_seen": "2026-10-17T11:07:04+00:00",
@@ -9623,6 +9631,14 @@
     "title": "Paardenstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/paardenstraat/room-2411419"
   },
+  "kamernet:2411425": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Daniel Defoelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/daniel-defoelaan/room-2411425"
+  },
   "kamernet:2411427": {
     "city": "Amsterdam",
     "first_seen": "2026-10-12T17:52:00+00:00",
@@ -11966,5 +11982,117 @@
     "price": 600,
     "title": "Simon Stevinlaan, Soesterberg",
     "url": "https://kamernet.nl/en/for-rent/room-soesterberg/simon-stevinlaan/room-2414641"
+  },
+  "kamernet:2414649": {
+    "city": "Amstelveen",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Jupiter, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/jupiter/room-2414649"
+  },
+  "kamernet:2414658": {
+    "city": "Haarlem",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": false,
+    "price": 475,
+    "title": "Theemsplein, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/theemsplein/room-2414658"
+  },
+  "kamernet:2414687": {
+    "city": "Abcoude",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": false,
+    "price": 575,
+    "title": "Waardassackerstraat, Abcoude",
+    "url": "https://kamernet.nl/en/for-rent/room-abcoude/waardassackerstraat/room-2414687"
+  },
+  "kamernet:2414706": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Ben van Meerendonkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2414706"
+  },
+  "kamernet:2414707": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": false,
+    "price": 595,
+    "title": "Oude Kerkstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/oude-kerkstraat/room-2414707"
+  },
+  "kamernet:2414711": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": true,
+    "price": 800,
+    "title": "Furnished room available immediately",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/veeteeltstraat/room-2414711"
+  },
+  "kamernet:2414713": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": false,
+    "price": 1199,
+    "title": "John Coltranestraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/john-coltranestraat/room-2414713"
+  },
+  "kamernet:2414716": {
+    "city": "Rijsenhout",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Aalsmeerderweg, Rijsenhout",
+    "url": "https://kamernet.nl/en/for-rent/room-rijsenhout/aalsmeerderweg/room-2414716"
+  },
+  "kamernet:2414717": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Bart Poesiatstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bart-poesiatstraat/room-2414717"
+  },
+  "kamernet:2414722": {
+    "city": "Diemen",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Martin Luther Kinglaan, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/martin-luther-kinglaan/room-2414722"
+  },
+  "kamernet:2414740": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": false,
+    "price": 775,
+    "title": "Geleenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/geleenstraat/room-2414740"
+  },
+  "kamernet:2414759": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": false,
+    "price": 970,
+    "title": "Leusdenhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leusdenhof/room-2414759"
+  },
+  "kamernet:2414769": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Furnished Room in Utrecht Leidsche Rijn",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/vuurvlindersingel/room-2414769"
+  },
+  "kamernet:2414774": {
+    "city": "Naarden",
+    "first_seen": "2026-10-28T11:39:19+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Kolonel Palmstraat, Naarden",
+    "url": "https://kamernet.nl/en/for-rent/room-naarden/kolonel-palmstraat/room-2414774"
   }
 }
