@@ -551,6 +551,14 @@
     "title": "Sarphatistraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/sarphatistraat/room-2320766"
   },
+  "kamernet:2321199": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-29T07:41:45+00:00",
+    "notified": false,
+    "price": 780,
+    "title": "Salzburg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/salzburg/room-2321199"
+  },
   "kamernet:2324367": {
     "city": "Amsterdam",
     "first_seen": "2026-09-05T07:17:03+00:00",
