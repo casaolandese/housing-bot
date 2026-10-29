@@ -11015,6 +11015,14 @@
     "title": "Oost kamer eerste verdieping",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/nedereindseweg/room-2413026"
   },
+  "kamernet:2413038": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": true,
+    "price": 850,
+    "title": "Temporary room - close to De Pijp",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-anthoniszstraat/room-2413038"
+  },
   "kamernet:2413049": {
     "city": "Amsterdam",
     "first_seen": "2026-10-26T14:25:03+00:00",
@@ -12174,5 +12182,141 @@
     "price": 1332,
     "title": "Willem de Zwijgerlaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/willem-de-zwijgerlaan/room-2414847"
+  },
+  "kamernet:2414878": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Maldenhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/maldenhof/room-2414878"
+  },
+  "kamernet:2414886": {
+    "city": "Diemen",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Knoopkruid, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/knoopkruid/room-2414886"
+  },
+  "kamernet:2414906": {
+    "city": "Weesp",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Ruime kamer te huur in het mooi rustige Weesp",
+    "url": "https://kamernet.nl/en/for-rent/room-weesp/keulsevaartstraat/room-2414906"
+  },
+  "kamernet:2414908": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Tugelaweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tugelaweg/room-2414908"
+  },
+  "kamernet:2414912": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Rijnlaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/rijnlaan/room-2414912"
+  },
+  "kamernet:2414944": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Furnished Room for Rent in the Heart of Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/singel/room-2414944"
+  },
+  "kamernet:2414945": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Amsterdamsestraatweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/amsterdamsestraatweg/room-2414945"
+  },
+  "kamernet:2414946": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Leuke nette kamer",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/korfoedreef/room-2414946"
+  },
+  "kamernet:2414969": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Kromme Leimuidenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kromme-leimuidenstraat/room-2414969"
+  },
+  "kamernet:2414976": {
+    "city": "Odijk",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 495,
+    "title": "Werkhovenseweg, Odijk",
+    "url": "https://kamernet.nl/en/for-rent/room-odijk/werkhovenseweg/room-2414976"
+  },
+  "kamernet:2414982": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 1360,
+    "title": "Asingaborg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/asingaborg/room-2414982"
+  },
+  "kamernet:2414983": {
+    "city": "Almere",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 880,
+    "title": "Smildestraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/smildestraat/room-2414983"
+  },
+  "kamernet:2414984": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 990,
+    "title": "Admiraal De Ruijterweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/admiraal-de-ruijterweg/room-2414984"
+  },
+  "kamernet:2414985": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 830,
+    "title": "Admiraal De Ruijterweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/admiraal-de-ruijterweg/room-2414985"
+  },
+  "kamernet:2415014": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 970,
+    "title": "Bilderdijkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bilderdijkstraat/room-2415014"
+  },
+  "kamernet:2415021": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Baarsjesweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/baarsjesweg/room-2415021"
+  },
+  "kamernet:2415028": {
+    "city": "Hilversum",
+    "first_seen": "2026-10-29T14:41:27+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Jan van der Heijdenstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/jan-van-der-heijdenstraat/room-2415028"
   }
 }
