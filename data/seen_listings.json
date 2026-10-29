@@ -11055,6 +11055,14 @@
     "title": "Turfschip, Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/turfschip/room-2413069"
   },
+  "kamernet:2413073": {
+    "city": "Wormer",
+    "first_seen": "2026-10-29T19:54:53+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Veerdijk, Wormer",
+    "url": "https://kamernet.nl/en/for-rent/room-wormer/veerdijk/room-2413073"
+  },
   "kamernet:2413080": {
     "city": "Utrecht",
     "first_seen": "2026-10-21T11:35:58+00:00",
@@ -12318,5 +12326,53 @@
     "price": 550,
     "title": "Jan van der Heijdenstraat, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/jan-van-der-heijdenstraat/room-2415028"
+  },
+  "kamernet:2415038": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-29T19:54:53+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Raphael Lemkinstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/raphael-lemkinstraat/room-2415038"
+  },
+  "kamernet:2415059": {
+    "city": "Almere",
+    "first_seen": "2026-10-29T19:54:53+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Room for in Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/workumstraat/room-2415059"
+  },
+  "kamernet:2415066": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-29T19:54:53+00:00",
+    "notified": false,
+    "price": 1395,
+    "title": "Jennerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jennerstraat/room-2415066"
+  },
+  "kamernet:2415081": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-29T19:54:53+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Ben van Meerendonkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2415081"
+  },
+  "kamernet:2415085": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-29T19:54:53+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Salawatihof, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/salawatihof/room-2415085"
+  },
+  "kamernet:2415105": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-29T19:54:53+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Eastonstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eastonstraat/room-2415105"
   }
 }
