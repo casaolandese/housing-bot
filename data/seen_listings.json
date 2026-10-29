@@ -12374,5 +12374,21 @@
     "price": 600,
     "title": "Eastonstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eastonstraat/room-2415105"
+  },
+  "kamernet:2415118": {
+    "city": "Maarssen",
+    "first_seen": "2026-10-29T23:53:15+00:00",
+    "notified": false,
+    "price": 654,
+    "title": "Maarsseveensegrachtje, Maarssen",
+    "url": "https://kamernet.nl/en/for-rent/room-maarssen/maarsseveensegrachtje/room-2415118"
+  },
+  "kamernet:2415136": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-29T23:53:15+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Van Eysingalaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-eysingalaan/room-2415136"
   }
 }
