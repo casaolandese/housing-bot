@@ -12598,5 +12598,13 @@
     "price": 920,
     "title": "Poederooienstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/poederooienstraat/room-2415241"
+  },
+  "kamernet:2415298": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-30T21:36:46+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Sweder van Zuylenweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/sweder-van-zuylenweg/room-2415298"
   }
 }
