@@ -12335,6 +12335,14 @@
     "title": "Admiraal De Ruijterweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/admiraal-de-ruijterweg/room-2414985"
   },
+  "kamernet:2415013": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-30T17:11:04+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Akoleienstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/akoleienstraat/room-2415013"
+  },
   "kamernet:2415014": {
     "city": "Amsterdam",
     "first_seen": "2026-10-29T14:41:27+00:00",
@@ -12510,5 +12518,85 @@
     "price": 695,
     "title": "Eksterlaan, Haarlem",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/eksterlaan/room-2415179"
+  },
+  "kamernet:2415187": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-30T17:11:04+00:00",
+    "notified": false,
+    "price": 620,
+    "title": "Thomas a Kempisweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/thomas-a-kempisweg/room-2415187"
+  },
+  "kamernet:2415189": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-30T17:11:04+00:00",
+    "notified": false,
+    "price": 380,
+    "title": "Amsterdamsestraatweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/amsterdamsestraatweg/room-2415189"
+  },
+  "kamernet:2415201": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-30T17:11:04+00:00",
+    "notified": false,
+    "price": 1550,
+    "title": "Swammerdamstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/swammerdamstraat/room-2415201"
+  },
+  "kamernet:2415211": {
+    "city": "Naarden",
+    "first_seen": "2026-10-30T17:11:04+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Kolonel Palmstraat, Naarden",
+    "url": "https://kamernet.nl/en/for-rent/room-naarden/kolonel-palmstraat/room-2415211"
+  },
+  "kamernet:2415215": {
+    "city": "Odijk",
+    "first_seen": "2026-10-30T17:11:04+00:00",
+    "notified": false,
+    "price": 500,
+    "title": "Werdorperwaard, Odijk",
+    "url": "https://kamernet.nl/en/for-rent/room-odijk/werdorperwaard/room-2415215"
+  },
+  "kamernet:2415224": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-30T17:11:04+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Van der Mondestraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-der-mondestraat/room-2415224"
+  },
+  "kamernet:2415235": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-30T17:11:04+00:00",
+    "notified": false,
+    "price": 1095,
+    "title": "Wolbrantskerkweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wolbrantskerkweg/room-2415235"
+  },
+  "kamernet:2415239": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-10-30T17:11:04+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Stootvalk, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/stootvalk/room-2415239"
+  },
+  "kamernet:2415240": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-30T17:11:04+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Vuurvlindersingel, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/vuurvlindersingel/room-2415240"
+  },
+  "kamernet:2415241": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-30T17:11:04+00:00",
+    "notified": false,
+    "price": 920,
+    "title": "Poederooienstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/poederooienstraat/room-2415241"
   }
 }
