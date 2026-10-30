@@ -447,6 +447,14 @@
     "title": "Johannes Meewisstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/johannes-meewisstraat/room-2183417"
   },
+  "kamernet:2191195": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-30T11:33:58+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Teldershof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/teldershof/room-2191195"
+  },
   "kamernet:2201046": {
     "city": "Monnickendam",
     "first_seen": "2026-08-18T17:57:02+00:00",
@@ -983,6 +991,14 @@
     "title": "Tuinkamer",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/oude-kerkstraat/room-2397042"
   },
+  "kamernet:2397054": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-30T11:33:58+00:00",
+    "notified": false,
+    "price": 2000,
+    "title": "Kinkerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kinkerstraat/room-2397054"
+  },
   "kamernet:2397113": {
     "city": "Utrecht",
     "first_seen": "2026-08-18T16:22:37+00:00",
@@ -1182,6 +1198,14 @@
     "price": 950,
     "title": "Hilversumpad, Almere",
     "url": "https://kamernet.nl/en/for-rent/room-almere/hilversumpad/room-2399332"
+  },
+  "kamernet:2399394": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-30T11:33:58+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Olympiaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/olympiaplein/room-2399394"
   },
   "kamernet:2399441": {
     "city": "Utrecht",
@@ -9655,6 +9679,14 @@
     "title": "Eerste Jan van der Heijdenstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eerste-jan-van-der-heijdenstraat/room-2411427"
   },
+  "kamernet:2411428": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-30T11:33:58+00:00",
+    "notified": false,
+    "price": 525,
+    "title": "kamer met  erin keukenblokje",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/livingstonelaan/room-2411428"
+  },
   "kamernet:2411429": {
     "city": "Amsterdam",
     "first_seen": "2026-10-25T12:07:51+00:00",
@@ -12375,6 +12407,22 @@
     "title": "Eastonstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eastonstraat/room-2415105"
   },
+  "kamernet:2415109": {
+    "city": "Almere",
+    "first_seen": "2026-10-30T11:33:58+00:00",
+    "notified": false,
+    "price": 885,
+    "title": "Multatuliweg, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/multatuliweg/room-2415109"
+  },
+  "kamernet:2415111": {
+    "city": "Amstelveen",
+    "first_seen": "2026-10-30T11:33:58+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Else Mauhsstraat, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/else-mauhsstraat/room-2415111"
+  },
   "kamernet:2415118": {
     "city": "Maarssen",
     "first_seen": "2026-10-29T23:53:15+00:00",
@@ -12383,6 +12431,22 @@
     "title": "Maarsseveensegrachtje, Maarssen",
     "url": "https://kamernet.nl/en/for-rent/room-maarssen/maarsseveensegrachtje/room-2415118"
   },
+  "kamernet:2415124": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-30T11:33:58+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Steve Bikoplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/steve-bikoplein/room-2415124"
+  },
+  "kamernet:2415127": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-10-30T11:33:58+00:00",
+    "notified": false,
+    "price": 1094,
+    "title": "Graan voor Visch, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/graan-voor-visch/room-2415127"
+  },
   "kamernet:2415136": {
     "city": "Utrecht",
     "first_seen": "2026-10-29T23:53:15+00:00",
@@ -12390,5 +12454,61 @@
     "price": 1250,
     "title": "Van Eysingalaan, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-eysingalaan/room-2415136"
+  },
+  "kamernet:2415146": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-30T11:33:58+00:00",
+    "notified": true,
+    "price": 650,
+    "title": "small nice room",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kempenlaan/room-2415146"
+  },
+  "kamernet:2415154": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-30T11:33:58+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "14m2 room for rent Piet Mondriaanstraat 110 West",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/piet-mondriaanstraat/room-2415154"
+  },
+  "kamernet:2415161": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-30T11:33:58+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Leuke nette kamer",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/korfoedreef/room-2415161"
+  },
+  "kamernet:2415162": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-30T11:33:58+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Arondeusstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/arondeusstraat/room-2415162"
+  },
+  "kamernet:2415163": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-30T11:33:58+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Spuistraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2415163"
+  },
+  "kamernet:2415178": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-30T11:33:58+00:00",
+    "notified": true,
+    "price": 599,
+    "title": "Nice room nearbij Reigersbos metrostation",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/remmerdenplein/room-2415178"
+  },
+  "kamernet:2415179": {
+    "city": "Haarlem",
+    "first_seen": "2026-10-30T11:33:58+00:00",
+    "notified": false,
+    "price": 695,
+    "title": "Eksterlaan, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/eksterlaan/room-2415179"
   }
 }
