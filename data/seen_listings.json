@@ -12543,6 +12543,14 @@
     "title": "Swammerdamstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/swammerdamstraat/room-2415201"
   },
+  "kamernet:2415206": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 1545,
+    "title": "Joos de Moorstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/joos-de-moorstraat/room-2415206"
+  },
   "kamernet:2415211": {
     "city": "Naarden",
     "first_seen": "2026-10-30T17:11:04+00:00",
@@ -12599,6 +12607,22 @@
     "title": "Poederooienstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/poederooienstraat/room-2415241"
   },
+  "kamernet:2415274": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 1199,
+    "title": "Oude Pijlsweerdstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/oude-pijlsweerdstraat/room-2415274"
+  },
+  "kamernet:2415276": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Ben Viljoenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-viljoenstraat/room-2415276"
+  },
   "kamernet:2415298": {
     "city": "Utrecht",
     "first_seen": "2026-10-30T21:36:46+00:00",
@@ -12606,5 +12630,133 @@
     "price": 1100,
     "title": "Sweder van Zuylenweg, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/sweder-van-zuylenweg/room-2415298"
+  },
+  "kamernet:2415311": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 1280,
+    "title": "Admiralengracht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/admiralengracht/room-2415311"
+  },
+  "kamernet:2415313": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Medanstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/medanstraat/room-2415313"
+  },
+  "kamernet:2415319": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Leuvenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leuvenstraat/room-2415319"
+  },
+  "kamernet:2415320": {
+    "city": "Zaandam",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Opera, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/opera/room-2415320"
+  },
+  "kamernet:2415326": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 680,
+    "title": "Voordek, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/voordek/room-2415326"
+  },
+  "kamernet:2415327": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 1375,
+    "title": "Wijsmullerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wijsmullerstraat/room-2415327"
+  },
+  "kamernet:2415349": {
+    "city": "Almere",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 860,
+    "title": "Smildestraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/smildestraat/room-2415349"
+  },
+  "kamernet:2415356": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 960,
+    "title": "Hamontstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hamontstraat/room-2415356"
+  },
+  "kamernet:2415360": {
+    "city": "Woerden",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 575,
+    "title": "Prinsenlaan, Woerden",
+    "url": "https://kamernet.nl/en/for-rent/room-woerden/prinsenlaan/room-2415360"
+  },
+  "kamernet:2415375": {
+    "city": "Naarden",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Kolonel Palmstraat, Naarden",
+    "url": "https://kamernet.nl/en/for-rent/room-naarden/kolonel-palmstraat/room-2415375"
+  },
+  "kamernet:2415377": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 940,
+    "title": "Blauwvoetstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/blauwvoetstraat/room-2415377"
+  },
+  "kamernet:2415379": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Ophemerthof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ophemerthof/room-2415379"
+  },
+  "kamernet:2415382": {
+    "city": "Utrecht",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 510,
+    "title": "Brederoplein, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/brederoplein/room-2415382"
+  },
+  "kamernet:2415383": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 1650,
+    "title": "Herengracht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/herengracht/room-2415383"
+  },
+  "kamernet:2415385": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Albert Cuypstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/albert-cuypstraat/room-2415385"
+  },
+  "kamernet:2415391": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-31T13:34:58+00:00",
+    "notified": false,
+    "price": 1450,
+    "title": "Oostelijke Handelskade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oostelijke-handelskade/room-2415391"
   }
 }
