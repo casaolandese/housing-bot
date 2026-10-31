@@ -391,6 +391,14 @@
     "title": "Nature apartment surrounded by green @ Gaasperplas",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leerdamhof/room-1947945"
   },
+  "kamernet:1963037": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-31T17:55:56+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Dijkgraafplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/dijkgraafplein/room-1963037"
+  },
   "kamernet:2027645": {
     "city": "Utrecht",
     "first_seen": "2026-10-17T11:07:04+00:00",
@@ -12758,5 +12766,21 @@
     "price": 1450,
     "title": "Oostelijke Handelskade, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oostelijke-handelskade/room-2415391"
+  },
+  "kamernet:2415400": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-31T17:55:56+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Ophemerthof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ophemerthof/room-2415400"
+  },
+  "kamernet:2415404": {
+    "city": "Wormerveer",
+    "first_seen": "2026-10-31T17:55:56+00:00",
+    "notified": false,
+    "price": 400,
+    "title": "Noordeinde, Wormerveer",
+    "url": "https://kamernet.nl/en/for-rent/room-wormerveer/noordeinde/room-2415404"
   }
 }
