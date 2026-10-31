@@ -12782,5 +12782,13 @@
     "price": 400,
     "title": "Noordeinde, Wormerveer",
     "url": "https://kamernet.nl/en/for-rent/room-wormerveer/noordeinde/room-2415404"
+  },
+  "kamernet:2415416": {
+    "city": "Amsterdam",
+    "first_seen": "2026-10-31T21:22:27+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Gooise Kant, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gooise-kant/room-2415416"
   }
 }
