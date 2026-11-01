@@ -703,6 +703,14 @@
     "title": "Praterlaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/praterlaan/room-2363204"
   },
+  "kamernet:2367212": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-01T18:50:27+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Fritz Conijnstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fritz-conijnstraat/room-2367212"
+  },
   "kamernet:2370283": {
     "city": "Amsterdam",
     "first_seen": "2026-08-25T16:18:35+00:00",
@@ -12871,6 +12879,22 @@
     "title": "Monarchvlinderlaan, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/monarchvlinderlaan/room-2415535"
   },
+  "kamernet:2415561": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-01T18:50:27+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Burgemeester Hogguerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/burgemeester-hogguerstraat/room-2415561"
+  },
+  "kamernet:2415570": {
+    "city": "Hilversum",
+    "first_seen": "2026-11-01T18:50:27+00:00",
+    "notified": false,
+    "price": 515,
+    "title": "Herenstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/herenstraat/room-2415570"
+  },
   "kamernet:2415576": {
     "city": "Utrecht",
     "first_seen": "2026-11-01T13:51:56+00:00",
@@ -12878,5 +12902,69 @@
     "price": 395,
     "title": "Prof. Wentlaan, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/prof-wentlaan/room-2415576"
+  },
+  "kamernet:2415581": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-01T18:50:27+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Hooivletstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hooivletstraat/room-2415581"
+  },
+  "kamernet:2415587": {
+    "city": "Diemen",
+    "first_seen": "2026-11-01T18:50:27+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Martin Luther Kinglaan, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/martin-luther-kinglaan/room-2415587"
+  },
+  "kamernet:2415591": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-01T18:50:27+00:00",
+    "notified": false,
+    "price": 855,
+    "title": "Fritz Conijnstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fritz-conijnstraat/room-2415591"
+  },
+  "kamernet:2415593": {
+    "city": "Hilversum",
+    "first_seen": "2026-11-01T18:50:27+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Schietspoel, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/schietspoel/room-2415593"
+  },
+  "kamernet:2415603": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-01T18:50:27+00:00",
+    "notified": false,
+    "price": 500,
+    "title": "Van der Hoopstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-der-hoopstraat/room-2415603"
+  },
+  "kamernet:2415610": {
+    "city": "De Bilt",
+    "first_seen": "2026-11-01T18:50:27+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Laan 1813, De Bilt",
+    "url": "https://kamernet.nl/en/for-rent/room-de-bilt/laan-1813/room-2415610"
+  },
+  "kamernet:2415617": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-11-01T18:50:27+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Marathonstraat, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/marathonstraat/room-2415617"
+  },
+  "kamernet:2415660": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-01T18:50:27+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Ruys de Beerenbrouckstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ruys-de-beerenbrouckstraat/room-2415660"
   }
 }
