@@ -12231,6 +12231,14 @@
     "title": "Willem de Zwijgerlaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/willem-de-zwijgerlaan/room-2414847"
   },
+  "kamernet:2414877": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-01T13:51:56+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Maldenhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/maldenhof/room-2414877"
+  },
   "kamernet:2414878": {
     "city": "Amsterdam",
     "first_seen": "2026-10-29T14:41:27+00:00",
@@ -12790,5 +12798,85 @@
     "price": 900,
     "title": "Gooise Kant, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gooise-kant/room-2415416"
+  },
+  "kamernet:2415426": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-01T13:51:56+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Koopvaardersplantsoen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koopvaardersplantsoen/room-2415426"
+  },
+  "kamernet:2415430": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-01T13:51:56+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Borneolaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/borneolaan/room-2415430"
+  },
+  "kamernet:2415460": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-01T13:51:56+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Maldenhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/maldenhof/room-2415460"
+  },
+  "kamernet:2415466": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-01T13:51:56+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Bart Poesiatstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bart-poesiatstraat/room-2415466"
+  },
+  "kamernet:2415475": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-01T13:51:56+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Ben Viljoenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-viljoenstraat/room-2415475"
+  },
+  "kamernet:2415487": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-01T13:51:56+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Ben van Meerendonkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2415487"
+  },
+  "kamernet:2415498": {
+    "city": "Amstelveen",
+    "first_seen": "2026-11-01T13:51:56+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Kardinaal de Jongstraat, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/kardinaal-de-jongstraat/room-2415498"
+  },
+  "kamernet:2415530": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-01T13:51:56+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Adelaarstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/adelaarstraat/room-2415530"
+  },
+  "kamernet:2415535": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-01T13:51:56+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Monarchvlinderlaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/monarchvlinderlaan/room-2415535"
+  },
+  "kamernet:2415576": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-01T13:51:56+00:00",
+    "notified": false,
+    "price": 395,
+    "title": "Prof. Wentlaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/prof-wentlaan/room-2415576"
   }
 }
