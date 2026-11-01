@@ -12966,5 +12966,13 @@
     "price": 800,
     "title": "Ruys de Beerenbrouckstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ruys-de-beerenbrouckstraat/room-2415660"
+  },
+  "kamernet:2415669": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-01T22:41:00+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Nicolaasweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/nicolaasweg/room-2415669"
   }
 }
