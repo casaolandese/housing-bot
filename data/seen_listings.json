@@ -12863,6 +12863,14 @@
     "title": "Kardinaal de Jongstraat, Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/kardinaal-de-jongstraat/room-2415498"
   },
+  "kamernet:2415517": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-02T09:15:31+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Reigersbos, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/reigersbos/room-2415517"
+  },
   "kamernet:2415530": {
     "city": "Utrecht",
     "first_seen": "2026-11-01T13:51:56+00:00",
@@ -12959,6 +12967,14 @@
     "title": "Marathonstraat, Hoofddorp",
     "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/marathonstraat/room-2415617"
   },
+  "kamernet:2415627": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-02T09:15:31+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Oostelijke Handelskade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oostelijke-handelskade/room-2415627"
+  },
   "kamernet:2415660": {
     "city": "Amsterdam",
     "first_seen": "2026-11-01T18:50:27+00:00",
@@ -12967,6 +12983,14 @@
     "title": "Ruys de Beerenbrouckstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ruys-de-beerenbrouckstraat/room-2415660"
   },
+  "kamernet:2415663": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-02T09:15:31+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Willem de Zwijgerlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/willem-de-zwijgerlaan/room-2415663"
+  },
   "kamernet:2415669": {
     "city": "Utrecht",
     "first_seen": "2026-11-01T22:41:00+00:00",
@@ -12974,5 +12998,45 @@
     "price": 750,
     "title": "Nicolaasweg, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/nicolaasweg/room-2415669"
+  },
+  "kamernet:2415679": {
+    "city": "Weesp",
+    "first_seen": "2026-11-02T09:15:31+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Keulsevaartstraat, Weesp",
+    "url": "https://kamernet.nl/en/for-rent/room-weesp/keulsevaartstraat/room-2415679"
+  },
+  "kamernet:2415706": {
+    "city": "Maarssen",
+    "first_seen": "2026-11-02T09:15:31+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Zwanenkamp, Maarssen",
+    "url": "https://kamernet.nl/en/for-rent/room-maarssen/zwanenkamp/room-2415706"
+  },
+  "kamernet:2415712": {
+    "city": "Amstelveen",
+    "first_seen": "2026-11-02T09:15:31+00:00",
+    "notified": false,
+    "price": 830,
+    "title": "Meander, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/meander/room-2415712"
+  },
+  "kamernet:2415734": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-02T09:15:31+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Pantograafstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pantograafstraat/room-2415734"
+  },
+  "kamernet:2415741": {
+    "city": "Soest",
+    "first_seen": "2026-11-02T09:15:31+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Valeriaanstraat, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/valeriaanstraat/room-2415741"
   }
 }
