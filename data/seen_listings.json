@@ -12663,6 +12663,14 @@
     "title": "Sweder van Zuylenweg, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/sweder-van-zuylenweg/room-2415298"
   },
+  "kamernet:2415308": {
+    "city": "Diemen",
+    "first_seen": "2026-11-03T08:41:34+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Tobias Asserlaan, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/tobias-asserlaan/room-2415308"
+  },
   "kamernet:2415311": {
     "city": "Amsterdam",
     "first_seen": "2026-10-31T13:34:58+00:00",
@@ -13159,6 +13167,22 @@
     "title": "Brandaris, Zaandam",
     "url": "https://kamernet.nl/en/for-rent/room-zaandam/brandaris/room-2415910"
   },
+  "kamernet:2415913": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-03T08:41:34+00:00",
+    "notified": false,
+    "price": 1702,
+    "title": "Stadhouderskade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/stadhouderskade/room-2415913"
+  },
+  "kamernet:2415931": {
+    "city": "Diemen",
+    "first_seen": "2026-11-03T08:41:34+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Rietzangerweg, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/rietzangerweg/room-2415931"
+  },
   "kamernet:2415965": {
     "city": "Utrecht",
     "first_seen": "2026-11-03T01:47:36+00:00",
@@ -13166,5 +13190,13 @@
     "price": 695,
     "title": "Surinamestraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/surinamestraat/room-2415965"
+  },
+  "kamernet:2416005": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-03T08:41:34+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Sleewijkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/sleewijkstraat/room-2416005"
   }
 }
