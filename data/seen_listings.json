@@ -13158,5 +13158,13 @@
     "price": 1100,
     "title": "Brandaris, Zaandam",
     "url": "https://kamernet.nl/en/for-rent/room-zaandam/brandaris/room-2415910"
+  },
+  "kamernet:2415965": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-03T01:47:36+00:00",
+    "notified": false,
+    "price": 695,
+    "title": "Surinamestraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/surinamestraat/room-2415965"
   }
 }
