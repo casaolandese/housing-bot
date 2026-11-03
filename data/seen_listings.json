@@ -13350,5 +13350,61 @@
     "price": 1200,
     "title": "Ben van Meerendonkstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2416144"
+  },
+  "kamernet:2416164": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-03T22:02:18+00:00",
+    "notified": false,
+    "price": 500,
+    "title": "Rooseveltlaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/rooseveltlaan/room-2416164"
+  },
+  "kamernet:2416169": {
+    "city": "Haarlem",
+    "first_seen": "2026-11-03T22:02:18+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Ben Viljoenstraat, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/ben-viljoenstraat/room-2416169"
+  },
+  "kamernet:2416182": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-11-03T22:02:18+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Ansinghlaan, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/ansinghlaan/room-2416182"
+  },
+  "kamernet:2416191": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-03T22:02:18+00:00",
+    "notified": false,
+    "price": 670,
+    "title": "Pieter Calandlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pieter-calandlaan/room-2416191"
+  },
+  "kamernet:2416199": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-03T22:02:18+00:00",
+    "notified": false,
+    "price": 1490,
+    "title": "Vincent van Goghstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/vincent-van-goghstraat/room-2416199"
+  },
+  "kamernet:2416219": {
+    "city": "Haarlem",
+    "first_seen": "2026-11-03T22:02:18+00:00",
+    "notified": false,
+    "price": 745,
+    "title": "Cremerplein, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/cremerplein/room-2416219"
+  },
+  "kamernet:2416225": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-03T22:02:18+00:00",
+    "notified": false,
+    "price": 610,
+    "title": "Pieter Calandlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pieter-calandlaan/room-2416225"
   }
 }
