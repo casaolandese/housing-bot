@@ -12895,6 +12895,14 @@
     "title": "Adelaarstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/adelaarstraat/room-2415530"
   },
+  "kamernet:2415534": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Monarchvlinderlaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/monarchvlinderlaan/room-2415534"
+  },
   "kamernet:2415535": {
     "city": "Utrecht",
     "first_seen": "2026-11-01T13:51:56+00:00",
@@ -13198,5 +13206,149 @@
     "price": 850,
     "title": "Sleewijkstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/sleewijkstraat/room-2416005"
+  },
+  "kamernet:2416038": {
+    "city": "Haarlem",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Freudstraat, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/freudstraat/room-2416038"
+  },
+  "kamernet:2416054": {
+    "city": "Soest",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Choristenpad, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/choristenpad/room-2416054"
+  },
+  "kamernet:2416071": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 380,
+    "title": "Nico Jessekade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nico-jessekade/room-2416071"
+  },
+  "kamernet:2416079": {
+    "city": "Zaandam",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Pharus, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/pharus/room-2416079"
+  },
+  "kamernet:2416091": {
+    "city": "Haarlem",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 1201,
+    "title": "Spaarne, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/spaarne/room-2416091"
+  },
+  "kamernet:2416094": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Spinakerhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spinakerhof/room-2416094"
+  },
+  "kamernet:2416096": {
+    "city": "Naarden",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Hans Bentinckstraat, Naarden",
+    "url": "https://kamernet.nl/en/for-rent/room-naarden/hans-bentinckstraat/room-2416096"
+  },
+  "kamernet:2416104": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Reigersbos, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/reigersbos/room-2416104"
+  },
+  "kamernet:2416106": {
+    "city": "Hilversum",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 595,
+    "title": "Langestraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/langestraat/room-2416106"
+  },
+  "kamernet:2416109": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 1180,
+    "title": "Postjesweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjesweg/room-2416109"
+  },
+  "kamernet:2416111": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 562,
+    "title": "Steenweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/steenweg/room-2416111"
+  },
+  "kamernet:2416115": {
+    "city": "Maarssen",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 500,
+    "title": "Emmaweg, Maarssen",
+    "url": "https://kamernet.nl/en/for-rent/room-maarssen/emmaweg/room-2416115"
+  },
+  "kamernet:2416116": {
+    "city": "Hilversum",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 675,
+    "title": "Eemnesserweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/eemnesserweg/room-2416116"
+  },
+  "kamernet:2416117": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Rooseveltlaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/rooseveltlaan/room-2416117"
+  },
+  "kamernet:2416132": {
+    "city": "Almere",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Staverenstraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/staverenstraat/room-2416132"
+  },
+  "kamernet:2416136": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Hendrik Werkmanstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hendrik-werkmanstraat/room-2416136"
+  },
+  "kamernet:2416140": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 599,
+    "title": "Remmerdenplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/remmerdenplein/room-2416140"
+  },
+  "kamernet:2416144": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-03T16:38:54+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Ben van Meerendonkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2416144"
   }
 }
