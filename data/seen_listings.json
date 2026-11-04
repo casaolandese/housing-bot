@@ -12799,6 +12799,14 @@
     "title": "Oostelijke Handelskade, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oostelijke-handelskade/room-2415391"
   },
+  "kamernet:2415393": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-04T09:31:33+00:00",
+    "notified": false,
+    "price": 945,
+    "title": "Kerkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kerkstraat/room-2415393"
+  },
   "kamernet:2415400": {
     "city": "Amsterdam",
     "first_seen": "2026-10-31T17:55:56+00:00",
@@ -13151,6 +13159,14 @@
     "title": "Pietersbergweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pietersbergweg/room-2415843"
   },
+  "kamernet:2415851": {
+    "city": "Haarlem",
+    "first_seen": "2026-11-04T09:31:33+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Clothildestraat, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/clothildestraat/room-2415851"
+  },
   "kamernet:2415868": {
     "city": "Amsterdam",
     "first_seen": "2026-11-02T19:37:20+00:00",
@@ -13367,6 +13383,14 @@
     "title": "Ben Viljoenstraat, Haarlem",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/ben-viljoenstraat/room-2416169"
   },
+  "kamernet:2416178": {
+    "city": "Almere",
+    "first_seen": "2026-11-04T09:31:33+00:00",
+    "notified": false,
+    "price": 960,
+    "title": "Breukelengracht, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/breukelengracht/room-2416178"
+  },
   "kamernet:2416182": {
     "city": "Nieuwegein",
     "first_seen": "2026-11-03T22:02:18+00:00",
@@ -13374,6 +13398,14 @@
     "price": 800,
     "title": "Ansinghlaan, Nieuwegein",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/ansinghlaan/room-2416182"
+  },
+  "kamernet:2416185": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-04T09:31:33+00:00",
+    "notified": false,
+    "price": 743,
+    "title": "Chico Mendesstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/chico-mendesstraat/room-2416185"
   },
   "kamernet:2416191": {
     "city": "Amsterdam",
@@ -13399,6 +13431,14 @@
     "title": "Cremerplein, Haarlem",
     "url": "https://kamernet.nl/en/for-rent/room-haarlem/cremerplein/room-2416219"
   },
+  "kamernet:2416221": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-04T09:31:33+00:00",
+    "notified": false,
+    "price": 500,
+    "title": "Loenermark, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/loenermark/room-2416221"
+  },
   "kamernet:2416225": {
     "city": "Amsterdam",
     "first_seen": "2026-11-03T22:02:18+00:00",
@@ -13406,5 +13446,29 @@
     "price": 610,
     "title": "Pieter Calandlaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pieter-calandlaan/room-2416225"
+  },
+  "kamernet:2416230": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-04T09:31:33+00:00",
+    "notified": false,
+    "price": 1490,
+    "title": "H. Cleyndertweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2416230"
+  },
+  "kamernet:2416243": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-04T09:31:33+00:00",
+    "notified": false,
+    "price": 1490,
+    "title": "Swammerdamstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/swammerdamstraat/room-2416243"
+  },
+  "kamernet:2416254": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-04T09:31:33+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Lontarpalmstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/lontarpalmstraat/room-2416254"
   }
 }
