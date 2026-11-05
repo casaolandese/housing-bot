@@ -12551,6 +12551,14 @@
     "title": "Spuistraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2415163"
   },
+  "kamernet:2415175": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-05T11:25:30+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Strandeilandlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/strandeilandlaan/room-2415175"
+  },
   "kamernet:2415178": {
     "city": "Amsterdam",
     "first_seen": "2026-10-30T11:33:58+00:00",
@@ -13606,5 +13614,69 @@
     "price": 1200,
     "title": "Ben van Meerendonkstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2416400"
+  },
+  "kamernet:2416425": {
+    "city": "Almere",
+    "first_seen": "2026-11-05T11:25:30+00:00",
+    "notified": false,
+    "price": 690,
+    "title": "Deurnestraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/deurnestraat/room-2416425"
+  },
+  "kamernet:2416432": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-05T11:25:30+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Herengracht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/herengracht/room-2416432"
+  },
+  "kamernet:2416435": {
+    "city": "Nieuw-Vennep",
+    "first_seen": "2026-11-05T11:25:30+00:00",
+    "notified": false,
+    "price": 825,
+    "title": "Venneperweg, Nieuw-Vennep",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuw-vennep/venneperweg/room-2416435"
+  },
+  "kamernet:2416454": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-05T11:25:30+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Dijkgraafplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/dijkgraafplein/room-2416454"
+  },
+  "kamernet:2416500": {
+    "city": "Amstelveen",
+    "first_seen": "2026-11-05T11:25:30+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Else Mauhsstraat, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/else-mauhsstraat/room-2416500"
+  },
+  "kamernet:2416517": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-05T11:25:30+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Van Eysingalaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-eysingalaan/room-2416517"
+  },
+  "kamernet:2416518": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-05T11:25:30+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Faustdreef, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/faustdreef/room-2416518"
+  },
+  "kamernet:2416544": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-05T11:25:30+00:00",
+    "notified": false,
+    "price": 1490,
+    "title": "H. Cleyndertweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2416544"
   }
 }
