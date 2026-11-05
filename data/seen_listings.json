@@ -13678,5 +13678,93 @@
     "price": 1490,
     "title": "H. Cleyndertweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2416544"
+  },
+  "kamernet:2416562": {
+    "city": "Diemen",
+    "first_seen": "2026-11-05T18:55:24+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Martin Luther Kinglaan, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/martin-luther-kinglaan/room-2416562"
+  },
+  "kamernet:2416565": {
+    "city": "Diemen",
+    "first_seen": "2026-11-05T18:55:24+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Klipperweg, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/klipperweg/room-2416565"
+  },
+  "kamernet:2416570": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-05T18:55:24+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Thomas a Kempisweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/thomas-a-kempisweg/room-2416570"
+  },
+  "kamernet:2416574": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-05T18:55:24+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Spuistraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2416574"
+  },
+  "kamernet:2416576": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-05T18:55:24+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Erik de Roodestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erik-de-roodestraat/room-2416576"
+  },
+  "kamernet:2416605": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-05T18:55:24+00:00",
+    "notified": false,
+    "price": 925,
+    "title": "Adelaarstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/adelaarstraat/room-2416605"
+  },
+  "kamernet:2416606": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-05T18:55:24+00:00",
+    "notified": false,
+    "price": 1850,
+    "title": "Kerkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kerkstraat/room-2416606"
+  },
+  "kamernet:2416616": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-11-05T18:55:24+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Van Kootenstraat, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/van-kootenstraat/room-2416616"
+  },
+  "kamernet:2416642": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-11-05T18:55:24+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Herteweide, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/herteweide/room-2416642"
+  },
+  "kamernet:2416643": {
+    "city": "Katwoude",
+    "first_seen": "2026-11-05T18:55:24+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Wagenweg, Katwoude",
+    "url": "https://kamernet.nl/en/for-rent/room-katwoude/wagenweg/room-2416643"
+  },
+  "kamernet:2416651": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-05T18:55:24+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Wannepad, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wannepad/room-2416651"
   }
 }
