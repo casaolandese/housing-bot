@@ -13766,5 +13766,21 @@
     "price": 750,
     "title": "Wannepad, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wannepad/room-2416651"
+  },
+  "kamernet:2416676": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-06T00:01:38+00:00",
+    "notified": false,
+    "price": 1450,
+    "title": "Swammerdamstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/swammerdamstraat/room-2416676"
+  },
+  "kamernet:2416685": {
+    "city": "Almere",
+    "first_seen": "2026-11-06T00:01:38+00:00",
+    "notified": false,
+    "price": 200,
+    "title": "Keiwierde, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/keiwierde/room-2416685"
   }
 }
