@@ -359,6 +359,14 @@
     "title": "Van Speijkstraat, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/van-speijkstraat/studio-521892"
   },
+  "directwonen:523738": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": true,
+    "price": 830,
+    "title": "Vrouwjuttenstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/vrouwjuttenstraat/kamer-523738"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
@@ -9159,6 +9167,14 @@
     "title": "2 Cozy Rooms Available in Amsterdam!",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/vatternkade/room-2410760"
   },
+  "kamernet:2410761": {
+    "city": "Haarlem",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 470,
+    "title": "Assendelverstraat, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/assendelverstraat/room-2410761"
+  },
   "kamernet:2410789": {
     "city": "Amsterdam",
     "first_seen": "2026-10-08T12:16:15+00:00",
@@ -13607,6 +13623,14 @@
     "title": "Zuiddijk, Zaandam",
     "url": "https://kamernet.nl/en/for-rent/room-zaandam/zuiddijk/room-2416363"
   },
+  "kamernet:2416393": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Wilhelminapark, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/wilhelminapark/room-2416393"
+  },
   "kamernet:2416400": {
     "city": "Amsterdam",
     "first_seen": "2026-11-04T17:31:12+00:00",
@@ -13719,6 +13743,14 @@
     "title": "Erik de Roodestraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erik-de-roodestraat/room-2416576"
   },
+  "kamernet:2416579": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Helena Kuipers-Rietberghof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/helena-kuipers-rietberghof/room-2416579"
+  },
   "kamernet:2416605": {
     "city": "Utrecht",
     "first_seen": "2026-11-05T18:55:24+00:00",
@@ -13767,6 +13799,22 @@
     "title": "Wannepad, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wannepad/room-2416651"
   },
+  "kamernet:2416661": {
+    "city": "Hilversum",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 625,
+    "title": "Hilvertsweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/hilvertsweg/room-2416661"
+  },
+  "kamernet:2416667": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 1099,
+    "title": "Oude Pijlsweerdstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/oude-pijlsweerdstraat/room-2416667"
+  },
   "kamernet:2416676": {
     "city": "Amsterdam",
     "first_seen": "2026-11-06T00:01:38+00:00",
@@ -13775,6 +13823,22 @@
     "title": "Swammerdamstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/swammerdamstraat/room-2416676"
   },
+  "kamernet:2416677": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Driedistelstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/driedistelstraat/room-2416677"
+  },
+  "kamernet:2416684": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Postjesweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjesweg/room-2416684"
+  },
   "kamernet:2416685": {
     "city": "Almere",
     "first_seen": "2026-11-06T00:01:38+00:00",
@@ -13782,5 +13846,93 @@
     "price": 200,
     "title": "Keiwierde, Almere",
     "url": "https://kamernet.nl/en/for-rent/room-almere/keiwierde/room-2416685"
+  },
+  "kamernet:2416686": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Loodskotterhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/loodskotterhof/room-2416686"
+  },
+  "kamernet:2416694": {
+    "city": "Hilversum",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Gomarushof, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/gomarushof/room-2416694"
+  },
+  "kamernet:2416696": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 1260,
+    "title": "Derde Kostverlorenkade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/derde-kostverlorenkade/room-2416696"
+  },
+  "kamernet:2416698": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Kempenlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kempenlaan/room-2416698"
+  },
+  "kamernet:2416701": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Willem de Zwijgerlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/willem-de-zwijgerlaan/room-2416701"
+  },
+  "kamernet:2416728": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Adelaarstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/adelaarstraat/room-2416728"
+  },
+  "kamernet:2416731": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 500,
+    "title": "Voordek, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/voordek/room-2416731"
+  },
+  "kamernet:2416735": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 995,
+    "title": "Rosa Manusstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/rosa-manusstraat/room-2416735"
+  },
+  "kamernet:2416748": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 763,
+    "title": "Clauskindereweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/clauskindereweg/room-2416748"
+  },
+  "kamernet:2416807": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 599,
+    "title": "Remmerdenplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/remmerdenplein/room-2416807"
+  },
+  "kamernet:2416832": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-06T14:37:44+00:00",
+    "notified": false,
+    "price": 925,
+    "title": "Steijnstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/steijnstraat/room-2416832"
   }
 }
