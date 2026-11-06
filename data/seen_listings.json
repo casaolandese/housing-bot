@@ -13934,5 +13934,37 @@
     "price": 925,
     "title": "Steijnstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/steijnstraat/room-2416832"
+  },
+  "kamernet:2416835": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-06T20:36:27+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Wijsmullerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/wijsmullerstraat/room-2416835"
+  },
+  "kamernet:2416854": {
+    "city": "Almere",
+    "first_seen": "2026-11-06T20:36:27+00:00",
+    "notified": false,
+    "price": 608,
+    "title": "Keiwierde, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/keiwierde/room-2416854"
+  },
+  "kamernet:2416899": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-06T20:36:27+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Nieuwevaart, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwevaart/room-2416899"
+  },
+  "kamernet:2416906": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-06T20:36:27+00:00",
+    "notified": false,
+    "price": 875,
+    "title": "Korte Prinsengracht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/korte-prinsengracht/room-2416906"
   }
 }
