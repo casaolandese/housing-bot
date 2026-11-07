@@ -14054,5 +14054,13 @@
     "price": 1290,
     "title": "H. Cleyndertweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2417003"
+  },
+  "kamernet:2417085": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-07T22:01:16+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Swammerdamstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/swammerdamstraat/room-2417085"
   }
 }
