@@ -13951,6 +13951,22 @@
     "title": "Keiwierde, Almere",
     "url": "https://kamernet.nl/en/for-rent/room-almere/keiwierde/room-2416854"
   },
+  "kamernet:2416892": {
+    "city": "Amstelveen",
+    "first_seen": "2026-11-07T13:28:26+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Keizer Karelweg, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/keizer-karelweg/room-2416892"
+  },
+  "kamernet:2416897": {
+    "city": "Mijdrecht",
+    "first_seen": "2026-11-07T13:28:26+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Leeuwerik, Mijdrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-mijdrecht/leeuwerik/room-2416897"
+  },
   "kamernet:2416899": {
     "city": "Amsterdam",
     "first_seen": "2026-11-06T20:36:27+00:00",
@@ -13966,5 +13982,77 @@
     "price": 875,
     "title": "Korte Prinsengracht, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/korte-prinsengracht/room-2416906"
+  },
+  "kamernet:2416937": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-07T13:28:26+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Sleewijkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/sleewijkstraat/room-2416937"
+  },
+  "kamernet:2416966": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-07T13:28:26+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Van Tuyll van Serooskerkenweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-tuyll-van-serooskerkenweg/room-2416966"
+  },
+  "kamernet:2416967": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-07T13:28:26+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Overleg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/overleg/room-2416967"
+  },
+  "kamernet:2416969": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-07T13:28:26+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Sleewijkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/sleewijkstraat/room-2416969"
+  },
+  "kamernet:2416972": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-07T13:28:26+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Ben van Meerendonkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2416972"
+  },
+  "kamernet:2416978": {
+    "city": "Zeist",
+    "first_seen": "2026-11-07T13:28:26+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Driebergseweg, Zeist",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/driebergseweg/room-2416978"
+  },
+  "kamernet:2416991": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-07T13:28:26+00:00",
+    "notified": false,
+    "price": 885,
+    "title": "Overtoom, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/overtoom/room-2416991"
+  },
+  "kamernet:2416995": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-07T13:28:26+00:00",
+    "notified": false,
+    "price": 935,
+    "title": "Albatrosstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/albatrosstraat/room-2416995"
+  },
+  "kamernet:2417003": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-07T13:28:26+00:00",
+    "notified": false,
+    "price": 1290,
+    "title": "H. Cleyndertweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2417003"
   }
 }
