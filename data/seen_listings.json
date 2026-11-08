@@ -11823,6 +11823,14 @@
     "title": "Room in Houten",
     "url": "https://kamernet.nl/en/for-rent/room-houten/de-molen/room-2414035"
   },
+  "kamernet:2414039": {
+    "city": "Rijsenhout",
+    "first_seen": "2026-11-08T14:57:49+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Leimuiderdijk, Rijsenhout",
+    "url": "https://kamernet.nl/en/for-rent/room-rijsenhout/leimuiderdijk/room-2414039"
+  },
   "kamernet:2414042": {
     "city": "Amsterdam",
     "first_seen": "2026-10-26T14:25:03+00:00",
@@ -12430,6 +12438,14 @@
     "price": 550,
     "title": "Jan van der Heijdenstraat, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/jan-van-der-heijdenstraat/room-2415028"
+  },
+  "kamernet:2415032": {
+    "city": "Zeist",
+    "first_seen": "2026-11-08T14:57:49+00:00",
+    "notified": true,
+    "price": 425,
+    "title": "Te huur mooie kamer in Zeist, geschikt voor nette",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/utrechtseweg/room-2415032"
   },
   "kamernet:2415038": {
     "city": "Amsterdam",
@@ -13703,6 +13719,14 @@
     "title": "H. Cleyndertweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2416544"
   },
+  "kamernet:2416552": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-08T14:57:49+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Otterstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/otterstraat/room-2416552"
+  },
   "kamernet:2416562": {
     "city": "Diemen",
     "first_seen": "2026-11-05T18:55:24+00:00",
@@ -14055,6 +14079,14 @@
     "title": "H. Cleyndertweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2417003"
   },
+  "kamernet:2417071": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-08T14:57:49+00:00",
+    "notified": false,
+    "price": 945,
+    "title": "Blauwvoetstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/blauwvoetstraat/room-2417071"
+  },
   "kamernet:2417085": {
     "city": "Amsterdam",
     "first_seen": "2026-11-07T22:01:16+00:00",
@@ -14062,5 +14094,77 @@
     "price": 1400,
     "title": "Swammerdamstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/swammerdamstraat/room-2417085"
+  },
+  "kamernet:2417108": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-08T14:57:49+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Weteringschans, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/weteringschans/room-2417108"
+  },
+  "kamernet:2417116": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-08T14:57:49+00:00",
+    "notified": false,
+    "price": 730,
+    "title": "Hengeveldstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/hengeveldstraat/room-2417116"
+  },
+  "kamernet:2417117": {
+    "city": "Haarlem",
+    "first_seen": "2026-11-08T14:57:49+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Schoterweg, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/schoterweg/room-2417117"
+  },
+  "kamernet:2417121": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-08T14:57:49+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Tolkamerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tolkamerstraat/room-2417121"
+  },
+  "kamernet:2417123": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-08T14:57:49+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Postjeskade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjeskade/room-2417123"
+  },
+  "kamernet:2417130": {
+    "city": "Zaandam",
+    "first_seen": "2026-11-08T14:57:49+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Oostzijde, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/oostzijde/room-2417130"
+  },
+  "kamernet:2417141": {
+    "city": "Ankeveen",
+    "first_seen": "2026-11-08T14:57:49+00:00",
+    "notified": false,
+    "price": 820,
+    "title": "Hollands End, Ankeveen",
+    "url": "https://kamernet.nl/en/for-rent/room-ankeveen/hollands-end/room-2417141"
+  },
+  "kamernet:2417196": {
+    "city": "Almere",
+    "first_seen": "2026-11-08T14:57:49+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Workumstraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/workumstraat/room-2417196"
+  },
+  "kamernet:2417199": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-11-08T14:57:49+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Simonszand, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/simonszand/room-2417199"
   }
 }
