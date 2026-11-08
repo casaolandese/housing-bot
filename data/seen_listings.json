@@ -14135,6 +14135,14 @@
     "title": "Postjeskade, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjeskade/room-2417123"
   },
+  "kamernet:2417126": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-08T19:30:11+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Albatrosstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/albatrosstraat/room-2417126"
+  },
   "kamernet:2417130": {
     "city": "Zaandam",
     "first_seen": "2026-11-08T14:57:49+00:00",
