@@ -14174,5 +14174,13 @@
     "price": 850,
     "title": "Simonszand, Hoofddorp",
     "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/simonszand/room-2417199"
+  },
+  "kamernet:2417275": {
+    "city": "Soest",
+    "first_seen": "2026-11-09T02:39:03+00:00",
+    "notified": false,
+    "price": 675,
+    "title": "den Blieklaan, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/den-blieklaan/room-2417275"
   }
 }
