@@ -14223,6 +14223,14 @@
     "title": "Kromme Leimuidenstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kromme-leimuidenstraat/room-2417249"
   },
+  "kamernet:2417260": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-10T11:39:55+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Van Eysingalaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-eysingalaan/room-2417260"
+  },
   "kamernet:2417275": {
     "city": "Soest",
     "first_seen": "2026-11-09T02:39:03+00:00",
@@ -14359,6 +14367,14 @@
     "title": "Simon Stevinlaan, Soesterberg",
     "url": "https://kamernet.nl/en/for-rent/room-soesterberg/simon-stevinlaan/room-2417375"
   },
+  "kamernet:2417400": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-11-10T11:39:55+00:00",
+    "notified": false,
+    "price": 630,
+    "title": "Hoornseschans, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/hoornseschans/room-2417400"
+  },
   "kamernet:2417402": {
     "city": "Amsterdam",
     "first_seen": "2026-11-09T20:59:44+00:00",
@@ -14431,6 +14447,30 @@
     "title": "Bart Poesiatstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bart-poesiatstraat/room-2417446"
   },
+  "kamernet:2417472": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-10T11:39:55+00:00",
+    "notified": false,
+    "price": 1045,
+    "title": "Tannhauserdreef, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/tannhauserdreef/room-2417472"
+  },
+  "kamernet:2417477": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-10T11:39:55+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Leenhofstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leenhofstraat/room-2417477"
+  },
+  "kamernet:2417488": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-11-10T11:39:55+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Anna Blamanstraat, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/anna-blamanstraat/room-2417488"
+  },
   "kamernet:2417490": {
     "city": "Amsterdam",
     "first_seen": "2026-11-09T20:59:44+00:00",
@@ -14438,5 +14478,85 @@
     "price": 850,
     "title": "Piet Mondriaanstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/piet-mondriaanstraat/room-2417490"
+  },
+  "kamernet:2417491": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-11-10T11:39:55+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Anna Blamanstraat, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/anna-blamanstraat/room-2417491"
+  },
+  "kamernet:2417496": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-10T11:39:55+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Nicolaas Ruychaverstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/nicolaas-ruychaverstraat/room-2417496"
+  },
+  "kamernet:2417502": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-10T11:39:55+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Zeeburgerkade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/zeeburgerkade/room-2417502"
+  },
+  "kamernet:2417505": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-10T11:39:55+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Salawatihof, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/salawatihof/room-2417505"
+  },
+  "kamernet:2417519": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-10T11:39:55+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Marco Polostraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/marco-polostraat/room-2417519"
+  },
+  "kamernet:2417520": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-10T11:39:55+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Toutenburgstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/toutenburgstraat/room-2417520"
+  },
+  "kamernet:2417532": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-10T11:39:55+00:00",
+    "notified": false,
+    "price": 1450,
+    "title": "Frans Halsstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/frans-halsstraat/room-2417532"
+  },
+  "kamernet:2417536": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-10T11:39:55+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Admiraal De Ruijterweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/admiraal-de-ruijterweg/room-2417536"
+  },
+  "kamernet:2417541": {
+    "city": "Diemen",
+    "first_seen": "2026-11-10T11:39:55+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Martin Luther Kinglaan, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/martin-luther-kinglaan/room-2417541"
+  },
+  "kamernet:2417564": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-10T11:39:55+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Kennemerduinstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kennemerduinstraat/room-2417564"
   }
 }
