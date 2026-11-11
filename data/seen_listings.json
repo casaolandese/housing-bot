@@ -14734,5 +14734,141 @@
     "price": 1000,
     "title": "Nieuwendijk, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwendijk/room-2417722"
+  },
+  "kamernet:2417731": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Reigersbos, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/reigersbos/room-2417731"
+  },
+  "kamernet:2417742": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 1450,
+    "title": "Prof. Kohnstammstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/prof-kohnstammstraat/room-2417742"
+  },
+  "kamernet:2417754": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 599,
+    "title": "Remmerdenplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/remmerdenplein/room-2417754"
+  },
+  "kamernet:2417782": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Vaartscherijnstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/vaartscherijnstraat/room-2417782"
+  },
+  "kamernet:2417790": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Midscheeps, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/midscheeps/room-2417790"
+  },
+  "kamernet:2417793": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 537,
+    "title": "Kerkveld, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/kerkveld/room-2417793"
+  },
+  "kamernet:2417810": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Stootvalk, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/stootvalk/room-2417810"
+  },
+  "kamernet:2417811": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Stootvalk, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/stootvalk/room-2417811"
+  },
+  "kamernet:2417834": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 770,
+    "title": "Hogevecht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hogevecht/room-2417834"
+  },
+  "kamernet:2417843": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Loenermark, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/loenermark/room-2417843"
+  },
+  "kamernet:2417848": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 2000,
+    "title": "Biesboschstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/biesboschstraat/room-2417848"
+  },
+  "kamernet:2417877": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Nachtwachtlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nachtwachtlaan/room-2417877"
+  },
+  "kamernet:2417890": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 425,
+    "title": "Plesmanlaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/plesmanlaan/room-2417890"
+  },
+  "kamernet:2417908": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Nieuwezijds Voorburgwal, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwezijds-voorburgwal/room-2417908"
+  },
+  "kamernet:2417923": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Theo Frenkelhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/theo-frenkelhof/room-2417923"
+  },
+  "kamernet:2417924": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Kantershof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kantershof/room-2417924"
+  },
+  "kamernet:2417932": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-11T14:01:51+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Rubicondreef, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/rubicondreef/room-2417932"
   }
 }
