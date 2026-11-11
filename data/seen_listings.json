@@ -14079,6 +14079,14 @@
     "title": "Driebergseweg, Zeist",
     "url": "https://kamernet.nl/en/for-rent/room-zeist/driebergseweg/room-2416978"
   },
+  "kamernet:2416980": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-11T21:23:05+00:00",
+    "notified": false,
+    "price": 1650,
+    "title": "Koopvaardersplantsoen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koopvaardersplantsoen/room-2416980"
+  },
   "kamernet:2416991": {
     "city": "Amsterdam",
     "first_seen": "2026-11-07T13:28:26+00:00",
@@ -14799,6 +14807,14 @@
     "title": "Stootvalk, Nieuwegein",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/stootvalk/room-2417811"
   },
+  "kamernet:2417826": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-11T21:23:05+00:00",
+    "notified": false,
+    "price": 1700,
+    "title": "Egelantiersstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/egelantiersstraat/room-2417826"
+  },
   "kamernet:2417834": {
     "city": "Amsterdam",
     "first_seen": "2026-11-11T14:01:51+00:00",
@@ -14870,5 +14886,45 @@
     "price": 700,
     "title": "Rubicondreef, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/rubicondreef/room-2417932"
+  },
+  "kamernet:2417962": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-11-11T21:23:05+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "De Fruittuinen, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/de-fruittuinen/room-2417962"
+  },
+  "kamernet:2417968": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-11T21:23:05+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Burgemeester Cramergracht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/burgemeester-cramergracht/room-2417968"
+  },
+  "kamernet:2417971": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-11T21:23:05+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Korte Prinsengracht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/korte-prinsengracht/room-2417971"
+  },
+  "kamernet:2417983": {
+    "city": "Hilversum",
+    "first_seen": "2026-11-11T21:23:05+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Hilvertsweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/hilvertsweg/room-2417983"
+  },
+  "kamernet:2417996": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-11T21:23:05+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Srefidensiplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/srefidensiplein/room-2417996"
   }
 }
