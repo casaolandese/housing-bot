@@ -13375,6 +13375,14 @@
     "title": "Postjesweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjesweg/room-2416109"
   },
+  "kamernet:2416110": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 1160,
+    "title": "Postjesweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjesweg/room-2416110"
+  },
   "kamernet:2416111": {
     "city": "Utrecht",
     "first_seen": "2026-11-03T16:38:54+00:00",
@@ -14110,6 +14118,14 @@
     "price": 1290,
     "title": "H. Cleyndertweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2417003"
+  },
+  "kamernet:2417030": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Klaroenlaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/klaroenlaan/room-2417030"
   },
   "kamernet:2417071": {
     "city": "Amsterdam",
@@ -14926,5 +14942,117 @@
     "price": 1000,
     "title": "Srefidensiplein, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/srefidensiplein/room-2417996"
+  },
+  "kamernet:2418013": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Raphael Lemkinstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/raphael-lemkinstraat/room-2418013"
+  },
+  "kamernet:2418015": {
+    "city": "Haarlem",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 450,
+    "title": "Theemsplein, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/theemsplein/room-2418015"
+  },
+  "kamernet:2418020": {
+    "city": "Almere",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 733,
+    "title": "Borodinstraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/borodinstraat/room-2418020"
+  },
+  "kamernet:2418039": {
+    "city": "Purmerend",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 790,
+    "title": "Burgemeester D. Kooimanweg, Purmerend",
+    "url": "https://kamernet.nl/en/for-rent/room-purmerend/burgemeester-d-kooimanweg/room-2418039"
+  },
+  "kamernet:2418040": {
+    "city": "Purmerend",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 990,
+    "title": "Burgemeester D. Kooimanweg, Purmerend",
+    "url": "https://kamernet.nl/en/for-rent/room-purmerend/burgemeester-d-kooimanweg/room-2418040"
+  },
+  "kamernet:2418054": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Maldenhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/maldenhof/room-2418054"
+  },
+  "kamernet:2418062": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Kempenlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kempenlaan/room-2418062"
+  },
+  "kamernet:2418073": {
+    "city": "Haarlem",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Bakenessergracht, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/bakenessergracht/room-2418073"
+  },
+  "kamernet:2418076": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 995,
+    "title": "Rosa Manusstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/rosa-manusstraat/room-2418076"
+  },
+  "kamernet:2418099": {
+    "city": "Zeist",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 910,
+    "title": "Wilhelminalaan, Zeist",
+    "url": "https://kamernet.nl/en/for-rent/room-zeist/wilhelminalaan/room-2418099"
+  },
+  "kamernet:2418113": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 1099,
+    "title": "Oude Pijlsweerdstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/oude-pijlsweerdstraat/room-2418113"
+  },
+  "kamernet:2418125": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Rhenenhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/rhenenhof/room-2418125"
+  },
+  "kamernet:2418141": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Maldenhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/maldenhof/room-2418141"
+  },
+  "kamernet:2418142": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-12T10:11:30+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Arnodreef, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/arnodreef/room-2418142"
   }
 }
