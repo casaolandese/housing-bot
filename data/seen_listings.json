@@ -31,6 +31,14 @@
     "title": "Willem Molengraaffstraat, Amsterdam",
     "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/willem-molengraaffstraat/kamer-510319"
   },
+  "directwonen:512961": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-12T18:25:43+00:00",
+    "notified": false,
+    "price": 1013,
+    "title": "Duivendrechtsekade, Amsterdam",
+    "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/duivendrechtsekade/studio-512961"
+  },
   "directwonen:517744": {
     "city": "Utrecht",
     "first_seen": "2026-09-29T14:22:51+00:00",
@@ -374,6 +382,22 @@
     "price": 1250,
     "title": "Prins Bernhardlaan, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/prins-bernhardlaan/studio-523870"
+  },
+  "directwonen:524043": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-12T18:25:43+00:00",
+    "notified": true,
+    "price": 722,
+    "title": "C. Van Maasdijkstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/c.-van-maasdijkstraat/kamer-524043"
+  },
+  "directwonen:524050": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-12T18:25:43+00:00",
+    "notified": true,
+    "price": 450,
+    "title": "W.A. Vultostraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/w.a.-vultostraat/kamer-524050"
   },
   "kamernet:1698558": {
     "city": "Hilversum",
@@ -14999,6 +15023,14 @@
     "title": "Kempenlaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kempenlaan/room-2418062"
   },
+  "kamernet:2418069": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-12T18:25:43+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Rhenenhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/rhenenhof/room-2418069"
+  },
   "kamernet:2418073": {
     "city": "Haarlem",
     "first_seen": "2026-11-12T10:11:30+00:00",
@@ -15054,5 +15086,69 @@
     "price": 700,
     "title": "Arnodreef, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/arnodreef/room-2418142"
+  },
+  "kamernet:2418147": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-12T18:25:43+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Bernadottelaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/bernadottelaan/room-2418147"
+  },
+  "kamernet:2418151": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-12T18:25:43+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Vuurvlindersingel, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/vuurvlindersingel/room-2418151"
+  },
+  "kamernet:2418173": {
+    "city": "Maarssen",
+    "first_seen": "2026-11-12T18:25:43+00:00",
+    "notified": false,
+    "price": 1160,
+    "title": "Zwanenkamp, Maarssen",
+    "url": "https://kamernet.nl/en/for-rent/room-maarssen/zwanenkamp/room-2418173"
+  },
+  "kamernet:2418180": {
+    "city": "Soest",
+    "first_seen": "2026-11-12T18:25:43+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Kerkstraat, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/kerkstraat/room-2418180"
+  },
+  "kamernet:2418221": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-12T18:25:43+00:00",
+    "notified": false,
+    "price": 478,
+    "title": "Vatternkade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/vatternkade/room-2418221"
+  },
+  "kamernet:2418243": {
+    "city": "Bussum",
+    "first_seen": "2026-11-12T18:25:43+00:00",
+    "notified": false,
+    "price": 825,
+    "title": "Brinklaan, Bussum",
+    "url": "https://kamernet.nl/en/for-rent/room-bussum/brinklaan/room-2418243"
+  },
+  "kamernet:2418247": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-12T18:25:43+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Josephus Jittastraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/josephus-jittastraat/room-2418247"
+  },
+  "kamernet:2418257": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-12T18:25:43+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Johan Huizingalaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/johan-huizingalaan/room-2418257"
   }
 }
