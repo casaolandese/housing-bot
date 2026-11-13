@@ -14167,6 +14167,14 @@
     "title": "Klaroenlaan, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/klaroenlaan/room-2417030"
   },
+  "kamernet:2417045": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T18:47:14+00:00",
+    "notified": false,
+    "price": 880,
+    "title": "Asingaborg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/asingaborg/room-2417045"
+  },
   "kamernet:2417071": {
     "city": "Amsterdam",
     "first_seen": "2026-11-08T14:57:49+00:00",
@@ -14727,6 +14735,14 @@
     "title": "Patrijspoort, Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/patrijspoort/room-2417621"
   },
+  "kamernet:2417627": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-13T18:47:14+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Kardemomweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/kardemomweg/room-2417627"
+  },
   "kamernet:2417641": {
     "city": "Amsterdam",
     "first_seen": "2026-11-10T18:52:29+00:00",
@@ -15223,6 +15239,14 @@
     "title": "Hofgeest, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hofgeest/room-2418316"
   },
+  "kamernet:2418317": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T18:47:14+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Willem de Zwijgerlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/willem-de-zwijgerlaan/room-2418317"
+  },
   "kamernet:2418321": {
     "city": "Utrecht",
     "first_seen": "2026-11-13T11:38:24+00:00",
@@ -15262,5 +15286,69 @@
     "price": 1200,
     "title": "Ben van Meerendonkstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2418376"
+  },
+  "kamernet:2418380": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T18:47:14+00:00",
+    "notified": false,
+    "price": 811,
+    "title": "Helena Kuipers-Rietberghof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/helena-kuipers-rietberghof/room-2418380"
+  },
+  "kamernet:2418385": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T18:47:14+00:00",
+    "notified": false,
+    "price": 1223,
+    "title": "Oeverpad, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oeverpad/room-2418385"
+  },
+  "kamernet:2418389": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T18:47:14+00:00",
+    "notified": false,
+    "price": 1700,
+    "title": "Cooperatiehof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cooperatiehof/room-2418389"
+  },
+  "kamernet:2418401": {
+    "city": "Zaandam",
+    "first_seen": "2026-11-13T18:47:14+00:00",
+    "notified": false,
+    "price": 846,
+    "title": "Bouwmanspad, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/bouwmanspad/room-2418401"
+  },
+  "kamernet:2418409": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T18:47:14+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Kantershof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kantershof/room-2418409"
+  },
+  "kamernet:2418447": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-13T18:47:14+00:00",
+    "notified": false,
+    "price": 925,
+    "title": "Adelaarstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/adelaarstraat/room-2418447"
+  },
+  "kamernet:2418451": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T18:47:14+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Reigersbos, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/reigersbos/room-2418451"
+  },
+  "kamernet:2418462": {
+    "city": "Zaandam",
+    "first_seen": "2026-11-13T18:47:14+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Pharus, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/pharus/room-2418462"
   }
 }
