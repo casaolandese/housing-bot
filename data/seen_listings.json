@@ -9063,6 +9063,14 @@
     "title": "Gezocht nieuwe huisdeler",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erich-salomonstraat/room-2410593"
   },
+  "kamernet:2410603": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T11:38:24+00:00",
+    "notified": false,
+    "price": 910,
+    "title": "Aaf Bouberstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/aaf-bouberstraat/room-2410603"
+  },
   "kamernet:2410604": {
     "city": "Utrecht",
     "first_seen": "2026-10-07T13:49:24+00:00",
@@ -12519,6 +12527,14 @@
     "title": "Ben van Meerendonkstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2415081"
   },
+  "kamernet:2415083": {
+    "city": "Wormer",
+    "first_seen": "2026-11-13T11:38:24+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Veerdijk, Wormer",
+    "url": "https://kamernet.nl/en/for-rent/room-wormer/veerdijk/room-2415083"
+  },
   "kamernet:2415085": {
     "city": "Utrecht",
     "first_seen": "2026-10-29T19:54:53+00:00",
@@ -15150,5 +15166,101 @@
     "price": 975,
     "title": "Johan Huizingalaan, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/johan-huizingalaan/room-2418257"
+  },
+  "kamernet:2418264": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-13T11:38:24+00:00",
+    "notified": false,
+    "price": 730,
+    "title": "Tigrisdreef, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/tigrisdreef/room-2418264"
+  },
+  "kamernet:2418268": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-13T11:38:24+00:00",
+    "notified": false,
+    "price": 1049,
+    "title": "Seringstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/seringstraat/room-2418268"
+  },
+  "kamernet:2418269": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T11:38:24+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Waldenlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/waldenlaan/room-2418269"
+  },
+  "kamernet:2418286": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T11:38:24+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Spadinalaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spadinalaan/room-2418286"
+  },
+  "kamernet:2418293": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T11:38:24+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Daniel Defoelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/daniel-defoelaan/room-2418293"
+  },
+  "kamernet:2418296": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T11:38:24+00:00",
+    "notified": false,
+    "price": 1950,
+    "title": "Spuistraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2418296"
+  },
+  "kamernet:2418316": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T11:38:24+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Hofgeest, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hofgeest/room-2418316"
+  },
+  "kamernet:2418321": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-13T11:38:24+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Medanstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/medanstraat/room-2418321"
+  },
+  "kamernet:2418331": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T11:38:24+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Erik de Roodestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erik-de-roodestraat/room-2418331"
+  },
+  "kamernet:2418336": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-13T11:38:24+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Basilicumstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/basilicumstraat/room-2418336"
+  },
+  "kamernet:2418359": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T11:38:24+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Ben Viljoenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-viljoenstraat/room-2418359"
+  },
+  "kamernet:2418376": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-13T11:38:24+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Ben van Meerendonkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2418376"
   }
 }
