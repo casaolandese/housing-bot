@@ -15470,5 +15470,13 @@
     "price": 617,
     "title": "Balijelaan, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/balijelaan/room-2418600"
+  },
+  "kamernet:2418648": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-14T22:49:43+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Nicolaasweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/nicolaasweg/room-2418648"
   }
 }
