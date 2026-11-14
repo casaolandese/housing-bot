@@ -15438,5 +15438,37 @@
     "price": 800,
     "title": "Jan van der Neuthof, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-van-der-neuthof/room-2418549"
+  },
+  "kamernet:2418570": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-14T18:49:35+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Van Woustraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-woustraat/room-2418570"
+  },
+  "kamernet:2418584": {
+    "city": "Rijsenhout",
+    "first_seen": "2026-11-14T18:49:35+00:00",
+    "notified": false,
+    "price": 798,
+    "title": "Grundel, Rijsenhout",
+    "url": "https://kamernet.nl/en/for-rent/room-rijsenhout/grundel/room-2418584"
+  },
+  "kamernet:2418598": {
+    "city": "Almere",
+    "first_seen": "2026-11-14T18:49:35+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Workumstraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/workumstraat/room-2418598"
+  },
+  "kamernet:2418600": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-14T18:49:35+00:00",
+    "notified": false,
+    "price": 617,
+    "title": "Balijelaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/balijelaan/room-2418600"
   }
 }
