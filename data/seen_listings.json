@@ -13927,6 +13927,14 @@
     "title": "Driedistelstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/driedistelstraat/room-2416677"
   },
+  "kamernet:2416681": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-14T13:28:01+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Loodskotterhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/loodskotterhof/room-2416681"
+  },
   "kamernet:2416684": {
     "city": "Amsterdam",
     "first_seen": "2026-11-06T14:37:44+00:00",
@@ -15350,5 +15358,85 @@
     "price": 800,
     "title": "Pharus, Zaandam",
     "url": "https://kamernet.nl/en/for-rent/room-zaandam/pharus/room-2418462"
+  },
+  "kamernet:2418489": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-14T13:28:01+00:00",
+    "notified": false,
+    "price": 866,
+    "title": "Kastelenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kastelenstraat/room-2418489"
+  },
+  "kamernet:2418490": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-14T13:28:01+00:00",
+    "notified": false,
+    "price": 1590,
+    "title": "H. Cleyndertweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2418490"
+  },
+  "kamernet:2418491": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-14T13:28:01+00:00",
+    "notified": false,
+    "price": 1490,
+    "title": "H. Cleyndertweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2418491"
+  },
+  "kamernet:2418499": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-14T13:28:01+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Strandeilandlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/strandeilandlaan/room-2418499"
+  },
+  "kamernet:2418508": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-14T13:28:01+00:00",
+    "notified": false,
+    "price": 1650,
+    "title": "Koopvaardersplantsoen, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koopvaardersplantsoen/room-2418508"
+  },
+  "kamernet:2418510": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-14T13:28:01+00:00",
+    "notified": false,
+    "price": 830,
+    "title": "Leo Fallplantsoen, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/leo-fallplantsoen/room-2418510"
+  },
+  "kamernet:2418524": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-14T13:28:01+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Zakkendragerssteeg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/zakkendragerssteeg/room-2418524"
+  },
+  "kamernet:2418542": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-14T13:28:01+00:00",
+    "notified": false,
+    "price": 500,
+    "title": "Eerste Jan van der Heijdenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eerste-jan-van-der-heijdenstraat/room-2418542"
+  },
+  "kamernet:2418543": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-14T13:28:01+00:00",
+    "notified": false,
+    "price": 560,
+    "title": "Lucellestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/lucellestraat/room-2418543"
+  },
+  "kamernet:2418549": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-14T13:28:01+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Jan van der Neuthof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-van-der-neuthof/room-2418549"
   }
 }
