@@ -15511,6 +15511,14 @@
     "title": "Pietersbergweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pietersbergweg/room-2418634"
   },
+  "kamernet:2418642": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-15T16:37:18+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Haarlemmermeerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/haarlemmermeerstraat/room-2418642"
+  },
   "kamernet:2418646": {
     "city": "Amsterdam",
     "first_seen": "2026-11-15T09:38:36+00:00",
@@ -15550,5 +15558,77 @@
     "price": 1200,
     "title": "Bertha von Suttnerstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bertha-von-suttnerstraat/room-2418665"
+  },
+  "kamernet:2418709": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-11-15T16:37:18+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Graaf Leopoldlaan, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/graaf-leopoldlaan/room-2418709"
+  },
+  "kamernet:2418710": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-15T16:37:18+00:00",
+    "notified": false,
+    "price": 475,
+    "title": "Mozartlaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/mozartlaan/room-2418710"
+  },
+  "kamernet:2418714": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-15T16:37:18+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "IJburglaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ijburglaan/room-2418714"
+  },
+  "kamernet:2418737": {
+    "city": "Haarlem",
+    "first_seen": "2026-11-15T16:37:18+00:00",
+    "notified": false,
+    "price": 450,
+    "title": "Van Oosten de Bruijnstraat, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/van-oosten-de-bruijnstraat/room-2418737"
+  },
+  "kamernet:2418742": {
+    "city": "Amstelveen",
+    "first_seen": "2026-11-15T16:37:18+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Korvet, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/korvet/room-2418742"
+  },
+  "kamernet:2418743": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-15T16:37:18+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Comeniusstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/comeniusstraat/room-2418743"
+  },
+  "kamernet:2418744": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-15T16:37:18+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Leidsekade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leidsekade/room-2418744"
+  },
+  "kamernet:2418751": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-15T16:37:18+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Bart Poesiatstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bart-poesiatstraat/room-2418751"
+  },
+  "kamernet:2418756": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-15T16:37:18+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Nieuwendijk, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwendijk/room-2418756"
   }
 }
