@@ -15167,6 +15167,14 @@
     "title": "Vatternkade, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/vatternkade/room-2418221"
   },
+  "kamernet:2418225": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-15T09:38:36+00:00",
+    "notified": false,
+    "price": 1800,
+    "title": "Valkenburgerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/valkenburgerstraat/room-2418225"
+  },
   "kamernet:2418243": {
     "city": "Bussum",
     "first_seen": "2026-11-12T18:25:43+00:00",
@@ -15279,6 +15287,14 @@
     "title": "Basilicumstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/basilicumstraat/room-2418336"
   },
+  "kamernet:2418356": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-15T09:38:36+00:00",
+    "notified": false,
+    "price": 875,
+    "title": "Javastraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/javastraat/room-2418356"
+  },
   "kamernet:2418359": {
     "city": "Amsterdam",
     "first_seen": "2026-11-13T11:38:24+00:00",
@@ -15318,6 +15334,14 @@
     "price": 1700,
     "title": "Cooperatiehof, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cooperatiehof/room-2418389"
+  },
+  "kamernet:2418398": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-15T09:38:36+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Schaarsbergenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/schaarsbergenstraat/room-2418398"
   },
   "kamernet:2418401": {
     "city": "Zaandam",
@@ -15471,6 +15495,30 @@
     "title": "Balijelaan, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/balijelaan/room-2418600"
   },
+  "kamernet:2418631": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-15T09:38:36+00:00",
+    "notified": false,
+    "price": 2000,
+    "title": "Eerste Jan van der Heijdenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eerste-jan-van-der-heijdenstraat/room-2418631"
+  },
+  "kamernet:2418634": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-15T09:38:36+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Pietersbergweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pietersbergweg/room-2418634"
+  },
+  "kamernet:2418646": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-15T09:38:36+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Spakenburgstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spakenburgstraat/room-2418646"
+  },
   "kamernet:2418648": {
     "city": "Utrecht",
     "first_seen": "2026-11-14T22:49:43+00:00",
@@ -15478,5 +15526,29 @@
     "price": 750,
     "title": "Nicolaasweg, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/nicolaasweg/room-2418648"
+  },
+  "kamernet:2418650": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-15T09:38:36+00:00",
+    "notified": false,
+    "price": 1390,
+    "title": "H. Cleyndertweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2418650"
+  },
+  "kamernet:2418664": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-15T09:38:36+00:00",
+    "notified": false,
+    "price": 833,
+    "title": "Ella Fitzgeraldplein, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/ella-fitzgeraldplein/room-2418664"
+  },
+  "kamernet:2418665": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-15T09:38:36+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Bertha von Suttnerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bertha-von-suttnerstraat/room-2418665"
   }
 }
