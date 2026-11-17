@@ -15927,6 +15927,14 @@
     "title": "Musicallaan, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/musicallaan/room-2419090"
   },
+  "kamernet:2419097": {
+    "city": "Nieuwegein",
+    "first_seen": "2026-11-17T19:26:56+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Orvelterdek, Nieuwegein",
+    "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/orvelterdek/room-2419097"
+  },
   "kamernet:2419099": {
     "city": "Amsterdam",
     "first_seen": "2026-11-17T10:40:43+00:00",
@@ -15966,5 +15974,93 @@
     "price": 1200,
     "title": "Leenhofstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leenhofstraat/room-2419149"
+  },
+  "kamernet:2419161": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-17T19:26:56+00:00",
+    "notified": false,
+    "price": 1380,
+    "title": "Van Oldenbarneveldtstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-oldenbarneveldtstraat/room-2419161"
+  },
+  "kamernet:2419181": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-17T19:26:56+00:00",
+    "notified": false,
+    "price": 1800,
+    "title": "Van Woustraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-woustraat/room-2419181"
+  },
+  "kamernet:2419185": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-17T19:26:56+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Korte Prinsengracht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/korte-prinsengracht/room-2419185"
+  },
+  "kamernet:2419186": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-17T19:26:56+00:00",
+    "notified": false,
+    "price": 1500,
+    "title": "Sint Annendwarsstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/sint-annendwarsstraat/room-2419186"
+  },
+  "kamernet:2419191": {
+    "city": "Amstelveen",
+    "first_seen": "2026-11-17T19:26:56+00:00",
+    "notified": false,
+    "price": 1120,
+    "title": "Patrijspoort, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/patrijspoort/room-2419191"
+  },
+  "kamernet:2419195": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-17T19:26:56+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Schutterweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/schutterweg/room-2419195"
+  },
+  "kamernet:2419197": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-17T19:26:56+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Vijzelgracht, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/vijzelgracht/room-2419197"
+  },
+  "kamernet:2419247": {
+    "city": "De Bilt",
+    "first_seen": "2026-11-17T19:26:56+00:00",
+    "notified": false,
+    "price": 956,
+    "title": "Akker, De Bilt",
+    "url": "https://kamernet.nl/en/for-rent/room-de-bilt/akker/room-2419247"
+  },
+  "kamernet:2419262": {
+    "city": "Abcoude",
+    "first_seen": "2026-11-17T19:26:56+00:00",
+    "notified": false,
+    "price": 675,
+    "title": "Waardassackerstraat, Abcoude",
+    "url": "https://kamernet.nl/en/for-rent/room-abcoude/waardassackerstraat/room-2419262"
+  },
+  "kamernet:2419268": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-17T19:26:56+00:00",
+    "notified": false,
+    "price": 815,
+    "title": "Hongkongdreef, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/hongkongdreef/room-2419268"
+  },
+  "kamernet:2419280": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-17T19:26:56+00:00",
+    "notified": false,
+    "price": 775,
+    "title": "Overschiestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/overschiestraat/room-2419280"
   }
 }
