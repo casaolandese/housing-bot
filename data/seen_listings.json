@@ -647,6 +647,14 @@
     "title": "Room 13m2 in the center of Hoofddorp",
     "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/leeghwaterstraat/room-2324583"
   },
+  "kamernet:2325145": {
+    "city": "Amstelveen",
+    "first_seen": "2026-11-17T10:40:43+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Bourgondischelaan, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/bourgondischelaan/room-2325145"
+  },
   "kamernet:2333381": {
     "city": "Amsterdam",
     "first_seen": "2026-10-08T12:16:15+00:00",
@@ -15855,6 +15863,14 @@
     "title": "Vatternkade, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/vatternkade/room-2418949"
   },
+  "kamernet:2418982": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-17T10:40:43+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Warmoesstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/warmoesstraat/room-2418982"
+  },
   "kamernet:2419004": {
     "city": "Amsterdam",
     "first_seen": "2026-11-16T18:29:00+00:00",
@@ -15886,5 +15902,69 @@
     "price": 1300,
     "title": "Van Breestraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-breestraat/room-2419017"
+  },
+  "kamernet:2419043": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-17T10:40:43+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Sleewijkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/sleewijkstraat/room-2419043"
+  },
+  "kamernet:2419068": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-17T10:40:43+00:00",
+    "notified": false,
+    "price": 960,
+    "title": "Scherpenzeelstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/scherpenzeelstraat/room-2419068"
+  },
+  "kamernet:2419090": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-17T10:40:43+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Musicallaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/musicallaan/room-2419090"
+  },
+  "kamernet:2419099": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-17T10:40:43+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Ben van Meerendonkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2419099"
+  },
+  "kamernet:2419100": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-17T10:40:43+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Van Eysingalaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-eysingalaan/room-2419100"
+  },
+  "kamernet:2419138": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-17T10:40:43+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Leeuwendalersweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leeuwendalersweg/room-2419138"
+  },
+  "kamernet:2419142": {
+    "city": "IJmuiden",
+    "first_seen": "2026-11-17T10:40:43+00:00",
+    "notified": false,
+    "price": 3800,
+    "title": "Trompstraat, IJmuiden",
+    "url": "https://kamernet.nl/en/for-rent/room-ijmuiden/trompstraat/room-2419142"
+  },
+  "kamernet:2419149": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-17T10:40:43+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Leenhofstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leenhofstraat/room-2419149"
   }
 }
