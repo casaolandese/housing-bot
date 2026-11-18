@@ -16062,5 +16062,45 @@
     "price": 775,
     "title": "Overschiestraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/overschiestraat/room-2419280"
+  },
+  "kamernet:2419328": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-18T09:32:01+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "N. Lansdorpstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/n-lansdorpstraat/room-2419328"
+  },
+  "kamernet:2419361": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-18T09:32:01+00:00",
+    "notified": false,
+    "price": 1490,
+    "title": "H. Cleyndertweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/h-cleyndertweg/room-2419361"
+  },
+  "kamernet:2419369": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-18T09:32:01+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Gouden Leeuw, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/gouden-leeuw/room-2419369"
+  },
+  "kamernet:2419373": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-18T09:32:01+00:00",
+    "notified": false,
+    "price": 3250,
+    "title": "Tweede Jan Steenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tweede-jan-steenstraat/room-2419373"
+  },
+  "kamernet:2419383": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-18T09:32:01+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Van Hallstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-hallstraat/room-2419383"
   }
 }
