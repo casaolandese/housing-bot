@@ -13575,6 +13575,14 @@
     "title": "Vincent van Goghstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/vincent-van-goghstraat/room-2416199"
   },
+  "kamernet:2416206": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-19T08:00:29+00:00",
+    "notified": false,
+    "price": 1325,
+    "title": "Wilhelminapark, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/wilhelminapark/room-2416206"
+  },
   "kamernet:2416213": {
     "city": "Amsterdam",
     "first_seen": "2026-11-04T17:31:12+00:00",
@@ -16375,6 +16383,14 @@
     "title": "Diemerkade, Diemen",
     "url": "https://kamernet.nl/en/for-rent/room-diemen/diemerkade/room-2419532"
   },
+  "kamernet:2419543": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-19T08:00:29+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Maldenhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/maldenhof/room-2419543"
+  },
   "kamernet:2419562": {
     "city": "Amsterdam",
     "first_seen": "2026-11-18T18:23:58+00:00",
@@ -16398,6 +16414,22 @@
     "price": 1000,
     "title": "Sweder van Zuylenweg, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/sweder-van-zuylenweg/room-2419570"
+  },
+  "kamernet:2419583": {
+    "city": "Almere",
+    "first_seen": "2026-11-19T08:00:29+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Mirtestraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/mirtestraat/room-2419583"
+  },
+  "kamernet:2419591": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-19T08:00:29+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Spakenburgstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spakenburgstraat/room-2419591"
   },
   "kamernet:2419604": {
     "city": "Amsterdam",
