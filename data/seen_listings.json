@@ -16390,5 +16390,21 @@
     "price": 1295,
     "title": "Buitenplein, Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/buitenplein/room-2419566"
+  },
+  "kamernet:2419570": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-19T00:40:55+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Sweder van Zuylenweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/sweder-van-zuylenweg/room-2419570"
+  },
+  "kamernet:2419604": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-19T00:40:55+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Arent Janszoon Ernststraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/arent-janszoon-ernststraat/room-2419604"
   }
 }
