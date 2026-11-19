@@ -407,6 +407,14 @@
     "title": "W.A. Vultostraat, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/w.a.-vultostraat/kamer-524050"
   },
+  "directwonen:524288": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": true,
+    "price": 750,
+    "title": "Justus Van Effenstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/justus-van-effenstraat/studio-524288"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
@@ -7326,6 +7334,14 @@
     "price": 1100,
     "title": "Stanleylaan, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/stanleylaan/room-2407890"
+  },
+  "kamernet:2407902": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Hoogoord, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/hoogoord/room-2407902"
   },
   "kamernet:2407913": {
     "city": "Utrecht",
@@ -15103,6 +15119,14 @@
     "title": "Maldenhof, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/maldenhof/room-2418054"
   },
+  "kamernet:2418060": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Postjesweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjesweg/room-2418060"
+  },
   "kamernet:2418062": {
     "city": "Amsterdam",
     "first_seen": "2026-11-12T10:11:30+00:00",
@@ -15687,6 +15711,14 @@
     "title": "Nieuwendijk, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwendijk/room-2418756"
   },
+  "kamernet:2418759": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 839,
+    "title": "Burgemeester Norbruislaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/burgemeester-norbruislaan/room-2418759"
+  },
   "kamernet:2418764": {
     "city": "Amsterdam",
     "first_seen": "2026-11-16T18:29:00+00:00",
@@ -15902,6 +15934,14 @@
     "price": 1200,
     "title": "Warmoesstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/warmoesstraat/room-2418982"
+  },
+  "kamernet:2418983": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Meeuwenlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/meeuwenlaan/room-2418983"
   },
   "kamernet:2419004": {
     "city": "Amsterdam",
@@ -16438,5 +16478,101 @@
     "price": 950,
     "title": "Arent Janszoon Ernststraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/arent-janszoon-ernststraat/room-2419604"
+  },
+  "kamernet:2419629": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Rubicondreef, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/rubicondreef/room-2419629"
+  },
+  "kamernet:2419642": {
+    "city": "Hoofddorp",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 1093,
+    "title": "Graan voor Visch, Hoofddorp",
+    "url": "https://kamernet.nl/en/for-rent/room-hoofddorp/graan-voor-visch/room-2419642"
+  },
+  "kamernet:2419656": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Ben van Meerendonkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2419656"
+  },
+  "kamernet:2419682": {
+    "city": "Soest",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 550,
+    "title": "Ereprijsstraat, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/ereprijsstraat/room-2419682"
+  },
+  "kamernet:2419691": {
+    "city": "Purmerend",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 450,
+    "title": "Veenweidestraat, Purmerend",
+    "url": "https://kamernet.nl/en/for-rent/room-purmerend/veenweidestraat/room-2419691"
+  },
+  "kamernet:2419717": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Westerdoksdijk, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/westerdoksdijk/room-2419717"
+  },
+  "kamernet:2419729": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Thomas a Kempisweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/thomas-a-kempisweg/room-2419729"
+  },
+  "kamernet:2419739": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Schinkelkade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/schinkelkade/room-2419739"
+  },
+  "kamernet:2419771": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Andreasstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/andreasstraat/room-2419771"
+  },
+  "kamernet:2419778": {
+    "city": "Hilversum",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 595,
+    "title": "Langestraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/langestraat/room-2419778"
+  },
+  "kamernet:2419783": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Gruttersdijk, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/gruttersdijk/room-2419783"
+  },
+  "kamernet:2419793": {
+    "city": "Leimuiden",
+    "first_seen": "2026-11-19T17:21:17+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Oosterweg, Leimuiden",
+    "url": "https://kamernet.nl/en/for-rent/room-leimuiden/oosterweg/room-2419793"
   }
 }
