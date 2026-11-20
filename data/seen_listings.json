@@ -16574,5 +16574,85 @@
     "price": 1150,
     "title": "Oosterweg, Leimuiden",
     "url": "https://kamernet.nl/en/for-rent/room-leimuiden/oosterweg/room-2419793"
+  },
+  "kamernet:2419825": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-20T13:29:49+00:00",
+    "notified": false,
+    "price": 754,
+    "title": "Eerste Westerparklaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/eerste-westerparklaan/room-2419825"
+  },
+  "kamernet:2419836": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-20T13:29:49+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Asingaborg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/asingaborg/room-2419836"
+  },
+  "kamernet:2419841": {
+    "city": "Hilversum",
+    "first_seen": "2026-11-20T13:29:49+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Noorderweg, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/noorderweg/room-2419841"
+  },
+  "kamernet:2419852": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-20T13:29:49+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Theo Frenkelhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/theo-frenkelhof/room-2419852"
+  },
+  "kamernet:2419861": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-20T13:29:49+00:00",
+    "notified": false,
+    "price": 925,
+    "title": "Bart Poesiatstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bart-poesiatstraat/room-2419861"
+  },
+  "kamernet:2419899": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-20T13:29:49+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Spuistraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2419899"
+  },
+  "kamernet:2419902": {
+    "city": "Haarlem",
+    "first_seen": "2026-11-20T13:29:49+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Leidsevaart, Haarlem",
+    "url": "https://kamernet.nl/en/for-rent/room-haarlem/leidsevaart/room-2419902"
+  },
+  "kamernet:2419906": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-20T13:29:49+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Steijnstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/steijnstraat/room-2419906"
+  },
+  "kamernet:2419907": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-20T13:29:49+00:00",
+    "notified": false,
+    "price": 130,
+    "title": "Stromarkt, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/stromarkt/room-2419907"
+  },
+  "kamernet:2419914": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-20T13:29:49+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Vuurvlindersingel, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/vuurvlindersingel/room-2419914"
   }
 }
