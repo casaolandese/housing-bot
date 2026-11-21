@@ -15639,6 +15639,14 @@
     "title": "Padangstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/padangstraat/room-2418681"
   },
+  "kamernet:2418697": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-21T17:40:21+00:00",
+    "notified": false,
+    "price": 1545,
+    "title": "Van Baerlestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-baerlestraat/room-2418697"
+  },
   "kamernet:2418709": {
     "city": "Nieuwegein",
     "first_seen": "2026-11-15T16:37:18+00:00",
@@ -16607,6 +16615,14 @@
     "title": "Eerste Westerparklaan, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/eerste-westerparklaan/room-2419825"
   },
+  "kamernet:2419831": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-21T17:40:21+00:00",
+    "notified": false,
+    "price": 375,
+    "title": "Celebesstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/celebesstraat/room-2419831"
+  },
   "kamernet:2419836": {
     "city": "Amsterdam",
     "first_seen": "2026-11-20T13:29:49+00:00",
@@ -16806,5 +16822,53 @@
     "price": 500,
     "title": "Waardassackerstraat, Abcoude",
     "url": "https://kamernet.nl/en/for-rent/room-abcoude/waardassackerstraat/room-2420087"
+  },
+  "kamernet:2420120": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-21T17:40:21+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Surinameplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/surinameplein/room-2420120"
+  },
+  "kamernet:2420123": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-21T17:40:21+00:00",
+    "notified": false,
+    "price": 1,
+    "title": "Van Oldenbarneveldtstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-oldenbarneveldtstraat/room-2420123"
+  },
+  "kamernet:2420137": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-21T17:40:21+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Amstelplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/amstelplein/room-2420137"
+  },
+  "kamernet:2420138": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-21T17:40:21+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Jan van Zutphenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-van-zutphenstraat/room-2420138"
+  },
+  "kamernet:2420139": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-21T17:40:21+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Borgerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/borgerstraat/room-2420139"
+  },
+  "kamernet:2420151": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-21T17:40:21+00:00",
+    "notified": false,
+    "price": 775,
+    "title": "Overschiestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/overschiestraat/room-2420151"
   }
 }
