@@ -16942,5 +16942,93 @@
     "price": 890,
     "title": "Sweder van Zuylenweg, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/sweder-van-zuylenweg/room-2420245"
+  },
+  "kamernet:2420260": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T17:56:32+00:00",
+    "notified": false,
+    "price": 705,
+    "title": "Fritz Conijnstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fritz-conijnstraat/room-2420260"
+  },
+  "kamernet:2420266": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T17:56:32+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Leiduinstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leiduinstraat/room-2420266"
+  },
+  "kamernet:2420269": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T17:56:32+00:00",
+    "notified": false,
+    "price": 855,
+    "title": "Fritz Conijnstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/fritz-conijnstraat/room-2420269"
+  },
+  "kamernet:2420270": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T17:56:32+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Leidsekade, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/leidsekade/room-2420270"
+  },
+  "kamernet:2420271": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T17:56:32+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Reinaert de Vosstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/reinaert-de-vosstraat/room-2420271"
+  },
+  "kamernet:2420286": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-22T17:56:32+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Prof. Kohnstammstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/prof-kohnstammstraat/room-2420286"
+  },
+  "kamernet:2420294": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T17:56:32+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Erik de Roodestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erik-de-roodestraat/room-2420294"
+  },
+  "kamernet:2420295": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T17:56:32+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Loenermark, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/loenermark/room-2420295"
+  },
+  "kamernet:2420303": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T17:56:32+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Nieuwe Nieuwstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwe-nieuwstraat/room-2420303"
+  },
+  "kamernet:2420308": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T17:56:32+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Ben van Meerendonkstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/ben-van-meerendonkstraat/room-2420308"
+  },
+  "kamernet:2420347": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T17:56:32+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Parnassusweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/parnassusweg/room-2420347"
   }
 }
