@@ -15591,6 +15591,14 @@
     "title": "Haarlemmermeerstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/haarlemmermeerstraat/room-2418642"
   },
+  "kamernet:2418644": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T10:18:34+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Van Heenvlietlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/van-heenvlietlaan/room-2418644"
+  },
   "kamernet:2418646": {
     "city": "Amsterdam",
     "first_seen": "2026-11-15T09:38:36+00:00",
@@ -16870,5 +16878,69 @@
     "price": 775,
     "title": "Overschiestraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/overschiestraat/room-2420151"
+  },
+  "kamernet:2420181": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-22T10:18:34+00:00",
+    "notified": false,
+    "price": 1330,
+    "title": "Nobelstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/nobelstraat/room-2420181"
+  },
+  "kamernet:2420192": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T10:18:34+00:00",
+    "notified": false,
+    "price": 720,
+    "title": "Bovenover, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bovenover/room-2420192"
+  },
+  "kamernet:2420207": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T10:18:34+00:00",
+    "notified": false,
+    "price": 837,
+    "title": "Amerbos, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/amerbos/room-2420207"
+  },
+  "kamernet:2420219": {
+    "city": "Hilversum",
+    "first_seen": "2026-11-22T10:18:34+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Gomarushof, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/gomarushof/room-2420219"
+  },
+  "kamernet:2420230": {
+    "city": "Hilversum",
+    "first_seen": "2026-11-22T10:18:34+00:00",
+    "notified": false,
+    "price": 525,
+    "title": "Herenstraat, Hilversum",
+    "url": "https://kamernet.nl/en/for-rent/room-hilversum/herenstraat/room-2420230"
+  },
+  "kamernet:2420243": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T10:18:34+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Jan van Duivenvoordestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jan-van-duivenvoordestraat/room-2420243"
+  },
+  "kamernet:2420244": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T10:18:34+00:00",
+    "notified": false,
+    "price": 995,
+    "title": "Rosa Manusstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/rosa-manusstraat/room-2420244"
+  },
+  "kamernet:2420245": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-22T10:18:34+00:00",
+    "notified": false,
+    "price": 890,
+    "title": "Sweder van Zuylenweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/sweder-van-zuylenweg/room-2420245"
   }
 }
