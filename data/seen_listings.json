@@ -17030,5 +17030,29 @@
     "price": 1350,
     "title": "Parnassusweg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/parnassusweg/room-2420347"
+  },
+  "kamernet:2420410": {
+    "city": "Amstelveen",
+    "first_seen": "2026-11-22T23:31:18+00:00",
+    "notified": false,
+    "price": 850,
+    "title": "Kromoord, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/kromoord/room-2420410"
+  },
+  "kamernet:2420414": {
+    "city": "Aalsmeerderbrug",
+    "first_seen": "2026-11-22T23:31:18+00:00",
+    "notified": false,
+    "price": 825,
+    "title": "Molenweg, Aalsmeerderbrug",
+    "url": "https://kamernet.nl/en/for-rent/room-aalsmeerderbrug/molenweg/room-2420414"
+  },
+  "kamernet:2420416": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-22T23:31:18+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Lutonhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/lutonhof/room-2420416"
   }
 }
