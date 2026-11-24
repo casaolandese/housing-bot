@@ -423,6 +423,14 @@
     "title": "Justus Van Effenstraat, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/justus-van-effenstraat/studio-524288"
   },
+  "directwonen:524391": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-24T01:51:10+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Koninginneweg, Amsterdam",
+    "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/koninginneweg/studio-524391"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
@@ -17055,6 +17063,14 @@
     "title": "Paul Scholtenstraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/paul-scholtenstraat/room-2420357"
   },
+  "kamernet:2420385": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-24T01:51:10+00:00",
+    "notified": false,
+    "price": 725,
+    "title": "St.-Winfridusstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/st-winfridusstraat/room-2420385"
+  },
   "kamernet:2420394": {
     "city": "Amsterdam",
     "first_seen": "2026-11-23T14:27:47+00:00",
@@ -17254,5 +17270,53 @@
     "price": 1150,
     "title": "Cornelis van Rijplantsoen, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-van-rijplantsoen/room-2420546"
+  },
+  "kamernet:2420579": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-24T01:51:10+00:00",
+    "notified": false,
+    "price": 900,
+    "title": "Hartingstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/hartingstraat/room-2420579"
+  },
+  "kamernet:2420605": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-24T01:51:10+00:00",
+    "notified": false,
+    "price": 480,
+    "title": "Camperstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/camperstraat/room-2420605"
+  },
+  "kamernet:2420606": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-24T01:51:10+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Constant Erzeijstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/constant-erzeijstraat/room-2420606"
+  },
+  "kamernet:2420610": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-24T01:51:10+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Seringstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/seringstraat/room-2420610"
+  },
+  "kamernet:2420617": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-24T01:51:10+00:00",
+    "notified": false,
+    "price": 1099,
+    "title": "Oudenoord, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/oudenoord/room-2420617"
+  },
+  "kamernet:2420640": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-24T01:51:10+00:00",
+    "notified": false,
+    "price": 880,
+    "title": "Vechtplantsoen, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/vechtplantsoen/room-2420640"
   }
 }
