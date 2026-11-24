@@ -431,6 +431,14 @@
     "title": "Koninginneweg, Amsterdam",
     "url": "https://directwonen.nl/huurwoningen-huren/amsterdam/koninginneweg/studio-524391"
   },
+  "directwonen:524428": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 1238,
+    "title": "Jan Haringstraat, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/jan-haringstraat/studio-524428"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
@@ -14943,6 +14951,14 @@
     "title": "Kerkveld, Nieuwegein",
     "url": "https://kamernet.nl/en/for-rent/room-nieuwegein/kerkveld/room-2417793"
   },
+  "kamernet:2417795": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Entabeni, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/entabeni/room-2417795"
+  },
   "kamernet:2417810": {
     "city": "Nieuwegein",
     "first_seen": "2026-11-11T14:01:51+00:00",
@@ -17318,5 +17334,133 @@
     "price": 880,
     "title": "Vechtplantsoen, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/vechtplantsoen/room-2420640"
+  },
+  "kamernet:2420641": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Eerste Constantijn Huygensstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eerste-constantijn-huygensstraat/room-2420641"
+  },
+  "kamernet:2420675": {
+    "city": "Diemen",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Rietzangerweg, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/rietzangerweg/room-2420675"
+  },
+  "kamernet:2420690": {
+    "city": "Soest",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 695,
+    "title": "Koninginnelaan, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/koninginnelaan/room-2420690"
+  },
+  "kamernet:2420703": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 90,
+    "title": "Pantograafstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/pantograafstraat/room-2420703"
+  },
+  "kamernet:2420705": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 1600,
+    "title": "President Kennedylaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/president-kennedylaan/room-2420705"
+  },
+  "kamernet:2420707": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Theo Frenkelhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/theo-frenkelhof/room-2420707"
+  },
+  "kamernet:2420710": {
+    "city": "De Bilt",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 956,
+    "title": "Akker, De Bilt",
+    "url": "https://kamernet.nl/en/for-rent/room-de-bilt/akker/room-2420710"
+  },
+  "kamernet:2420724": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Simplonbaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/simplonbaan/room-2420724"
+  },
+  "kamernet:2420725": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 1800,
+    "title": "Simplonbaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/simplonbaan/room-2420725"
+  },
+  "kamernet:2420729": {
+    "city": "Zaandam",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 745,
+    "title": "Opera, Zaandam",
+    "url": "https://kamernet.nl/en/for-rent/room-zaandam/opera/room-2420729"
+  },
+  "kamernet:2420732": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 1300,
+    "title": "Weesperzijde, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/weesperzijde/room-2420732"
+  },
+  "kamernet:2420757": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Eerste Van der Helststraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/eerste-van-der-helststraat/room-2420757"
+  },
+  "kamernet:2420769": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Spuistraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2420769"
+  },
+  "kamernet:2420770": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Spuistraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2420770"
+  },
+  "kamernet:2420788": {
+    "city": "Amstelveen",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Kardinaal de Jongstraat, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/kardinaal-de-jongstraat/room-2420788"
+  },
+  "kamernet:2420792": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-24T12:19:03+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Kleiburg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kleiburg/room-2420792"
   }
 }
