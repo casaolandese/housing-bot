@@ -17614,5 +17614,13 @@
     "price": 445,
     "title": "Havenstraat, Hilversum",
     "url": "https://kamernet.nl/en/for-rent/room-hilversum/havenstraat/room-2420914"
+  },
+  "kamernet:2420970": {
+    "city": "Diemen",
+    "first_seen": "2026-11-25T05:02:56+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Ouddiemerlaan, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/ouddiemerlaan/room-2420970"
   }
 }
