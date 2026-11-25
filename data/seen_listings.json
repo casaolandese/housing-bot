@@ -743,6 +743,14 @@
     "title": "Spare bedroom",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/j-kruiswijkhof/room-2336550"
   },
+  "kamernet:2338612": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-25T23:47:35+00:00",
+    "notified": false,
+    "price": 1050,
+    "title": "Lassusstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/lassusstraat/room-2338612"
+  },
   "kamernet:2340798": {
     "city": "Amsterdam",
     "first_seen": "2026-08-31T14:28:35+00:00",
@@ -17774,5 +17782,13 @@
     "price": 530,
     "title": "Tourniairestraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tourniairestraat/room-2421129"
+  },
+  "kamernet:2421200": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-25T23:47:35+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Stadionweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/stadionweg/room-2421200"
   }
 }
