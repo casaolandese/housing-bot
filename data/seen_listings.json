@@ -999,6 +999,14 @@
     "title": "Marga Klompelaan, Amstelveen",
     "url": "https://kamernet.nl/en/for-rent/room-amstelveen/marga-klompelaan/room-2391937"
   },
+  "kamernet:2393248": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 1200,
+    "title": "Perseusstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/perseusstraat/room-2393248"
+  },
   "kamernet:2394506": {
     "city": "Soest",
     "first_seen": "2026-09-14T14:19:14+00:00",
@@ -15599,6 +15607,14 @@
     "title": "Zakkendragerssteeg, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/zakkendragerssteeg/room-2418524"
   },
+  "kamernet:2418533": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 1464,
+    "title": "Jollemanhof, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jollemanhof/room-2418533"
+  },
   "kamernet:2418542": {
     "city": "Amsterdam",
     "first_seen": "2026-11-14T13:28:01+00:00",
@@ -16847,6 +16863,14 @@
     "title": "Korfoedreef, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/korfoedreef/room-2419991"
   },
+  "kamernet:2419995": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Elisabeth Boddaertstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elisabeth-boddaertstraat/room-2419995"
+  },
   "kamernet:2419998": {
     "city": "Hilversum",
     "first_seen": "2026-11-20T21:29:58+00:00",
@@ -17351,6 +17375,14 @@
     "title": "Cornelis van Rijplantsoen, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/cornelis-van-rijplantsoen/room-2420546"
   },
+  "kamernet:2420568": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 1700,
+    "title": "Valkenburgerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/valkenburgerstraat/room-2420568"
+  },
   "kamernet:2420579": {
     "city": "Utrecht",
     "first_seen": "2026-11-24T01:51:10+00:00",
@@ -17799,6 +17831,14 @@
     "title": "Korfoedreef, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/korfoedreef/room-2421065"
   },
+  "kamernet:2421090": {
+    "city": "Almere",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "A. Vondelingstraat, Almere",
+    "url": "https://kamernet.nl/en/for-rent/room-almere/a-vondelingstraat/room-2421090"
+  },
   "kamernet:2421114": {
     "city": "Utrecht",
     "first_seen": "2026-11-25T15:33:16+00:00",
@@ -18023,6 +18063,46 @@
     "title": "Seringstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/seringstraat/room-2421427"
   },
+  "kamernet:2421444": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 1090,
+    "title": "Sint Nicolaasstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/sint-nicolaasstraat/room-2421444"
+  },
+  "kamernet:2421464": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 980,
+    "title": "Amsterdamsestraatweg, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/amsterdamsestraatweg/room-2421464"
+  },
+  "kamernet:2421469": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 1223,
+    "title": "Oeverpad, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/oeverpad/room-2421469"
+  },
+  "kamernet:2421496": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 1250,
+    "title": "Nobelweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nobelweg/room-2421496"
+  },
+  "kamernet:2421502": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 995,
+    "title": "Kleiburg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/kleiburg/room-2421502"
+  },
   "kamernet:2421504": {
     "city": "Utrecht",
     "first_seen": "2026-11-27T08:26:12+00:00",
@@ -18030,5 +18110,157 @@
     "price": 616,
     "title": "Bilderdijkstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/bilderdijkstraat/room-2421504"
+  },
+  "kamernet:2421514": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 600,
+    "title": "Rustenburgerstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/rustenburgerstraat/room-2421514"
+  },
+  "kamernet:2421545": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Korfoedreef, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/korfoedreef/room-2421545"
+  },
+  "kamernet:2421558": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Veeteeltstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/veeteeltstraat/room-2421558"
+  },
+  "kamernet:2421569": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Nieuwe Nieuwstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/nieuwe-nieuwstraat/room-2421569"
+  },
+  "kamernet:2421570": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Spuistraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/spuistraat/room-2421570"
+  },
+  "kamernet:2421575": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 1600,
+    "title": "President Allendelaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/president-allendelaan/room-2421575"
+  },
+  "kamernet:2421582": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 650,
+    "title": "Elzenhagensingel, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/elzenhagensingel/room-2421582"
+  },
+  "kamernet:2421586": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 1400,
+    "title": "Jeltje de Bosch Kemperpad, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/jeltje-de-bosch-kemperpad/room-2421586"
+  },
+  "kamernet:2421589": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 1600,
+    "title": "President Kennedylaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/president-kennedylaan/room-2421589"
+  },
+  "kamernet:2421593": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 1150,
+    "title": "Postjesweg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/postjesweg/room-2421593"
+  },
+  "kamernet:2421595": {
+    "city": "Soest",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Valeriaanstraat, Soest",
+    "url": "https://kamernet.nl/en/for-rent/room-soest/valeriaanstraat/room-2421595"
+  },
+  "kamernet:2421597": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Comeniusstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/comeniusstraat/room-2421597"
+  },
+  "kamernet:2421601": {
+    "city": "Diemen",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 700,
+    "title": "Rietzangerweg, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/rietzangerweg/room-2421601"
+  },
+  "kamernet:2421608": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 795,
+    "title": "Lange Jufferstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/lange-jufferstraat/room-2421608"
+  },
+  "kamernet:2421615": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Sam van Houtenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/sam-van-houtenstraat/room-2421615"
+  },
+  "kamernet:2421625": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Van Lieflandlaan, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/van-lieflandlaan/room-2421625"
+  },
+  "kamernet:2421630": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 935,
+    "title": "Albatrosstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/albatrosstraat/room-2421630"
+  },
+  "kamernet:2421631": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 1100,
+    "title": "Paramaribostraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/paramaribostraat/room-2421631"
+  },
+  "kamernet:2421634": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T18:24:07+00:00",
+    "notified": false,
+    "price": 800,
+    "title": "Grote Ruwenberg, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/grote-ruwenberg/room-2421634"
   }
 }
