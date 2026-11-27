@@ -18022,5 +18022,13 @@
     "price": 999,
     "title": "Seringstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/seringstraat/room-2421427"
+  },
+  "kamernet:2421504": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-27T08:26:12+00:00",
+    "notified": false,
+    "price": 616,
+    "title": "Bilderdijkstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/bilderdijkstraat/room-2421504"
   }
 }
