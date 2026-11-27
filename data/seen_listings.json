@@ -463,6 +463,14 @@
     "title": "Eligenstraat, Utrecht",
     "url": "https://directwonen.nl/huurwoningen-huren/utrecht/eligenstraat/kamer-524508"
   },
+  "directwonen:524543": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-27T00:06:22+00:00",
+    "notified": true,
+    "price": 620,
+    "title": "Marshalllaan, Utrecht",
+    "url": "https://directwonen.nl/huurwoningen-huren/utrecht/marshalllaan/kamer-524543"
+  },
   "kamernet:1698558": {
     "city": "Hilversum",
     "first_seen": "2026-08-24T14:26:50+00:00",
@@ -17815,6 +17823,14 @@
     "title": "Tourniairestraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tourniairestraat/room-2421129"
   },
+  "kamernet:2421154": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T00:06:22+00:00",
+    "notified": false,
+    "price": 975,
+    "title": "Koningin Wilhelminaplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/koningin-wilhelminaplein/room-2421154"
+  },
   "kamernet:2421186": {
     "city": "Weesp",
     "first_seen": "2026-11-26T15:47:08+00:00",
@@ -17982,5 +17998,29 @@
     "price": 1300,
     "title": "Hasebroekstraat, Utrecht",
     "url": "https://kamernet.nl/en/for-rent/room-utrecht/hasebroekstraat/room-2421397"
+  },
+  "kamernet:2421416": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T00:06:22+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Steelvlietplein, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/steelvlietplein/room-2421416"
+  },
+  "kamernet:2421426": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-27T00:06:22+00:00",
+    "notified": false,
+    "price": 1000,
+    "title": "Tweede van Swindenstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/tweede-van-swindenstraat/room-2421426"
+  },
+  "kamernet:2421427": {
+    "city": "Utrecht",
+    "first_seen": "2026-11-27T00:06:22+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Seringstraat, Utrecht",
+    "url": "https://kamernet.nl/en/for-rent/room-utrecht/seringstraat/room-2421427"
   }
 }
