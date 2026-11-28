@@ -17007,6 +17007,14 @@
     "title": "Overschiestraat, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/overschiestraat/room-2420151"
   },
+  "kamernet:2420162": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-28T09:27:34+00:00",
+    "notified": false,
+    "price": 1350,
+    "title": "Strandeilandlaan, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/strandeilandlaan/room-2420162"
+  },
   "kamernet:2420181": {
     "city": "Utrecht",
     "first_seen": "2026-11-22T10:18:34+00:00",
@@ -18262,5 +18270,53 @@
     "price": 800,
     "title": "Grote Ruwenberg, Amsterdam",
     "url": "https://kamernet.nl/en/for-rent/room-amsterdam/grote-ruwenberg/room-2421634"
+  },
+  "kamernet:2421648": {
+    "city": "Amstelveen",
+    "first_seen": "2026-11-28T09:27:34+00:00",
+    "notified": false,
+    "price": 750,
+    "title": "Oostelijk Halfrond, Amstelveen",
+    "url": "https://kamernet.nl/en/for-rent/room-amstelveen/oostelijk-halfrond/room-2421648"
+  },
+  "kamernet:2421649": {
+    "city": "Diemen",
+    "first_seen": "2026-11-28T09:27:34+00:00",
+    "notified": false,
+    "price": 1289,
+    "title": "Jan Bertsstraat, Diemen",
+    "url": "https://kamernet.nl/en/for-rent/room-diemen/jan-bertsstraat/room-2421649"
+  },
+  "kamernet:2421655": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-28T09:27:34+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Camperstraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/camperstraat/room-2421655"
+  },
+  "kamernet:2421678": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-28T09:27:34+00:00",
+    "notified": false,
+    "price": 995,
+    "title": "Bijlmerdreef, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/bijlmerdreef/room-2421678"
+  },
+  "kamernet:2421702": {
+    "city": "Amsterdam",
+    "first_seen": "2026-11-28T09:27:34+00:00",
+    "notified": false,
+    "price": 999,
+    "title": "Erik de Roodestraat, Amsterdam",
+    "url": "https://kamernet.nl/en/for-rent/room-amsterdam/erik-de-roodestraat/room-2421702"
+  },
+  "kamernet:2421709": {
+    "city": "Wormer",
+    "first_seen": "2026-11-28T09:27:34+00:00",
+    "notified": false,
+    "price": 950,
+    "title": "Veerdijk, Wormer",
+    "url": "https://kamernet.nl/en/for-rent/room-wormer/veerdijk/room-2421709"
   }
 }
